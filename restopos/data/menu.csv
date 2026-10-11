@@ -1,0 +1,25 @@
+id,name,category,price,cost,status,image,description
+1,Classic Margherita,Pizza,229,90,Active,item-1.jpg,"Fresh mozzarella, ripe tomatoes and basil on a thin crust."
+2,Pepperoni Supreme,Pizza,289,120,Active,item-2.jpg,Loaded with crispy pepperoni slices and gooey cheese.
+3,Veggie Pizza,Pizza,249,95,Active,item-3.jpg,"Capsicum, olives, onion and sweet corn with mozzarella."
+4,Spicy Buffalo Blaze,Pizza,299,125,Active,item-4.jpg,"Zesty buffalo sauce, jalapeños and creamy ranch."
+5,Classic Burger,Burgers,189,70,Active,item-5.jpg,"Juicy patty, lettuce, tomato and house sauce."
+6,Cheese Burger,Burgers,209,78,Active,item-6.jpg,Double cheddar melt over a grilled patty.
+7,Crispy Chicken Burger,Burgers,219,85,Active,item-7.jpg,Buttermilk fried chicken with slaw and mayo.
+8,Paneer Burger,Burgers,199,72,Active,item-8.jpg,Spiced paneer patty with mint chutney.
+9,Creamy Pasta,Pasta & Mains,209,75,Active,item-9.jpg,Penne in a rich white sauce with herbs.
+10,Arrabbiata Pasta,Pasta & Mains,199,70,Active,item-10.jpg,Spicy tomato sauce with garlic and chilli.
+11,Veg Fried Rice,Pasta & Mains,169,55,Active,item-11.jpg,Wok-tossed rice with seasonal vegetables.
+12,Butter Chicken Bowl,Pasta & Mains,279,110,Active,item-12.jpg,Tender chicken in buttery tomato gravy with rice.
+13,Cappuccino,Hot drinks,129,35,Active,item-13.jpg,Espresso with steamed milk and thick foam.
+14,Masala Chai,Hot drinks,59,14,Active,item-14.jpg,Strong tea brewed with ginger and cardamom.
+15,Hot Chocolate,Hot drinks,149,45,Active,item-15.jpg,Dark chocolate melted into creamy milk.
+16,Filter Coffee,Hot drinks,79,20,Active,item-16.jpg,South Indian decoction coffee with frothy milk.
+17,Iced Lemon Tea,Cold drinks,99,25,Active,item-17.jpg,"Black tea, lemon and mint over ice."
+18,Cold Coffee,Cold drinks,139,40,Active,item-18.jpg,Blended coffee with ice cream and milk.
+19,Mango Shake,Cold drinks,129,38,Active,item-19.jpg,Alphonso mango blended with chilled milk.
+20,Fresh Lime Soda,Cold drinks,69,16,Active,item-20.jpg,"Sweet, salted or mixed, served fizzy."
+21,Chocolate Brownie,Dessert,129,42,Active,item-21.jpg,Warm fudge brownie with vanilla ice cream.
+22,Cheesecake Slice,Dessert,169,60,Active,item-22.jpg,Baked New York style with berry compote.
+23,Gulab Jamun,Dessert,89,24,Active,item-23.jpg,Two soft milk dumplings in cardamom syrup.
+24,Vanilla Sundae,Dessert,119,34,Active,item-24.jpg,Vanilla scoops with chocolate sauce and nuts.

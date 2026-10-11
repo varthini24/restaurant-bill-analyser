@@ -1,0 +1,50 @@
+{% extends "base.html" %}{% block title %}Menu & Billing{% endblock %}{% block h1 %}Menu & Billing{% endblock %}{% block sub %}Pick items, build the bill and proceed{% endblock %}
+{% block topright %}<input class="search" id="q" placeholder="🔍  Search product by name or category"><a class="btn" href="{{ url_for('items') }}">＋ Add / Edit items</a>{% endblock %}
+{% block body %}
+<div class="pos"><section>
+ <div class="tabs" id="tabs">{% for c in cats %}<button class="tab {{ 'on' if loop.first }}" data-c="{{c}}"><i>{{ EMOJI[c] }}</i>{{c}}</button>{% endfor %}</div>
+ <div class="grid" id="grid">
+ {% for it in items %}<article class="pcard" data-c="{{it.category}}" data-n="{{it.name|lower}}">
+  <img loading="lazy" src="{{ image_url(it.image) }}" alt="{{it.name}}"><h4>{{it.name}}</h4><p>{{it.description}}</p>
+  <div class="row"><span class="price">₹{{ '%.0f'|format(it.price) }}</span><button class="cartbtn" title="Add to bill" onclick='add({{ it.id }})'>🛒</button></div></article>{% endfor %}
+ </div></section>
+ <aside class="cart">
+  <div class="seg" id="otype"><button class="on">Take away</button><button>Dine in</button><button>Delivery</button></div>
+  <h3>Items <a onclick="clearAll()">🗑 Clear All</a></h3>
+  <div class="lines" id="lines"></div>
+  <div class="sum">
+   <div><span>Subtotal</span><span id="sub">₹0.00</span></div>
+   <div><span>Tax (5%)</span><span id="tax">₹0.00</span></div>
+   <div><span>Discount %</span><input id="disc" type="number" min="0" max="100" value="0"></div>
+   <div><span>Payment</span><select id="pay"><option>UPI</option><option>Card</option><option>Cash</option><option>Wallet</option></select></div>
+   <div><span>Guests</span><input id="party" type="number" min="1" max="20" value="1"></div>
+   <div class="tot"><span>Total</span><span id="tot">₹0.00</span></div></div>
+  <div style="display:grid;grid-template-columns:1fr 1.3fr;gap:10px"><button class="btn ghost" onclick="printReceipt()">🖨 Print Receipt</button><button class="btn" onclick="proceed()">✔ Proceed</button></div>
+ </aside></div>
+<div id="receipt"></div>
+{% endblock %}
+{% block scripts %}<script>
+const ITEMS={{ items|tojson }}, byId=Object.fromEntries(ITEMS.map(i=>[i.id,i]));
+const IMG=id=>{const f=byId[id].image;return document.querySelector(`.pcard img[alt="${byId[id].name}"]`).src};
+let cart={}, otype="Take away"; const $=s=>document.querySelector(s), inr=v=>"₹"+v.toLocaleString("en-IN",{minimumFractionDigits:2,maximumFractionDigits:2});
+function show(){const c=$("#tabs .on")?.dataset.c, q=$("#q").value.toLowerCase().trim();
+ document.querySelectorAll(".pcard").forEach(p=>p.style.display=(q?p.dataset.n.includes(q)||p.dataset.c.toLowerCase().includes(q):p.dataset.c===c)?"":"none")}
+$("#tabs").onclick=e=>{const b=e.target.closest(".tab");if(!b)return;document.querySelectorAll(".tab").forEach(t=>t.classList.remove("on"));b.classList.add("on");$("#q").value="";show()};
+$("#q").oninput=show; show();
+$("#otype").onclick=e=>{if(e.target.tagName!="BUTTON")return;document.querySelectorAll("#otype button").forEach(b=>b.classList.remove("on"));e.target.classList.add("on");otype=e.target.textContent};
+function add(id){cart[id]=(cart[id]||0)+1;draw()} function chg(id,d){cart[id]+=d;if(cart[id]<=0)delete cart[id];draw()} function clearAll(){cart={};draw()}
+function totals(){let s=0;for(const[id,q]of Object.entries(cart))s+=byId[id].price*q;const d=s*(+$("#disc").value||0)/100,t=(s-d)*.05;return{s,d,t,tot:s-d+t}}
+function draw(){const L=$("#lines");L.innerHTML=Object.keys(cart).length?"":'<div class="empty">No items yet.<br>Tap 🛒 on a product to add it.</div>';
+ for(const[id,q]of Object.entries(cart)){const it=byId[id];L.insertAdjacentHTML("beforeend",`<div class="line"><div class="t"><img src="${IMG(id)}"><div><b>${it.name}</b><small>${it.category}</small></div></div><div class="b"><span class="price" style="font-size:17px">${inr(it.price*q)}</span><div class="qty"><button onclick="chg(${id},-1)">−</button><span>${q}</span><button class="p" onclick="chg(${id},1)">+</button></div></div></div>`)}
+ const t=totals();$("#sub").textContent=inr(t.s);$("#tax").textContent=inr(t.t);$("#tot").textContent=inr(t.tot)}
+$("#disc").oninput=draw; draw();
+function toast(m,bad){const t=$("#toast");t.textContent=m;t.style.background=bad?"#3f1717":"#14351f";t.style.color=bad?"#fca5a5":"#86efac";t.style.display="block";setTimeout(()=>t.style.display="none",3200)}
+async function proceed(){if(!Object.keys(cart).length)return toast("Add at least one item first",1);
+ const r=await fetch("/api/bill",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({items:Object.entries(cart).map(([id,qty])=>({id:+id,qty})),order_type:otype,payment:$("#pay").value,discount_pct:+$("#disc").value||0,party_size:+$("#party").value||1})});
+ const j=await r.json(); if(!j.ok)return toast(j.error,1); toast(`Bill #${j.order_id} saved — total ${inr(j.total)}`); lastBill={...j,cart:{...cart}}; cart={};draw()}
+let lastBill=null;
+function printReceipt(){const src=lastBill?lastBill.cart:cart; if(!Object.keys(src).length)return toast("Nothing to print",1);
+ let s=0,rows="";for(const[id,q]of Object.entries(src)){s+=byId[id].price*q;rows+=`<tr><td>${byId[id].name} ×${q}</td><td style="text-align:right">${inr(byId[id].price*q)}</td></tr>`}
+ const d=s*(+$("#disc").value||0)/100,t=(s-d)*.05;
+ $("#receipt").innerHTML=`<h3 style="text-align:center">RestoPOS</h3><p style="text-align:center">${lastBill?"Bill #"+lastBill.order_id+" · "+lastBill.datetime:new Date().toLocaleString()}</p><table width="100%">${rows}<tr><td colspan=2><hr></td></tr><tr><td>Subtotal</td><td style="text-align:right">${inr(s)}</td></tr><tr><td>Discount</td><td style="text-align:right">-${inr(d)}</td></tr><tr><td>Tax 5%</td><td style="text-align:right">${inr(t)}</td></tr><tr><td><b>Total</b></td><td style="text-align:right"><b>${inr(s-d+t)}</b></td></tr></table><p style="text-align:center">Thank you!</p>`;window.print()}
+</script>{% endblock %}

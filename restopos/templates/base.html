@@ -1,0 +1,13 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{% block title %}RestoPOS{% endblock %}</title><link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"></head><body>
+<div class="shell">
+<nav class="side"><div class="logo">🍽️</div>
+{% for ep,ic,lb in [('dashboard','▦','Dashboard'),('menu','🍕','Menu & Billing'),('items','🧾','Manage Items'),('bills','📋','Bills'),('sales','📈','Sales'),('analysis','🔬','Analysis'),('export','⬇','Export Reports')] %}
+<a href="{{ url_for(ep) }}" class="{{ 'on' if nav==ep }}">{{ ic }}<span>{{ lb }}</span></a>{% endfor %}
+<div class="sp"></div></nav>
+<main>
+<div class="top"><div class="who"><div class="av">👩‍🍳</div><div><h1>{% block h1 %}{% endblock %}</h1><small>{% block sub %}{% endblock %}</small></div></div>{% block topright %}{% endblock %}</div>
+{% with m = get_flashed_messages(with_categories=true) %}{% for c,t in m %}<div class="flash {{c}}">{{t}}</div>{% endfor %}{% endwith %}
+{% block body %}{% endblock %}</main></div>
+<div class="toast" id="toast"></div>
+{% block scripts %}{% endblock %}</body></html>

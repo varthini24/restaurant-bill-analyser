@@ -1,0 +1,28 @@
+{% extends "base.html" %}{% block title %}Manage Items{% endblock %}{% block h1 %}Manage Items{% endblock %}{% block sub %}Add menu items with a photo, price, category and status{% endblock %}
+{% block body %}
+<div class="items">
+ <form class="white" method="post" action="{{ url_for('items_add') }}" enctype="multipart/form-data">
+  <h3 style="margin:0 0 12px">Add item</h3>
+  <div class="drop" id="drop"><div>⬆<br><b>Upload Image</b><br><small>PNG / JPG / WEBP — optional (a clean illustration is generated if skipped)</small></div><input type="file" name="image" accept="image/*" id="file"></div>
+  <label class="lab">Item name</label><input name="name" required placeholder="e.g. Paneer Tikka Pizza">
+  <label class="lab">Price (₹)</label><input name="price" type="number" step="0.01" min="1" required placeholder="249">
+  <label class="lab">Description</label><input name="description" placeholder="Short description">
+  <label class="lab">Category</label><select name="category">{% for c in CATEGORIES %}<option>{{c}}</option>{% endfor %}</select>
+  <label class="lab">Status</label><select name="status"><option>Active</option><option>Inactive</option></select>
+  <button class="green">Add item</button></form>
+ <section class="white"><div style="display:flex;justify-content:space-between;align-items:center"><h3 style="margin:0">Menu items ({{ items|length }})</h3><input id="f" placeholder="Filter…" style="max-width:200px"></div>
+  {% for it in items %}<div class="irow" data-n="{{ it.name|lower }} {{ it.category|lower }}"><img src="{{ image_url(it.image) }}" alt="{{it.name}}"><div><b>{{it.name}}</b><small>₹{{ '%.0f'|format(it.price) }} · {{it.category}}</small></div>
+   <form method="post" action="{{ url_for('items_toggle', i=it.id) }}"><button class="pill {{ '' if it.status=='Active' else 'off' }}" style="border:0;cursor:pointer" title="Click to toggle">{{it.status}}</button></form>
+   <button class="edit" onclick='openEdit({{ it|tojson }})'>Edit</button></div>{% endfor %}</section></div>
+<dialog id="dlg"><form method="post" enctype="multipart/form-data" id="ef" class="white" style="padding:0"><h3 style="margin:0 0 6px">Edit item</h3>
+ <label class="lab">Replace image</label><input type="file" name="image" accept="image/*"><label class="lab">Name</label><input name="name" id="en"><label class="lab">Price (₹)</label><input name="price" id="ep" type="number" step="0.01" min="1">
+ <label class="lab">Description</label><input name="description" id="ed"><label class="lab">Category</label><select name="category" id="ec">{% for c in CATEGORIES %}<option>{{c}}</option>{% endfor %}</select>
+ <label class="lab">Status</label><select name="status" id="es"><option>Active</option><option>Inactive</option></select>
+ <div style="display:flex;gap:10px;margin-top:16px"><button class="green" style="margin:0">Save</button><button type="button" class="green" style="margin:0;background:#94a3b8" onclick="dlg.close()">Cancel</button></div></form></dialog>
+{% endblock %}
+{% block scripts %}<script>
+const dlg=document.getElementById("dlg");
+function openEdit(it){document.getElementById("ef").action="/items/"+it.id+"/edit";en.value=it.name;ep.value=it.price;ed.value=it.description||"";ec.value=it.category;es.value=it.status;dlg.showModal()}
+document.getElementById("file").onchange=e=>{const f=e.target.files[0];if(!f)return;const d=document.getElementById("drop");d.querySelector("img")?.remove();const i=document.createElement("img");i.src=URL.createObjectURL(f);d.appendChild(i)};
+document.getElementById("f").oninput=e=>document.querySelectorAll(".irow").forEach(r=>r.style.display=r.dataset.n.includes(e.target.value.toLowerCase())?"":"none");
+</script>{% endblock %}

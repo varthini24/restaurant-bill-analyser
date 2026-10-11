@@ -1,0 +1,8 @@
+{% extends "base.html" %}{% block title %}Export Reports{% endblock %}{% block h1 %}Export Reports{% endblock %}{% block sub %}Download CSV files or the full PDF report{% endblock %}
+{% block body %}
+<div class="panel" style="margin-bottom:16px"><h3>Date range</h3><form class="filters" method="get"><div><label>From</label><input type="date" name="start" value="{{s}}" min="{{lo}}" max="{{hi}}"></div><div><label>To</label><input type="date" name="end" value="{{e}}" min="{{lo}}" max="{{hi}}"></div><button class="btn">Apply</button><a class="btn ghost" href="{{ url_for('export') }}">Reset</a><span style="color:var(--mut);font-size:13px">{{ '{:,}'.format(n) }} orders selected ({{lo}} → {{hi}})</span></form></div>
+<div class="exp">
+ <div class="panel" style="border:1px solid var(--or)"><h3>📄 Full PDF report</h3><p>Summary, statistics, missing-data check, three regression models, diagnostics and all 14 figures.</p><a class="btn" href="{{ url_for('download_pdf', start=s, end=e) }}">Download PDF</a></div>
+ {% for k,t,dsc in [('orders','Orders','One row per bill with totals, tax, tips, prep time, rating'),('items','Item sales','Units and revenue per menu item'),('daily','Daily sales','Orders, net sales, cost, profit and rating per day'),('payments','Payment summary','Transactions, amount, tips by payment type'),('categories','Categories','Revenue and units by menu category'),('hourly','Time of day','Orders and net sales by hour')] %}
+ <div class="panel"><h3>📊 {{t}} (CSV)</h3><p>{{dsc}}</p><a class="btn ghost" href="{{ url_for('download_csv', kind=k, start=s, end=e) }}">Download CSV</a></div>{% endfor %}</div>
+{% endblock %}

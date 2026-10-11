@@ -1,0 +1,23 @@
+{% extends "base.html" %}{% block title %}Sales Dashboard{% endblock %}{% block h1 %}Sales Dashboard{% endblock %}{% block sub %}Last 7 days ending {{ end.strftime('%d %b %Y') }} · {{ '{:,}'.format(orders_n) }} orders analysed{% endblock %}
+{% block topright %}<a class="btn ghost" href="{{ url_for('sales') }}">Detailed sales →</a><a class="btn" href="{{ url_for('export') }}">⬇ Export</a>{% endblock %}
+{% block body %}
+<div class="cols c3" style="align-items:start">
+ <div style="display:flex;flex-direction:column;gap:16px">
+  <div class="hero"><div class="art">{{ EMOJI[top_cat] }}</div><div class="in"><h2>Lumière &amp; Vine</h2><small>HSR Layout, Bengaluru</small>
+   <div class="insight">✦ Busiest time this week was <b>{{ busiest }}</b>, with orders <b>{{ '%+.0f'|format(slot_change) }}%</b> vs last week</div></div></div>
+  <div class="panel"><h3>Recent Transactions</h3>
+   <div class="chips" id="tchips"><button class="on" data-t="">All</button><button data-t="Dine in">Dine In</button><button data-t="Take away">Take Out</button><button data-t="Delivery">Delivery</button></div>
+   {% for r in recent.itertuples() %}<div class="tx" data-t="{{r.order_type}}"><div><b>Bill No. #{{r.order_id}}</b><small>{{r.order_type}} · {{ r.datetime.strftime('%d %b, %I:%M %p') }}</small></div><span class="a">{{ r.total|inr(0) }}</span></div>{% endfor %}</div></div>
+ <div style="display:flex;flex-direction:column;gap:16px">
+  <div class="panel kpi" style="position:relative;overflow:hidden"><div class="lab">Total Revenue (7 days)</div><div class="val">{{ rev|inr }}</div><div class="lab">Avg weekly sales {{ avg_week|inr }}</div>
+   <span class="badge {{ 'neg' if rev_pct<0 }}" style="position:absolute;right:20px;top:20px">{{ '%+.0f'|format(rev_pct) }}%</span><img class="chart" style="margin-top:6px" src="data:image/png;base64,{{ charts.spark }}"></div>
+  <div class="panel kpi"><div class="lab">Profitability <small>(revenue − item cost)</small></div><div class="val">{{ profit|inr }}</div><div class="lab">Avg weekly profit {{ avg_profit|inr }}</div><img class="chart" style="margin-top:8px" src="data:image/png;base64,{{ charts.profit }}"></div>
+  <div class="panel"><h3 style="font-weight:400;color:var(--mut);font-size:19px"><b style="color:var(--tx)">{{ '%.0f'|format(good) }}%</b> of rated orders scored <span style="color:var(--gr)">4 stars or higher</span></h3><div class="progress"><i style="width:{{ good }}%"></i></div></div></div>
+ <div style="display:flex;flex-direction:column;gap:16px">
+  <div class="panel"><h3>Menu Highlights · top sellers</h3><img class="chart" src="data:image/png;base64,{{ charts.top_items }}"></div>
+  <div class="panel" style="border:1px solid #1f4d36;background:linear-gradient(160deg,#122a20,#1c1c1c)"><h3>✦ Insights</h3>
+   <div style="display:flex;gap:14px;align-items:center"><img src="{{ image_url(best_img) }}" style="width:90px;height:70px;border-radius:12px;object-fit:cover"><div><b>{{ best_name }}</b><div style="color:var(--mut);font-size:13px;margin-top:4px">{{ '%+.0f'|format(best_growth) }}% units week-on-week — feature it or bundle it to boost sales.</div></div></div>
+   <div class="sug" style="height:120px"><div class="bar" style="height:{{ (best_last/ ([best_this,best_last]|max or 1) *100)|int }}%;background:#2f3a35">{{best_last}}</div><div class="bar" style="height:100%;background:linear-gradient(#a3d977,#6aa84f);color:#10240f">{{best_this}}</div></div>
+   <div style="display:flex;gap:20px;color:var(--mut);font-size:12px"><span style="flex:1;text-align:center">Last week</span><span style="flex:1;text-align:center">This week</span></div></div></div>
+</div>{% endblock %}
+{% block scripts %}<script>document.getElementById("tchips").onclick=e=>{const b=e.target.closest("button");if(!b)return;document.querySelectorAll("#tchips button").forEach(x=>x.classList.remove("on"));b.classList.add("on");document.querySelectorAll(".tx").forEach(r=>r.style.display=(!b.dataset.t||r.dataset.t==b.dataset.t)?"":"none")}</script>{% endblock %}

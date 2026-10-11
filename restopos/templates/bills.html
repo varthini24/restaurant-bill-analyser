@@ -1,0 +1,19 @@
+{% extends "base.html" %}{% block title %}Bills{% endblock %}{% block h1 %}Bills{% endblock %}{% block sub %}Add a bill manually and review recent bills{% endblock %}
+{% block body %}
+<div class="cols c2" style="grid-template-columns:420px 1fr;align-items:start">
+ <form class="panel" method="post" action="{{ url_for('bills_add') }}"><h3>➕ Add bill</h3>
+  <div id="rows"></div><button type="button" class="btn ghost sm" onclick="addRow()">＋ Add another item</button>
+  <div class="cols c2" style="margin-top:14px;gap:10px"><div><label class="lab">Order type</label><select name="order_type" style="width:100%"><option>Dine in</option><option>Take away</option><option>Delivery</option></select></div>
+   <div><label class="lab">Payment</label><select name="payment" style="width:100%"><option>UPI</option><option>Card</option><option>Cash</option><option>Wallet</option></select></div>
+   <div><label class="lab">Date & time</label><input type="datetime-local" name="when" value="{{ now }}" style="width:100%"></div>
+   <div><label class="lab">Guests</label><input type="number" name="party_size" min="1" value="1" style="width:100%"></div>
+   <div><label class="lab">Discount %</label><input type="number" name="discount_pct" min="0" max="100" value="0" style="width:100%"></div>
+   <div><label class="lab">Tip (₹)</label><input type="number" name="tip" min="0" value="0" style="width:100%"></div></div>
+  <button class="btn" style="width:100%;margin-top:16px;justify-content:center">Save bill</button>
+  <p style="color:var(--mut);font-size:12.5px">Tax (5%) is added automatically. Prep time and rating stay blank for new bills — the analysis imputes them (median) as real missing data.</p></form>
+ <section class="panel"><h3>Recent bills</h3><div class="scroll"><table><tr><th>Bill</th><th>Date</th><th>Type</th><th>Items</th><th>Pay</th><th class="r">Total</th></tr>
+  {% for r in recent.itertuples() %}<tr><td>#{{r.order_id}}</td><td>{{ r.datetime.strftime('%d %b %H:%M') }}</td><td>{{r.order_type}}</td><td style="max-width:300px;font-size:12px;color:var(--mut)">{{ lines.get(r.order_id,'') }}</td><td>{{r.payment}}</td><td class="r" style="color:var(--gr)">{{ r.total|inr(2) }}</td></tr>{% endfor %}</table></div></section></div>
+<template id="tpl"><div style="display:grid;grid-template-columns:1fr 80px;gap:8px;margin-bottom:8px"><select name="item_id" style="width:100%">{% for m in menu %}<option value="{{m.id}}">{{m.name}} — ₹{{ '%.0f'|format(m.price) }}</option>{% endfor %}</select><input type="number" name="qty" min="1" value="1"></div></template>
+<style>.lab{font-size:12px;color:var(--mut);display:block;margin-bottom:4px}</style>
+{% endblock %}
+{% block scripts %}<script>function addRow(){document.getElementById("rows").appendChild(document.getElementById("tpl").content.cloneNode(true))}addRow();</script>{% endblock %}

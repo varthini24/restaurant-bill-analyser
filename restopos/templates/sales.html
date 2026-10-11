@@ -1,0 +1,16 @@
+{% extends "base.html" %}{% block title %}Sales{% endblock %}{% block h1 %}Sales Reports{% endblock %}{% block sub %}This week vs last week{% endblock %}
+{% block topright %}<a class="btn" href="{{ url_for('export') }}">⬇ Download reports</a>{% endblock %}
+{% block body %}
+{% macro leg() %}<div class="leg"><span><i style="background:#38bdc9"></i>{{L1}}</span><span><i style="background:#ff8a00"></i>{{L2}}</span></div>{% endmacro %}
+<div class="cols" style="grid-template-columns:1.6fr 1fr;margin-bottom:16px">
+ <div class="lt"><div class="hd"><h3>Net Sales by Time of Day</h3><a class="dl" href="{{ url_for('download_csv', kind='hourly') }}" title="Download CSV">⬇</a></div>{{ leg() }}<img class="chart" src="{{ url_for('chart', name='time_of_day') }}"></div>
+ <div class="lt"><div class="hd"><h3>Net Sales by Day of Week</h3><a class="dl" href="{{ url_for('download_csv', kind='daily') }}" title="Download CSV">⬇</a></div>{{ leg() }}<img class="chart" src="{{ url_for('chart', name='day_of_week') }}"></div></div>
+<div class="cols" style="grid-template-columns:1.4fr 1fr;align-items:start">
+ <div class="lt"><div class="hd"><h3>Payment Summary</h3><a class="dl" href="{{ url_for('download_csv', kind='payments') }}" title="Download CSV">⬇</a></div>
+  <table><tr><th>Type</th><th class="r">Transactions</th><th class="r">Amount</th><th class="r">Non-cash tips</th><th class="r">Total</th></tr>
+  {% for t,r in pay.iterrows() %}<tr><td>{{t}}</td><td class="r">{{ '{:,}'.format(r.tx|int) }}</td><td class="r">{{ r.amount|inr(2) }}</td><td class="r">{{ r.tips|inr(2) }}</td><td class="r">{{ r.total|inr(2) }}</td></tr>{% endfor %}
+  <tr style="font-weight:700"><td>All</td><td class="r">{{ '{:,}'.format(tot_tx) }}</td><td class="r">{{ tot_amt|inr(2) }}</td><td class="r">{{ tot_tips|inr(2) }}</td><td class="r">{{ tot|inr(2) }}</td></tr></table></div>
+ <div class="lt" style="padding:0;overflow:hidden"><div class="hd" style="padding:20px 20px 10px"><h3>Top 5 Sales Categories</h3><a class="dl" href="{{ url_for('download_csv', kind='categories') }}" title="Download CSV">⬇</a></div>
+  <div class="top5"><div>{% for n,v in cat_this %}<div><em style="background:#38bdc9">{{loop.index}}</em><b>{{n}}</b><small>{{ v|inr(2) }}</small></div>{% endfor %}</div>
+  <div style="border-left:1px solid #eef0f3">{% for n,v in cat_last %}<div><em style="background:#ff8a00">{{loop.index}}</em><b>{{n}}</b><small>{{ v|inr(2) }}</small></div>{% endfor %}</div></div></div></div>
+{% endblock %}

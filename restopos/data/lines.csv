@@ -1,0 +1,3702 @@
+order_id,item_id,item_name,category,qty,price
+1001,3,Veggie Pizza,Pizza,1,249.0
+1001,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1001,13,Cappuccino,Hot drinks,1,129.0
+1001,16,Filter Coffee,Hot drinks,1,79.0
+1002,2,Pepperoni Supreme,Pizza,1,289.0
+1002,6,Cheese Burger,Burgers,1,209.0
+1002,22,Cheesecake Slice,Dessert,1,169.0
+1003,1,Classic Margherita,Pizza,1,229.0
+1004,7,Crispy Chicken Burger,Burgers,1,219.0
+1004,9,Creamy Pasta,Pasta & Mains,1,209.0
+1004,14,Masala Chai,Hot drinks,1,59.0
+1005,19,Mango Shake,Cold drinks,1,129.0
+1005,24,Vanilla Sundae,Dessert,1,119.0
+1006,5,Classic Burger,Burgers,1,189.0
+1006,18,Cold Coffee,Cold drinks,1,139.0
+1006,22,Cheesecake Slice,Dessert,1,169.0
+1007,3,Veggie Pizza,Pizza,1,249.0
+1007,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1007,8,Paneer Burger,Burgers,1,199.0
+1008,19,Mango Shake,Cold drinks,1,129.0
+1009,1,Classic Margherita,Pizza,1,229.0
+1009,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1009,20,Fresh Lime Soda,Cold drinks,1,69.0
+1010,3,Veggie Pizza,Pizza,1,249.0
+1010,6,Cheese Burger,Burgers,1,209.0
+1010,19,Mango Shake,Cold drinks,1,129.0
+1010,23,Gulab Jamun,Dessert,1,89.0
+1011,6,Cheese Burger,Burgers,1,209.0
+1011,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1012,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1012,23,Gulab Jamun,Dessert,1,89.0
+1013,6,Cheese Burger,Burgers,1,209.0
+1013,23,Gulab Jamun,Dessert,1,89.0
+1014,1,Classic Margherita,Pizza,1,229.0
+1014,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1014,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1014,24,Vanilla Sundae,Dessert,1,119.0
+1015,19,Mango Shake,Cold drinks,1,129.0
+1016,1,Classic Margherita,Pizza,1,229.0
+1016,7,Crispy Chicken Burger,Burgers,1,219.0
+1016,23,Gulab Jamun,Dessert,1,89.0
+1017,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1017,19,Mango Shake,Cold drinks,2,129.0
+1017,23,Gulab Jamun,Dessert,1,89.0
+1018,9,Creamy Pasta,Pasta & Mains,1,209.0
+1018,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1019,2,Pepperoni Supreme,Pizza,1,289.0
+1019,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1019,8,Paneer Burger,Burgers,1,199.0
+1019,14,Masala Chai,Hot drinks,1,59.0
+1019,20,Fresh Lime Soda,Cold drinks,1,69.0
+1020,2,Pepperoni Supreme,Pizza,1,289.0
+1020,5,Classic Burger,Burgers,1,189.0
+1021,2,Pepperoni Supreme,Pizza,1,289.0
+1021,9,Creamy Pasta,Pasta & Mains,1,209.0
+1021,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1021,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1021,13,Cappuccino,Hot drinks,1,129.0
+1022,19,Mango Shake,Cold drinks,1,129.0
+1022,24,Vanilla Sundae,Dessert,1,119.0
+1023,9,Creamy Pasta,Pasta & Mains,1,209.0
+1024,7,Crispy Chicken Burger,Burgers,1,219.0
+1024,8,Paneer Burger,Burgers,1,199.0
+1024,9,Creamy Pasta,Pasta & Mains,1,209.0
+1024,16,Filter Coffee,Hot drinks,1,79.0
+1025,7,Crispy Chicken Burger,Burgers,1,219.0
+1025,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1025,15,Hot Chocolate,Hot drinks,1,149.0
+1026,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1026,14,Masala Chai,Hot drinks,1,59.0
+1026,19,Mango Shake,Cold drinks,2,129.0
+1026,23,Gulab Jamun,Dessert,1,89.0
+1026,24,Vanilla Sundae,Dessert,1,119.0
+1027,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1027,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1027,19,Mango Shake,Cold drinks,2,129.0
+1028,8,Paneer Burger,Burgers,1,199.0
+1028,16,Filter Coffee,Hot drinks,1,79.0
+1028,19,Mango Shake,Cold drinks,1,129.0
+1029,9,Creamy Pasta,Pasta & Mains,1,209.0
+1029,13,Cappuccino,Hot drinks,1,129.0
+1029,17,Iced Lemon Tea,Cold drinks,1,99.0
+1029,19,Mango Shake,Cold drinks,1,129.0
+1029,23,Gulab Jamun,Dessert,1,89.0
+1030,3,Veggie Pizza,Pizza,1,249.0
+1030,14,Masala Chai,Hot drinks,1,59.0
+1031,3,Veggie Pizza,Pizza,1,249.0
+1031,19,Mango Shake,Cold drinks,1,129.0
+1031,22,Cheesecake Slice,Dessert,1,169.0
+1031,24,Vanilla Sundae,Dessert,1,119.0
+1032,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1032,6,Cheese Burger,Burgers,1,209.0
+1033,2,Pepperoni Supreme,Pizza,1,289.0
+1033,6,Cheese Burger,Burgers,1,209.0
+1033,21,Chocolate Brownie,Dessert,1,129.0
+1034,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1034,14,Masala Chai,Hot drinks,1,59.0
+1034,17,Iced Lemon Tea,Cold drinks,1,99.0
+1034,21,Chocolate Brownie,Dessert,1,129.0
+1035,2,Pepperoni Supreme,Pizza,1,289.0
+1035,5,Classic Burger,Burgers,2,189.0
+1035,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1035,24,Vanilla Sundae,Dessert,1,119.0
+1036,9,Creamy Pasta,Pasta & Mains,1,209.0
+1036,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1036,15,Hot Chocolate,Hot drinks,1,149.0
+1037,15,Hot Chocolate,Hot drinks,2,149.0
+1038,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1038,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1038,19,Mango Shake,Cold drinks,1,129.0
+1038,22,Cheesecake Slice,Dessert,1,169.0
+1038,23,Gulab Jamun,Dessert,1,89.0
+1039,1,Classic Margherita,Pizza,1,229.0
+1039,18,Cold Coffee,Cold drinks,1,139.0
+1039,20,Fresh Lime Soda,Cold drinks,1,69.0
+1039,22,Cheesecake Slice,Dessert,1,169.0
+1040,8,Paneer Burger,Burgers,1,199.0
+1040,16,Filter Coffee,Hot drinks,1,79.0
+1041,13,Cappuccino,Hot drinks,1,129.0
+1041,21,Chocolate Brownie,Dessert,1,129.0
+1041,24,Vanilla Sundae,Dessert,2,119.0
+1042,2,Pepperoni Supreme,Pizza,1,289.0
+1042,6,Cheese Burger,Burgers,1,209.0
+1042,7,Crispy Chicken Burger,Burgers,1,219.0
+1043,2,Pepperoni Supreme,Pizza,1,289.0
+1043,9,Creamy Pasta,Pasta & Mains,1,209.0
+1044,14,Masala Chai,Hot drinks,1,59.0
+1044,23,Gulab Jamun,Dessert,1,89.0
+1045,1,Classic Margherita,Pizza,1,229.0
+1045,7,Crispy Chicken Burger,Burgers,1,219.0
+1045,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1045,23,Gulab Jamun,Dessert,1,89.0
+1046,24,Vanilla Sundae,Dessert,1,119.0
+1047,7,Crispy Chicken Burger,Burgers,1,219.0
+1047,17,Iced Lemon Tea,Cold drinks,1,99.0
+1047,24,Vanilla Sundae,Dessert,1,119.0
+1048,2,Pepperoni Supreme,Pizza,1,289.0
+1048,9,Creamy Pasta,Pasta & Mains,1,209.0
+1048,13,Cappuccino,Hot drinks,1,129.0
+1048,19,Mango Shake,Cold drinks,2,129.0
+1048,20,Fresh Lime Soda,Cold drinks,1,69.0
+1048,23,Gulab Jamun,Dessert,1,89.0
+1048,24,Vanilla Sundae,Dessert,1,119.0
+1049,2,Pepperoni Supreme,Pizza,1,289.0
+1049,6,Cheese Burger,Burgers,1,209.0
+1049,14,Masala Chai,Hot drinks,1,59.0
+1050,6,Cheese Burger,Burgers,1,209.0
+1050,8,Paneer Burger,Burgers,1,199.0
+1050,22,Cheesecake Slice,Dessert,1,169.0
+1051,2,Pepperoni Supreme,Pizza,1,289.0
+1052,9,Creamy Pasta,Pasta & Mains,1,209.0
+1052,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1052,23,Gulab Jamun,Dessert,1,89.0
+1053,13,Cappuccino,Hot drinks,1,129.0
+1053,18,Cold Coffee,Cold drinks,1,139.0
+1054,6,Cheese Burger,Burgers,1,209.0
+1054,7,Crispy Chicken Burger,Burgers,1,219.0
+1054,15,Hot Chocolate,Hot drinks,1,149.0
+1055,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1055,16,Filter Coffee,Hot drinks,1,79.0
+1055,24,Vanilla Sundae,Dessert,1,119.0
+1056,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1056,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1057,9,Creamy Pasta,Pasta & Mains,1,209.0
+1058,1,Classic Margherita,Pizza,1,229.0
+1059,6,Cheese Burger,Burgers,1,209.0
+1059,16,Filter Coffee,Hot drinks,1,79.0
+1060,1,Classic Margherita,Pizza,2,229.0
+1060,5,Classic Burger,Burgers,1,189.0
+1061,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1061,6,Cheese Burger,Burgers,1,209.0
+1061,19,Mango Shake,Cold drinks,1,129.0
+1061,22,Cheesecake Slice,Dessert,1,169.0
+1062,1,Classic Margherita,Pizza,1,229.0
+1062,2,Pepperoni Supreme,Pizza,1,289.0
+1062,5,Classic Burger,Burgers,1,189.0
+1062,8,Paneer Burger,Burgers,2,199.0
+1062,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1063,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1063,16,Filter Coffee,Hot drinks,1,79.0
+1064,3,Veggie Pizza,Pizza,1,249.0
+1064,22,Cheesecake Slice,Dessert,1,169.0
+1064,23,Gulab Jamun,Dessert,1,89.0
+1065,6,Cheese Burger,Burgers,1,209.0
+1065,9,Creamy Pasta,Pasta & Mains,1,209.0
+1065,13,Cappuccino,Hot drinks,1,129.0
+1065,14,Masala Chai,Hot drinks,1,59.0
+1065,22,Cheesecake Slice,Dessert,1,169.0
+1066,2,Pepperoni Supreme,Pizza,1,289.0
+1066,9,Creamy Pasta,Pasta & Mains,1,209.0
+1066,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1066,19,Mango Shake,Cold drinks,1,129.0
+1067,5,Classic Burger,Burgers,1,189.0
+1067,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1068,3,Veggie Pizza,Pizza,1,249.0
+1068,13,Cappuccino,Hot drinks,1,129.0
+1069,8,Paneer Burger,Burgers,1,199.0
+1069,9,Creamy Pasta,Pasta & Mains,2,209.0
+1069,13,Cappuccino,Hot drinks,1,129.0
+1069,14,Masala Chai,Hot drinks,2,59.0
+1069,17,Iced Lemon Tea,Cold drinks,1,99.0
+1069,22,Cheesecake Slice,Dessert,1,169.0
+1070,24,Vanilla Sundae,Dessert,1,119.0
+1071,2,Pepperoni Supreme,Pizza,1,289.0
+1071,6,Cheese Burger,Burgers,1,209.0
+1071,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1071,24,Vanilla Sundae,Dessert,1,119.0
+1072,2,Pepperoni Supreme,Pizza,1,289.0
+1072,24,Vanilla Sundae,Dessert,2,119.0
+1073,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1073,6,Cheese Burger,Burgers,1,209.0
+1074,3,Veggie Pizza,Pizza,2,249.0
+1074,5,Classic Burger,Burgers,1,189.0
+1074,23,Gulab Jamun,Dessert,2,89.0
+1075,8,Paneer Burger,Burgers,1,199.0
+1075,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1075,22,Cheesecake Slice,Dessert,1,169.0
+1076,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1076,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1077,5,Classic Burger,Burgers,1,189.0
+1077,13,Cappuccino,Hot drinks,1,129.0
+1078,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1078,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1078,18,Cold Coffee,Cold drinks,1,139.0
+1078,20,Fresh Lime Soda,Cold drinks,1,69.0
+1078,24,Vanilla Sundae,Dessert,1,119.0
+1079,1,Classic Margherita,Pizza,1,229.0
+1079,2,Pepperoni Supreme,Pizza,1,289.0
+1079,7,Crispy Chicken Burger,Burgers,1,219.0
+1079,15,Hot Chocolate,Hot drinks,1,149.0
+1079,24,Vanilla Sundae,Dessert,1,119.0
+1080,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1080,14,Masala Chai,Hot drinks,1,59.0
+1080,16,Filter Coffee,Hot drinks,1,79.0
+1081,7,Crispy Chicken Burger,Burgers,1,219.0
+1081,9,Creamy Pasta,Pasta & Mains,2,209.0
+1081,16,Filter Coffee,Hot drinks,1,79.0
+1081,17,Iced Lemon Tea,Cold drinks,1,99.0
+1081,23,Gulab Jamun,Dessert,1,89.0
+1082,9,Creamy Pasta,Pasta & Mains,1,209.0
+1083,6,Cheese Burger,Burgers,1,209.0
+1083,16,Filter Coffee,Hot drinks,1,79.0
+1083,19,Mango Shake,Cold drinks,1,129.0
+1083,22,Cheesecake Slice,Dessert,1,169.0
+1084,24,Vanilla Sundae,Dessert,1,119.0
+1085,9,Creamy Pasta,Pasta & Mains,1,209.0
+1085,22,Cheesecake Slice,Dessert,1,169.0
+1086,6,Cheese Burger,Burgers,1,209.0
+1086,8,Paneer Burger,Burgers,1,199.0
+1086,15,Hot Chocolate,Hot drinks,1,149.0
+1087,6,Cheese Burger,Burgers,1,209.0
+1087,7,Crispy Chicken Burger,Burgers,1,219.0
+1087,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1087,15,Hot Chocolate,Hot drinks,1,149.0
+1088,1,Classic Margherita,Pizza,1,229.0
+1089,2,Pepperoni Supreme,Pizza,1,289.0
+1089,4,Spicy Buffalo Blaze,Pizza,2,299.0
+1089,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1089,14,Masala Chai,Hot drinks,1,59.0
+1089,23,Gulab Jamun,Dessert,1,89.0
+1089,24,Vanilla Sundae,Dessert,1,119.0
+1090,15,Hot Chocolate,Hot drinks,1,149.0
+1090,16,Filter Coffee,Hot drinks,1,79.0
+1091,2,Pepperoni Supreme,Pizza,1,289.0
+1091,8,Paneer Burger,Burgers,1,199.0
+1091,16,Filter Coffee,Hot drinks,1,79.0
+1091,19,Mango Shake,Cold drinks,1,129.0
+1091,21,Chocolate Brownie,Dessert,1,129.0
+1092,1,Classic Margherita,Pizza,1,229.0
+1092,2,Pepperoni Supreme,Pizza,2,289.0
+1092,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1092,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1092,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1093,2,Pepperoni Supreme,Pizza,1,289.0
+1093,20,Fresh Lime Soda,Cold drinks,1,69.0
+1094,5,Classic Burger,Burgers,2,189.0
+1094,9,Creamy Pasta,Pasta & Mains,1,209.0
+1094,18,Cold Coffee,Cold drinks,1,139.0
+1095,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1095,15,Hot Chocolate,Hot drinks,1,149.0
+1096,13,Cappuccino,Hot drinks,2,129.0
+1096,17,Iced Lemon Tea,Cold drinks,1,99.0
+1096,20,Fresh Lime Soda,Cold drinks,1,69.0
+1097,9,Creamy Pasta,Pasta & Mains,1,209.0
+1098,23,Gulab Jamun,Dessert,1,89.0
+1099,3,Veggie Pizza,Pizza,1,249.0
+1099,5,Classic Burger,Burgers,1,189.0
+1099,16,Filter Coffee,Hot drinks,1,79.0
+1100,5,Classic Burger,Burgers,1,189.0
+1100,14,Masala Chai,Hot drinks,1,59.0
+1100,22,Cheesecake Slice,Dessert,1,169.0
+1101,2,Pepperoni Supreme,Pizza,1,289.0
+1101,24,Vanilla Sundae,Dessert,1,119.0
+1102,3,Veggie Pizza,Pizza,1,249.0
+1102,9,Creamy Pasta,Pasta & Mains,2,209.0
+1102,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1102,13,Cappuccino,Hot drinks,1,129.0
+1102,24,Vanilla Sundae,Dessert,1,119.0
+1103,9,Creamy Pasta,Pasta & Mains,1,209.0
+1103,23,Gulab Jamun,Dessert,1,89.0
+1104,8,Paneer Burger,Burgers,1,199.0
+1105,6,Cheese Burger,Burgers,1,209.0
+1105,20,Fresh Lime Soda,Cold drinks,1,69.0
+1106,1,Classic Margherita,Pizza,3,229.0
+1106,13,Cappuccino,Hot drinks,1,129.0
+1106,16,Filter Coffee,Hot drinks,1,79.0
+1106,18,Cold Coffee,Cold drinks,1,139.0
+1107,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1107,19,Mango Shake,Cold drinks,1,129.0
+1108,3,Veggie Pizza,Pizza,1,249.0
+1108,9,Creamy Pasta,Pasta & Mains,1,209.0
+1108,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1108,19,Mango Shake,Cold drinks,1,129.0
+1109,7,Crispy Chicken Burger,Burgers,1,219.0
+1110,16,Filter Coffee,Hot drinks,1,79.0
+1111,9,Creamy Pasta,Pasta & Mains,1,209.0
+1111,19,Mango Shake,Cold drinks,1,129.0
+1111,24,Vanilla Sundae,Dessert,1,119.0
+1112,1,Classic Margherita,Pizza,1,229.0
+1112,16,Filter Coffee,Hot drinks,1,79.0
+1112,24,Vanilla Sundae,Dessert,1,119.0
+1113,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1113,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1113,13,Cappuccino,Hot drinks,1,129.0
+1113,23,Gulab Jamun,Dessert,1,89.0
+1114,3,Veggie Pizza,Pizza,1,249.0
+1114,19,Mango Shake,Cold drinks,1,129.0
+1114,21,Chocolate Brownie,Dessert,2,129.0
+1114,23,Gulab Jamun,Dessert,1,89.0
+1114,24,Vanilla Sundae,Dessert,1,119.0
+1115,2,Pepperoni Supreme,Pizza,1,289.0
+1115,9,Creamy Pasta,Pasta & Mains,1,209.0
+1116,2,Pepperoni Supreme,Pizza,2,289.0
+1116,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1116,5,Classic Burger,Burgers,1,189.0
+1116,6,Cheese Burger,Burgers,1,209.0
+1116,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1116,23,Gulab Jamun,Dessert,1,89.0
+1116,24,Vanilla Sundae,Dessert,1,119.0
+1117,24,Vanilla Sundae,Dessert,1,119.0
+1118,5,Classic Burger,Burgers,1,189.0
+1118,8,Paneer Burger,Burgers,1,199.0
+1118,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1118,15,Hot Chocolate,Hot drinks,1,149.0
+1118,16,Filter Coffee,Hot drinks,1,79.0
+1119,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1119,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1119,24,Vanilla Sundae,Dessert,1,119.0
+1120,2,Pepperoni Supreme,Pizza,1,289.0
+1120,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1120,23,Gulab Jamun,Dessert,1,89.0
+1121,9,Creamy Pasta,Pasta & Mains,1,209.0
+1121,16,Filter Coffee,Hot drinks,2,79.0
+1121,24,Vanilla Sundae,Dessert,1,119.0
+1122,5,Classic Burger,Burgers,1,189.0
+1122,7,Crispy Chicken Burger,Burgers,1,219.0
+1122,14,Masala Chai,Hot drinks,1,59.0
+1122,18,Cold Coffee,Cold drinks,1,139.0
+1122,23,Gulab Jamun,Dessert,1,89.0
+1123,9,Creamy Pasta,Pasta & Mains,1,209.0
+1124,2,Pepperoni Supreme,Pizza,1,289.0
+1125,6,Cheese Burger,Burgers,1,209.0
+1125,9,Creamy Pasta,Pasta & Mains,1,209.0
+1125,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1126,3,Veggie Pizza,Pizza,1,249.0
+1126,13,Cappuccino,Hot drinks,1,129.0
+1126,21,Chocolate Brownie,Dessert,1,129.0
+1127,8,Paneer Burger,Burgers,1,199.0
+1127,14,Masala Chai,Hot drinks,1,59.0
+1127,23,Gulab Jamun,Dessert,1,89.0
+1128,5,Classic Burger,Burgers,1,189.0
+1129,7,Crispy Chicken Burger,Burgers,1,219.0
+1130,9,Creamy Pasta,Pasta & Mains,1,209.0
+1130,21,Chocolate Brownie,Dessert,1,129.0
+1131,2,Pepperoni Supreme,Pizza,1,289.0
+1131,9,Creamy Pasta,Pasta & Mains,1,209.0
+1132,9,Creamy Pasta,Pasta & Mains,1,209.0
+1132,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1132,16,Filter Coffee,Hot drinks,1,79.0
+1132,23,Gulab Jamun,Dessert,1,89.0
+1132,24,Vanilla Sundae,Dessert,1,119.0
+1133,7,Crispy Chicken Burger,Burgers,2,219.0
+1133,19,Mango Shake,Cold drinks,2,129.0
+1133,23,Gulab Jamun,Dessert,1,89.0
+1134,5,Classic Burger,Burgers,1,189.0
+1134,15,Hot Chocolate,Hot drinks,1,149.0
+1134,19,Mango Shake,Cold drinks,1,129.0
+1135,3,Veggie Pizza,Pizza,1,249.0
+1135,17,Iced Lemon Tea,Cold drinks,1,99.0
+1135,19,Mango Shake,Cold drinks,1,129.0
+1135,23,Gulab Jamun,Dessert,1,89.0
+1136,3,Veggie Pizza,Pizza,1,249.0
+1136,6,Cheese Burger,Burgers,1,209.0
+1137,5,Classic Burger,Burgers,1,189.0
+1137,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1137,17,Iced Lemon Tea,Cold drinks,1,99.0
+1137,19,Mango Shake,Cold drinks,1,129.0
+1137,24,Vanilla Sundae,Dessert,1,119.0
+1138,7,Crispy Chicken Burger,Burgers,1,219.0
+1138,9,Creamy Pasta,Pasta & Mains,1,209.0
+1138,19,Mango Shake,Cold drinks,2,129.0
+1138,22,Cheesecake Slice,Dessert,1,169.0
+1138,24,Vanilla Sundae,Dessert,1,119.0
+1139,2,Pepperoni Supreme,Pizza,1,289.0
+1139,8,Paneer Burger,Burgers,1,199.0
+1139,22,Cheesecake Slice,Dessert,1,169.0
+1140,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1141,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1141,18,Cold Coffee,Cold drinks,1,139.0
+1142,8,Paneer Burger,Burgers,1,199.0
+1142,23,Gulab Jamun,Dessert,2,89.0
+1142,24,Vanilla Sundae,Dessert,1,119.0
+1143,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1143,14,Masala Chai,Hot drinks,1,59.0
+1143,15,Hot Chocolate,Hot drinks,1,149.0
+1143,19,Mango Shake,Cold drinks,1,129.0
+1143,22,Cheesecake Slice,Dessert,1,169.0
+1144,2,Pepperoni Supreme,Pizza,1,289.0
+1144,16,Filter Coffee,Hot drinks,1,79.0
+1144,19,Mango Shake,Cold drinks,1,129.0
+1144,22,Cheesecake Slice,Dessert,1,169.0
+1145,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1145,14,Masala Chai,Hot drinks,2,59.0
+1145,16,Filter Coffee,Hot drinks,3,79.0
+1146,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1146,19,Mango Shake,Cold drinks,1,129.0
+1147,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1147,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1147,23,Gulab Jamun,Dessert,1,89.0
+1148,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1148,19,Mango Shake,Cold drinks,1,129.0
+1149,6,Cheese Burger,Burgers,1,209.0
+1149,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1149,18,Cold Coffee,Cold drinks,1,139.0
+1149,23,Gulab Jamun,Dessert,1,89.0
+1150,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1150,24,Vanilla Sundae,Dessert,2,119.0
+1151,7,Crispy Chicken Burger,Burgers,1,219.0
+1151,8,Paneer Burger,Burgers,1,199.0
+1151,19,Mango Shake,Cold drinks,1,129.0
+1151,23,Gulab Jamun,Dessert,1,89.0
+1151,24,Vanilla Sundae,Dessert,1,119.0
+1152,5,Classic Burger,Burgers,1,189.0
+1152,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1152,21,Chocolate Brownie,Dessert,1,129.0
+1153,1,Classic Margherita,Pizza,1,229.0
+1154,1,Classic Margherita,Pizza,1,229.0
+1154,5,Classic Burger,Burgers,1,189.0
+1155,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1156,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1156,14,Masala Chai,Hot drinks,1,59.0
+1156,15,Hot Chocolate,Hot drinks,1,149.0
+1156,19,Mango Shake,Cold drinks,2,129.0
+1157,5,Classic Burger,Burgers,1,189.0
+1157,23,Gulab Jamun,Dessert,1,89.0
+1158,13,Cappuccino,Hot drinks,1,129.0
+1158,24,Vanilla Sundae,Dessert,1,119.0
+1159,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1159,17,Iced Lemon Tea,Cold drinks,1,99.0
+1159,21,Chocolate Brownie,Dessert,1,129.0
+1160,5,Classic Burger,Burgers,1,189.0
+1160,9,Creamy Pasta,Pasta & Mains,1,209.0
+1160,22,Cheesecake Slice,Dessert,1,169.0
+1161,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1162,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1162,21,Chocolate Brownie,Dessert,1,129.0
+1163,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1163,7,Crispy Chicken Burger,Burgers,2,219.0
+1163,10,Arrabbiata Pasta,Pasta & Mains,2,199.0
+1163,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1164,1,Classic Margherita,Pizza,1,229.0
+1164,8,Paneer Burger,Burgers,1,199.0
+1164,12,Butter Chicken Bowl,Pasta & Mains,2,279.0
+1164,14,Masala Chai,Hot drinks,1,59.0
+1165,15,Hot Chocolate,Hot drinks,1,149.0
+1165,19,Mango Shake,Cold drinks,1,129.0
+1166,3,Veggie Pizza,Pizza,1,249.0
+1166,8,Paneer Burger,Burgers,1,199.0
+1166,11,Veg Fried Rice,Pasta & Mains,3,169.0
+1166,21,Chocolate Brownie,Dessert,1,129.0
+1166,24,Vanilla Sundae,Dessert,1,119.0
+1167,6,Cheese Burger,Burgers,1,209.0
+1167,24,Vanilla Sundae,Dessert,1,119.0
+1168,1,Classic Margherita,Pizza,1,229.0
+1168,5,Classic Burger,Burgers,2,189.0
+1168,7,Crispy Chicken Burger,Burgers,1,219.0
+1168,9,Creamy Pasta,Pasta & Mains,1,209.0
+1169,5,Classic Burger,Burgers,1,189.0
+1169,13,Cappuccino,Hot drinks,1,129.0
+1170,8,Paneer Burger,Burgers,1,199.0
+1170,14,Masala Chai,Hot drinks,1,59.0
+1170,17,Iced Lemon Tea,Cold drinks,2,99.0
+1170,24,Vanilla Sundae,Dessert,1,119.0
+1171,6,Cheese Burger,Burgers,1,209.0
+1172,5,Classic Burger,Burgers,1,189.0
+1172,18,Cold Coffee,Cold drinks,1,139.0
+1173,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1173,19,Mango Shake,Cold drinks,1,129.0
+1173,23,Gulab Jamun,Dessert,1,89.0
+1174,15,Hot Chocolate,Hot drinks,1,149.0
+1175,7,Crispy Chicken Burger,Burgers,1,219.0
+1175,9,Creamy Pasta,Pasta & Mains,1,209.0
+1175,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1175,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1176,8,Paneer Burger,Burgers,1,199.0
+1176,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1176,13,Cappuccino,Hot drinks,1,129.0
+1176,20,Fresh Lime Soda,Cold drinks,1,69.0
+1177,3,Veggie Pizza,Pizza,1,249.0
+1177,6,Cheese Burger,Burgers,1,209.0
+1177,23,Gulab Jamun,Dessert,1,89.0
+1178,3,Veggie Pizza,Pizza,1,249.0
+1178,16,Filter Coffee,Hot drinks,1,79.0
+1179,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1180,23,Gulab Jamun,Dessert,1,89.0
+1181,1,Classic Margherita,Pizza,1,229.0
+1181,15,Hot Chocolate,Hot drinks,1,149.0
+1182,2,Pepperoni Supreme,Pizza,1,289.0
+1182,6,Cheese Burger,Burgers,1,209.0
+1182,7,Crispy Chicken Burger,Burgers,1,219.0
+1182,9,Creamy Pasta,Pasta & Mains,1,209.0
+1182,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1183,14,Masala Chai,Hot drinks,1,59.0
+1183,24,Vanilla Sundae,Dessert,1,119.0
+1184,2,Pepperoni Supreme,Pizza,1,289.0
+1184,3,Veggie Pizza,Pizza,1,249.0
+1184,13,Cappuccino,Hot drinks,1,129.0
+1185,21,Chocolate Brownie,Dessert,1,129.0
+1185,22,Cheesecake Slice,Dessert,1,169.0
+1186,2,Pepperoni Supreme,Pizza,1,289.0
+1186,5,Classic Burger,Burgers,2,189.0
+1186,19,Mango Shake,Cold drinks,1,129.0
+1186,22,Cheesecake Slice,Dessert,1,169.0
+1187,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1187,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1187,18,Cold Coffee,Cold drinks,1,139.0
+1188,5,Classic Burger,Burgers,1,189.0
+1188,7,Crispy Chicken Burger,Burgers,1,219.0
+1188,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1188,19,Mango Shake,Cold drinks,1,129.0
+1189,9,Creamy Pasta,Pasta & Mains,1,209.0
+1189,13,Cappuccino,Hot drinks,1,129.0
+1190,2,Pepperoni Supreme,Pizza,1,289.0
+1190,7,Crispy Chicken Burger,Burgers,1,219.0
+1190,17,Iced Lemon Tea,Cold drinks,2,99.0
+1191,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1191,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1191,19,Mango Shake,Cold drinks,1,129.0
+1191,24,Vanilla Sundae,Dessert,1,119.0
+1192,7,Crispy Chicken Burger,Burgers,1,219.0
+1192,8,Paneer Burger,Burgers,1,199.0
+1192,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1193,2,Pepperoni Supreme,Pizza,1,289.0
+1193,19,Mango Shake,Cold drinks,1,129.0
+1193,24,Vanilla Sundae,Dessert,1,119.0
+1194,3,Veggie Pizza,Pizza,1,249.0
+1194,5,Classic Burger,Burgers,1,189.0
+1194,6,Cheese Burger,Burgers,1,209.0
+1195,8,Paneer Burger,Burgers,1,199.0
+1195,16,Filter Coffee,Hot drinks,1,79.0
+1195,23,Gulab Jamun,Dessert,1,89.0
+1195,24,Vanilla Sundae,Dessert,1,119.0
+1196,3,Veggie Pizza,Pizza,1,249.0
+1196,17,Iced Lemon Tea,Cold drinks,1,99.0
+1196,23,Gulab Jamun,Dessert,1,89.0
+1197,16,Filter Coffee,Hot drinks,1,79.0
+1197,24,Vanilla Sundae,Dessert,1,119.0
+1198,2,Pepperoni Supreme,Pizza,1,289.0
+1198,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1198,13,Cappuccino,Hot drinks,1,129.0
+1199,3,Veggie Pizza,Pizza,1,249.0
+1199,7,Crispy Chicken Burger,Burgers,1,219.0
+1199,14,Masala Chai,Hot drinks,1,59.0
+1200,8,Paneer Burger,Burgers,1,199.0
+1200,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1200,14,Masala Chai,Hot drinks,2,59.0
+1200,17,Iced Lemon Tea,Cold drinks,1,99.0
+1200,22,Cheesecake Slice,Dessert,1,169.0
+1201,3,Veggie Pizza,Pizza,1,249.0
+1201,14,Masala Chai,Hot drinks,1,59.0
+1201,19,Mango Shake,Cold drinks,2,129.0
+1201,24,Vanilla Sundae,Dessert,1,119.0
+1202,1,Classic Margherita,Pizza,1,229.0
+1202,2,Pepperoni Supreme,Pizza,1,289.0
+1202,7,Crispy Chicken Burger,Burgers,1,219.0
+1202,16,Filter Coffee,Hot drinks,1,79.0
+1202,20,Fresh Lime Soda,Cold drinks,1,69.0
+1202,23,Gulab Jamun,Dessert,2,89.0
+1202,24,Vanilla Sundae,Dessert,1,119.0
+1203,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1203,5,Classic Burger,Burgers,1,189.0
+1204,14,Masala Chai,Hot drinks,1,59.0
+1205,1,Classic Margherita,Pizza,1,229.0
+1205,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1206,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1206,13,Cappuccino,Hot drinks,1,129.0
+1207,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1207,14,Masala Chai,Hot drinks,1,59.0
+1207,18,Cold Coffee,Cold drinks,1,139.0
+1208,13,Cappuccino,Hot drinks,1,129.0
+1208,14,Masala Chai,Hot drinks,1,59.0
+1208,16,Filter Coffee,Hot drinks,1,79.0
+1208,20,Fresh Lime Soda,Cold drinks,1,69.0
+1209,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1209,9,Creamy Pasta,Pasta & Mains,1,209.0
+1209,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1209,19,Mango Shake,Cold drinks,1,129.0
+1210,1,Classic Margherita,Pizza,1,229.0
+1210,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1210,9,Creamy Pasta,Pasta & Mains,1,209.0
+1210,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1210,14,Masala Chai,Hot drinks,1,59.0
+1210,16,Filter Coffee,Hot drinks,1,79.0
+1210,18,Cold Coffee,Cold drinks,1,139.0
+1211,5,Classic Burger,Burgers,1,189.0
+1211,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1212,2,Pepperoni Supreme,Pizza,1,289.0
+1212,6,Cheese Burger,Burgers,1,209.0
+1212,7,Crispy Chicken Burger,Burgers,1,219.0
+1212,8,Paneer Burger,Burgers,1,199.0
+1212,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1212,13,Cappuccino,Hot drinks,1,129.0
+1213,13,Cappuccino,Hot drinks,1,129.0
+1213,17,Iced Lemon Tea,Cold drinks,1,99.0
+1213,18,Cold Coffee,Cold drinks,1,139.0
+1213,22,Cheesecake Slice,Dessert,1,169.0
+1214,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1214,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1214,18,Cold Coffee,Cold drinks,1,139.0
+1214,19,Mango Shake,Cold drinks,1,129.0
+1215,2,Pepperoni Supreme,Pizza,1,289.0
+1215,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1215,19,Mango Shake,Cold drinks,1,129.0
+1215,23,Gulab Jamun,Dessert,1,89.0
+1216,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1216,20,Fresh Lime Soda,Cold drinks,1,69.0
+1217,6,Cheese Burger,Burgers,1,209.0
+1217,9,Creamy Pasta,Pasta & Mains,1,209.0
+1217,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1217,16,Filter Coffee,Hot drinks,1,79.0
+1217,22,Cheesecake Slice,Dessert,1,169.0
+1217,24,Vanilla Sundae,Dessert,2,119.0
+1218,9,Creamy Pasta,Pasta & Mains,1,209.0
+1218,17,Iced Lemon Tea,Cold drinks,1,99.0
+1218,19,Mango Shake,Cold drinks,1,129.0
+1219,5,Classic Burger,Burgers,1,189.0
+1219,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1219,22,Cheesecake Slice,Dessert,1,169.0
+1220,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1220,19,Mango Shake,Cold drinks,1,129.0
+1221,2,Pepperoni Supreme,Pizza,1,289.0
+1221,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1221,13,Cappuccino,Hot drinks,1,129.0
+1221,16,Filter Coffee,Hot drinks,1,79.0
+1222,2,Pepperoni Supreme,Pizza,1,289.0
+1222,5,Classic Burger,Burgers,1,189.0
+1222,17,Iced Lemon Tea,Cold drinks,1,99.0
+1222,21,Chocolate Brownie,Dessert,1,129.0
+1223,3,Veggie Pizza,Pizza,1,249.0
+1224,5,Classic Burger,Burgers,1,189.0
+1224,13,Cappuccino,Hot drinks,1,129.0
+1224,16,Filter Coffee,Hot drinks,2,79.0
+1224,23,Gulab Jamun,Dessert,1,89.0
+1225,8,Paneer Burger,Burgers,1,199.0
+1225,16,Filter Coffee,Hot drinks,1,79.0
+1226,2,Pepperoni Supreme,Pizza,1,289.0
+1226,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1226,5,Classic Burger,Burgers,1,189.0
+1226,17,Iced Lemon Tea,Cold drinks,1,99.0
+1227,23,Gulab Jamun,Dessert,1,89.0
+1228,5,Classic Burger,Burgers,1,189.0
+1228,17,Iced Lemon Tea,Cold drinks,1,99.0
+1228,19,Mango Shake,Cold drinks,1,129.0
+1229,2,Pepperoni Supreme,Pizza,1,289.0
+1229,9,Creamy Pasta,Pasta & Mains,1,209.0
+1230,2,Pepperoni Supreme,Pizza,1,289.0
+1230,9,Creamy Pasta,Pasta & Mains,1,209.0
+1230,19,Mango Shake,Cold drinks,1,129.0
+1231,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1231,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1231,18,Cold Coffee,Cold drinks,1,139.0
+1232,1,Classic Margherita,Pizza,1,229.0
+1232,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1232,14,Masala Chai,Hot drinks,1,59.0
+1233,5,Classic Burger,Burgers,1,189.0
+1233,8,Paneer Burger,Burgers,1,199.0
+1233,13,Cappuccino,Hot drinks,1,129.0
+1234,24,Vanilla Sundae,Dessert,1,119.0
+1235,15,Hot Chocolate,Hot drinks,1,149.0
+1235,24,Vanilla Sundae,Dessert,1,119.0
+1236,1,Classic Margherita,Pizza,2,229.0
+1236,17,Iced Lemon Tea,Cold drinks,1,99.0
+1236,24,Vanilla Sundae,Dessert,1,119.0
+1237,5,Classic Burger,Burgers,1,189.0
+1237,13,Cappuccino,Hot drinks,1,129.0
+1237,14,Masala Chai,Hot drinks,1,59.0
+1237,16,Filter Coffee,Hot drinks,1,79.0
+1237,22,Cheesecake Slice,Dessert,1,169.0
+1238,20,Fresh Lime Soda,Cold drinks,1,69.0
+1239,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1239,19,Mango Shake,Cold drinks,1,129.0
+1240,3,Veggie Pizza,Pizza,1,249.0
+1240,6,Cheese Burger,Burgers,1,209.0
+1240,8,Paneer Burger,Burgers,1,199.0
+1240,13,Cappuccino,Hot drinks,1,129.0
+1240,14,Masala Chai,Hot drinks,1,59.0
+1240,24,Vanilla Sundae,Dessert,1,119.0
+1241,15,Hot Chocolate,Hot drinks,1,149.0
+1242,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1243,15,Hot Chocolate,Hot drinks,1,149.0
+1244,3,Veggie Pizza,Pizza,1,249.0
+1244,14,Masala Chai,Hot drinks,1,59.0
+1244,19,Mango Shake,Cold drinks,1,129.0
+1245,2,Pepperoni Supreme,Pizza,1,289.0
+1245,6,Cheese Burger,Burgers,1,209.0
+1245,8,Paneer Burger,Burgers,1,199.0
+1245,9,Creamy Pasta,Pasta & Mains,1,209.0
+1245,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1245,18,Cold Coffee,Cold drinks,1,139.0
+1246,6,Cheese Burger,Burgers,1,209.0
+1247,19,Mango Shake,Cold drinks,1,129.0
+1247,23,Gulab Jamun,Dessert,1,89.0
+1248,3,Veggie Pizza,Pizza,1,249.0
+1248,15,Hot Chocolate,Hot drinks,1,149.0
+1248,19,Mango Shake,Cold drinks,1,129.0
+1248,22,Cheesecake Slice,Dessert,1,169.0
+1249,6,Cheese Burger,Burgers,1,209.0
+1249,9,Creamy Pasta,Pasta & Mains,1,209.0
+1249,22,Cheesecake Slice,Dessert,1,169.0
+1250,5,Classic Burger,Burgers,1,189.0
+1250,7,Crispy Chicken Burger,Burgers,1,219.0
+1250,8,Paneer Burger,Burgers,1,199.0
+1250,14,Masala Chai,Hot drinks,2,59.0
+1250,17,Iced Lemon Tea,Cold drinks,1,99.0
+1250,22,Cheesecake Slice,Dessert,1,169.0
+1250,23,Gulab Jamun,Dessert,1,89.0
+1251,24,Vanilla Sundae,Dessert,1,119.0
+1252,8,Paneer Burger,Burgers,1,199.0
+1252,15,Hot Chocolate,Hot drinks,1,149.0
+1252,16,Filter Coffee,Hot drinks,1,79.0
+1252,19,Mango Shake,Cold drinks,1,129.0
+1252,24,Vanilla Sundae,Dessert,1,119.0
+1253,7,Crispy Chicken Burger,Burgers,2,219.0
+1253,16,Filter Coffee,Hot drinks,1,79.0
+1254,2,Pepperoni Supreme,Pizza,1,289.0
+1254,3,Veggie Pizza,Pizza,1,249.0
+1254,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1254,23,Gulab Jamun,Dessert,1,89.0
+1255,2,Pepperoni Supreme,Pizza,1,289.0
+1255,15,Hot Chocolate,Hot drinks,1,149.0
+1255,17,Iced Lemon Tea,Cold drinks,2,99.0
+1255,20,Fresh Lime Soda,Cold drinks,1,69.0
+1256,8,Paneer Burger,Burgers,1,199.0
+1256,23,Gulab Jamun,Dessert,1,89.0
+1257,1,Classic Margherita,Pizza,1,229.0
+1257,16,Filter Coffee,Hot drinks,2,79.0
+1257,17,Iced Lemon Tea,Cold drinks,1,99.0
+1257,24,Vanilla Sundae,Dessert,1,119.0
+1258,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1258,17,Iced Lemon Tea,Cold drinks,1,99.0
+1258,22,Cheesecake Slice,Dessert,1,169.0
+1259,15,Hot Chocolate,Hot drinks,1,149.0
+1259,19,Mango Shake,Cold drinks,1,129.0
+1259,23,Gulab Jamun,Dessert,2,89.0
+1260,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1260,14,Masala Chai,Hot drinks,1,59.0
+1261,16,Filter Coffee,Hot drinks,1,79.0
+1261,19,Mango Shake,Cold drinks,1,129.0
+1262,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1263,7,Crispy Chicken Burger,Burgers,1,219.0
+1264,1,Classic Margherita,Pizza,1,229.0
+1264,2,Pepperoni Supreme,Pizza,1,289.0
+1264,3,Veggie Pizza,Pizza,1,249.0
+1264,7,Crispy Chicken Burger,Burgers,2,219.0
+1264,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1264,13,Cappuccino,Hot drinks,1,129.0
+1264,19,Mango Shake,Cold drinks,1,129.0
+1265,14,Masala Chai,Hot drinks,1,59.0
+1265,24,Vanilla Sundae,Dessert,1,119.0
+1266,1,Classic Margherita,Pizza,1,229.0
+1266,7,Crispy Chicken Burger,Burgers,1,219.0
+1267,11,Veg Fried Rice,Pasta & Mains,4,169.0
+1267,18,Cold Coffee,Cold drinks,1,139.0
+1267,24,Vanilla Sundae,Dessert,1,119.0
+1268,2,Pepperoni Supreme,Pizza,1,289.0
+1268,14,Masala Chai,Hot drinks,1,59.0
+1269,1,Classic Margherita,Pizza,1,229.0
+1269,2,Pepperoni Supreme,Pizza,1,289.0
+1269,8,Paneer Burger,Burgers,1,199.0
+1269,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1269,17,Iced Lemon Tea,Cold drinks,1,99.0
+1269,19,Mango Shake,Cold drinks,1,129.0
+1270,1,Classic Margherita,Pizza,1,229.0
+1270,6,Cheese Burger,Burgers,1,209.0
+1271,3,Veggie Pizza,Pizza,1,249.0
+1271,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1271,20,Fresh Lime Soda,Cold drinks,1,69.0
+1272,8,Paneer Burger,Burgers,1,199.0
+1273,8,Paneer Burger,Burgers,1,199.0
+1274,1,Classic Margherita,Pizza,1,229.0
+1274,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1274,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1274,23,Gulab Jamun,Dessert,1,89.0
+1274,24,Vanilla Sundae,Dessert,1,119.0
+1275,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1275,23,Gulab Jamun,Dessert,1,89.0
+1276,3,Veggie Pizza,Pizza,1,249.0
+1276,15,Hot Chocolate,Hot drinks,1,149.0
+1276,16,Filter Coffee,Hot drinks,1,79.0
+1277,3,Veggie Pizza,Pizza,1,249.0
+1277,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1278,2,Pepperoni Supreme,Pizza,1,289.0
+1278,8,Paneer Burger,Burgers,1,199.0
+1278,21,Chocolate Brownie,Dessert,1,129.0
+1278,22,Cheesecake Slice,Dessert,1,169.0
+1279,6,Cheese Burger,Burgers,1,209.0
+1279,24,Vanilla Sundae,Dessert,1,119.0
+1280,8,Paneer Burger,Burgers,1,199.0
+1280,9,Creamy Pasta,Pasta & Mains,1,209.0
+1280,16,Filter Coffee,Hot drinks,1,79.0
+1280,22,Cheesecake Slice,Dessert,1,169.0
+1281,1,Classic Margherita,Pizza,2,229.0
+1281,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1281,19,Mango Shake,Cold drinks,2,129.0
+1281,23,Gulab Jamun,Dessert,2,89.0
+1282,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1283,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1283,13,Cappuccino,Hot drinks,1,129.0
+1284,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1284,14,Masala Chai,Hot drinks,1,59.0
+1285,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1285,22,Cheesecake Slice,Dessert,1,169.0
+1286,7,Crispy Chicken Burger,Burgers,1,219.0
+1286,16,Filter Coffee,Hot drinks,1,79.0
+1286,23,Gulab Jamun,Dessert,1,89.0
+1286,24,Vanilla Sundae,Dessert,3,119.0
+1287,3,Veggie Pizza,Pizza,1,249.0
+1287,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1287,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1287,21,Chocolate Brownie,Dessert,1,129.0
+1288,5,Classic Burger,Burgers,1,189.0
+1288,13,Cappuccino,Hot drinks,1,129.0
+1288,22,Cheesecake Slice,Dessert,1,169.0
+1289,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1290,5,Classic Burger,Burgers,1,189.0
+1290,23,Gulab Jamun,Dessert,1,89.0
+1291,7,Crispy Chicken Burger,Burgers,1,219.0
+1291,8,Paneer Burger,Burgers,1,199.0
+1291,9,Creamy Pasta,Pasta & Mains,1,209.0
+1291,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1291,20,Fresh Lime Soda,Cold drinks,1,69.0
+1292,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1292,19,Mango Shake,Cold drinks,1,129.0
+1293,1,Classic Margherita,Pizza,1,229.0
+1293,3,Veggie Pizza,Pizza,1,249.0
+1293,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1293,5,Classic Burger,Burgers,1,189.0
+1293,7,Crispy Chicken Burger,Burgers,1,219.0
+1293,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1293,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1293,23,Gulab Jamun,Dessert,1,89.0
+1294,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1294,8,Paneer Burger,Burgers,1,199.0
+1294,24,Vanilla Sundae,Dessert,1,119.0
+1295,15,Hot Chocolate,Hot drinks,1,149.0
+1295,16,Filter Coffee,Hot drinks,1,79.0
+1296,1,Classic Margherita,Pizza,1,229.0
+1296,7,Crispy Chicken Burger,Burgers,1,219.0
+1296,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1296,19,Mango Shake,Cold drinks,1,129.0
+1297,5,Classic Burger,Burgers,2,189.0
+1297,7,Crispy Chicken Burger,Burgers,1,219.0
+1298,6,Cheese Burger,Burgers,1,209.0
+1298,16,Filter Coffee,Hot drinks,1,79.0
+1299,8,Paneer Burger,Burgers,2,199.0
+1299,19,Mango Shake,Cold drinks,1,129.0
+1299,22,Cheesecake Slice,Dessert,1,169.0
+1300,9,Creamy Pasta,Pasta & Mains,1,209.0
+1300,14,Masala Chai,Hot drinks,1,59.0
+1301,6,Cheese Burger,Burgers,1,209.0
+1301,13,Cappuccino,Hot drinks,1,129.0
+1301,16,Filter Coffee,Hot drinks,1,79.0
+1302,21,Chocolate Brownie,Dessert,2,129.0
+1303,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1304,13,Cappuccino,Hot drinks,2,129.0
+1305,2,Pepperoni Supreme,Pizza,1,289.0
+1305,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1305,17,Iced Lemon Tea,Cold drinks,1,99.0
+1305,22,Cheesecake Slice,Dessert,1,169.0
+1306,6,Cheese Burger,Burgers,1,209.0
+1306,7,Crispy Chicken Burger,Burgers,1,219.0
+1306,8,Paneer Burger,Burgers,1,199.0
+1306,23,Gulab Jamun,Dessert,1,89.0
+1307,16,Filter Coffee,Hot drinks,1,79.0
+1308,2,Pepperoni Supreme,Pizza,1,289.0
+1308,5,Classic Burger,Burgers,1,189.0
+1308,18,Cold Coffee,Cold drinks,1,139.0
+1308,21,Chocolate Brownie,Dessert,1,129.0
+1308,23,Gulab Jamun,Dessert,1,89.0
+1308,24,Vanilla Sundae,Dessert,1,119.0
+1309,8,Paneer Burger,Burgers,1,199.0
+1310,5,Classic Burger,Burgers,2,189.0
+1310,8,Paneer Burger,Burgers,1,199.0
+1311,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1311,14,Masala Chai,Hot drinks,1,59.0
+1312,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1312,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1312,14,Masala Chai,Hot drinks,1,59.0
+1313,14,Masala Chai,Hot drinks,1,59.0
+1313,15,Hot Chocolate,Hot drinks,1,149.0
+1314,9,Creamy Pasta,Pasta & Mains,2,209.0
+1314,14,Masala Chai,Hot drinks,1,59.0
+1315,6,Cheese Burger,Burgers,1,209.0
+1315,8,Paneer Burger,Burgers,1,199.0
+1315,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1315,13,Cappuccino,Hot drinks,1,129.0
+1315,14,Masala Chai,Hot drinks,1,59.0
+1315,24,Vanilla Sundae,Dessert,1,119.0
+1316,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1316,17,Iced Lemon Tea,Cold drinks,1,99.0
+1317,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1317,16,Filter Coffee,Hot drinks,1,79.0
+1318,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1318,16,Filter Coffee,Hot drinks,1,79.0
+1318,19,Mango Shake,Cold drinks,1,129.0
+1319,7,Crispy Chicken Burger,Burgers,1,219.0
+1319,9,Creamy Pasta,Pasta & Mains,1,209.0
+1320,5,Classic Burger,Burgers,1,189.0
+1320,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1320,13,Cappuccino,Hot drinks,1,129.0
+1320,23,Gulab Jamun,Dessert,1,89.0
+1321,2,Pepperoni Supreme,Pizza,1,289.0
+1321,8,Paneer Burger,Burgers,1,199.0
+1321,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1321,15,Hot Chocolate,Hot drinks,1,149.0
+1322,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1322,24,Vanilla Sundae,Dessert,1,119.0
+1323,3,Veggie Pizza,Pizza,1,249.0
+1323,8,Paneer Burger,Burgers,1,199.0
+1323,9,Creamy Pasta,Pasta & Mains,1,209.0
+1324,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1324,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1325,6,Cheese Burger,Burgers,1,209.0
+1325,9,Creamy Pasta,Pasta & Mains,1,209.0
+1326,1,Classic Margherita,Pizza,1,229.0
+1326,2,Pepperoni Supreme,Pizza,1,289.0
+1327,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1327,5,Classic Burger,Burgers,1,189.0
+1327,6,Cheese Burger,Burgers,1,209.0
+1327,14,Masala Chai,Hot drinks,1,59.0
+1328,5,Classic Burger,Burgers,1,189.0
+1328,8,Paneer Burger,Burgers,1,199.0
+1328,19,Mango Shake,Cold drinks,1,129.0
+1328,23,Gulab Jamun,Dessert,1,89.0
+1329,3,Veggie Pizza,Pizza,1,249.0
+1329,8,Paneer Burger,Burgers,1,199.0
+1329,9,Creamy Pasta,Pasta & Mains,1,209.0
+1329,21,Chocolate Brownie,Dessert,1,129.0
+1330,16,Filter Coffee,Hot drinks,1,79.0
+1330,17,Iced Lemon Tea,Cold drinks,1,99.0
+1330,24,Vanilla Sundae,Dessert,1,119.0
+1331,16,Filter Coffee,Hot drinks,1,79.0
+1332,5,Classic Burger,Burgers,1,189.0
+1333,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1334,13,Cappuccino,Hot drinks,1,129.0
+1335,14,Masala Chai,Hot drinks,2,59.0
+1335,16,Filter Coffee,Hot drinks,1,79.0
+1335,23,Gulab Jamun,Dessert,1,89.0
+1336,8,Paneer Burger,Burgers,1,199.0
+1336,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1336,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1336,19,Mango Shake,Cold drinks,2,129.0
+1336,20,Fresh Lime Soda,Cold drinks,1,69.0
+1336,23,Gulab Jamun,Dessert,1,89.0
+1337,17,Iced Lemon Tea,Cold drinks,1,99.0
+1337,19,Mango Shake,Cold drinks,1,129.0
+1337,23,Gulab Jamun,Dessert,1,89.0
+1338,17,Iced Lemon Tea,Cold drinks,1,99.0
+1339,10,Arrabbiata Pasta,Pasta & Mains,2,199.0
+1340,7,Crispy Chicken Burger,Burgers,1,219.0
+1340,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1340,22,Cheesecake Slice,Dessert,1,169.0
+1341,7,Crispy Chicken Burger,Burgers,1,219.0
+1342,3,Veggie Pizza,Pizza,1,249.0
+1342,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1342,16,Filter Coffee,Hot drinks,1,79.0
+1343,3,Veggie Pizza,Pizza,1,249.0
+1343,5,Classic Burger,Burgers,1,189.0
+1343,7,Crispy Chicken Burger,Burgers,1,219.0
+1343,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1343,21,Chocolate Brownie,Dessert,1,129.0
+1343,22,Cheesecake Slice,Dessert,1,169.0
+1344,2,Pepperoni Supreme,Pizza,1,289.0
+1344,5,Classic Burger,Burgers,1,189.0
+1344,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1345,5,Classic Burger,Burgers,1,189.0
+1345,16,Filter Coffee,Hot drinks,1,79.0
+1345,24,Vanilla Sundae,Dessert,1,119.0
+1346,1,Classic Margherita,Pizza,1,229.0
+1346,17,Iced Lemon Tea,Cold drinks,1,99.0
+1346,19,Mango Shake,Cold drinks,1,129.0
+1346,24,Vanilla Sundae,Dessert,1,119.0
+1347,1,Classic Margherita,Pizza,1,229.0
+1347,5,Classic Burger,Burgers,1,189.0
+1347,6,Cheese Burger,Burgers,1,209.0
+1347,8,Paneer Burger,Burgers,1,199.0
+1347,19,Mango Shake,Cold drinks,1,129.0
+1347,22,Cheesecake Slice,Dessert,1,169.0
+1348,7,Crispy Chicken Burger,Burgers,1,219.0
+1348,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1348,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1348,16,Filter Coffee,Hot drinks,1,79.0
+1348,20,Fresh Lime Soda,Cold drinks,1,69.0
+1348,22,Cheesecake Slice,Dessert,1,169.0
+1348,24,Vanilla Sundae,Dessert,1,119.0
+1349,7,Crispy Chicken Burger,Burgers,1,219.0
+1350,24,Vanilla Sundae,Dessert,1,119.0
+1351,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1352,6,Cheese Burger,Burgers,1,209.0
+1352,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1352,14,Masala Chai,Hot drinks,1,59.0
+1352,19,Mango Shake,Cold drinks,1,129.0
+1352,23,Gulab Jamun,Dessert,1,89.0
+1353,2,Pepperoni Supreme,Pizza,1,289.0
+1353,14,Masala Chai,Hot drinks,1,59.0
+1354,1,Classic Margherita,Pizza,2,229.0
+1354,3,Veggie Pizza,Pizza,2,249.0
+1354,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1354,19,Mango Shake,Cold drinks,1,129.0
+1355,2,Pepperoni Supreme,Pizza,1,289.0
+1356,6,Cheese Burger,Burgers,1,209.0
+1356,13,Cappuccino,Hot drinks,1,129.0
+1356,16,Filter Coffee,Hot drinks,1,79.0
+1356,18,Cold Coffee,Cold drinks,1,139.0
+1356,24,Vanilla Sundae,Dessert,1,119.0
+1357,14,Masala Chai,Hot drinks,1,59.0
+1358,5,Classic Burger,Burgers,1,189.0
+1358,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1359,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1359,5,Classic Burger,Burgers,1,189.0
+1359,9,Creamy Pasta,Pasta & Mains,1,209.0
+1359,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1359,15,Hot Chocolate,Hot drinks,1,149.0
+1359,18,Cold Coffee,Cold drinks,1,139.0
+1360,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1360,9,Creamy Pasta,Pasta & Mains,2,209.0
+1360,22,Cheesecake Slice,Dessert,1,169.0
+1361,5,Classic Burger,Burgers,1,189.0
+1361,6,Cheese Burger,Burgers,1,209.0
+1361,14,Masala Chai,Hot drinks,1,59.0
+1362,6,Cheese Burger,Burgers,1,209.0
+1362,7,Crispy Chicken Burger,Burgers,2,219.0
+1362,9,Creamy Pasta,Pasta & Mains,1,209.0
+1362,13,Cappuccino,Hot drinks,2,129.0
+1362,20,Fresh Lime Soda,Cold drinks,1,69.0
+1363,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1363,15,Hot Chocolate,Hot drinks,1,149.0
+1363,16,Filter Coffee,Hot drinks,1,79.0
+1364,4,Spicy Buffalo Blaze,Pizza,2,299.0
+1364,5,Classic Burger,Burgers,1,189.0
+1364,16,Filter Coffee,Hot drinks,1,79.0
+1364,24,Vanilla Sundae,Dessert,1,119.0
+1365,6,Cheese Burger,Burgers,1,209.0
+1366,3,Veggie Pizza,Pizza,1,249.0
+1366,7,Crispy Chicken Burger,Burgers,1,219.0
+1366,12,Butter Chicken Bowl,Pasta & Mains,2,279.0
+1366,19,Mango Shake,Cold drinks,1,129.0
+1366,21,Chocolate Brownie,Dessert,1,129.0
+1367,3,Veggie Pizza,Pizza,1,249.0
+1367,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1368,3,Veggie Pizza,Pizza,1,249.0
+1369,6,Cheese Burger,Burgers,1,209.0
+1369,13,Cappuccino,Hot drinks,2,129.0
+1369,16,Filter Coffee,Hot drinks,1,79.0
+1369,17,Iced Lemon Tea,Cold drinks,2,99.0
+1369,19,Mango Shake,Cold drinks,1,129.0
+1370,2,Pepperoni Supreme,Pizza,1,289.0
+1370,9,Creamy Pasta,Pasta & Mains,1,209.0
+1371,1,Classic Margherita,Pizza,1,229.0
+1371,2,Pepperoni Supreme,Pizza,1,289.0
+1371,6,Cheese Burger,Burgers,1,209.0
+1371,16,Filter Coffee,Hot drinks,2,79.0
+1372,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1372,16,Filter Coffee,Hot drinks,1,79.0
+1372,18,Cold Coffee,Cold drinks,1,139.0
+1373,2,Pepperoni Supreme,Pizza,1,289.0
+1373,20,Fresh Lime Soda,Cold drinks,1,69.0
+1374,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1374,19,Mango Shake,Cold drinks,1,129.0
+1375,5,Classic Burger,Burgers,1,189.0
+1375,8,Paneer Burger,Burgers,1,199.0
+1375,9,Creamy Pasta,Pasta & Mains,1,209.0
+1375,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1375,14,Masala Chai,Hot drinks,1,59.0
+1376,22,Cheesecake Slice,Dessert,1,169.0
+1377,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1378,5,Classic Burger,Burgers,1,189.0
+1378,7,Crispy Chicken Burger,Burgers,1,219.0
+1378,8,Paneer Burger,Burgers,1,199.0
+1379,1,Classic Margherita,Pizza,1,229.0
+1379,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1380,3,Veggie Pizza,Pizza,2,249.0
+1380,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1381,2,Pepperoni Supreme,Pizza,1,289.0
+1381,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1382,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1382,7,Crispy Chicken Burger,Burgers,1,219.0
+1382,16,Filter Coffee,Hot drinks,1,79.0
+1383,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1383,22,Cheesecake Slice,Dessert,1,169.0
+1384,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1384,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1385,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1385,8,Paneer Burger,Burgers,1,199.0
+1385,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1385,19,Mango Shake,Cold drinks,1,129.0
+1386,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1386,13,Cappuccino,Hot drinks,1,129.0
+1387,6,Cheese Burger,Burgers,1,209.0
+1387,8,Paneer Burger,Burgers,2,199.0
+1387,23,Gulab Jamun,Dessert,1,89.0
+1388,1,Classic Margherita,Pizza,1,229.0
+1388,2,Pepperoni Supreme,Pizza,1,289.0
+1388,7,Crispy Chicken Burger,Burgers,1,219.0
+1389,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1389,13,Cappuccino,Hot drinks,1,129.0
+1389,24,Vanilla Sundae,Dessert,1,119.0
+1390,5,Classic Burger,Burgers,1,189.0
+1390,15,Hot Chocolate,Hot drinks,1,149.0
+1390,17,Iced Lemon Tea,Cold drinks,1,99.0
+1391,24,Vanilla Sundae,Dessert,1,119.0
+1392,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1392,16,Filter Coffee,Hot drinks,1,79.0
+1393,2,Pepperoni Supreme,Pizza,1,289.0
+1393,5,Classic Burger,Burgers,1,189.0
+1393,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1393,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1393,20,Fresh Lime Soda,Cold drinks,1,69.0
+1394,1,Classic Margherita,Pizza,1,229.0
+1394,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1395,5,Classic Burger,Burgers,1,189.0
+1395,9,Creamy Pasta,Pasta & Mains,2,209.0
+1395,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1395,19,Mango Shake,Cold drinks,1,129.0
+1395,23,Gulab Jamun,Dessert,1,89.0
+1396,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1396,7,Crispy Chicken Burger,Burgers,1,219.0
+1396,15,Hot Chocolate,Hot drinks,1,149.0
+1397,1,Classic Margherita,Pizza,1,229.0
+1397,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1397,14,Masala Chai,Hot drinks,1,59.0
+1398,6,Cheese Burger,Burgers,1,209.0
+1398,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1398,15,Hot Chocolate,Hot drinks,1,149.0
+1398,16,Filter Coffee,Hot drinks,1,79.0
+1399,3,Veggie Pizza,Pizza,1,249.0
+1399,8,Paneer Burger,Burgers,1,199.0
+1399,14,Masala Chai,Hot drinks,1,59.0
+1399,21,Chocolate Brownie,Dessert,1,129.0
+1399,22,Cheesecake Slice,Dessert,1,169.0
+1400,5,Classic Burger,Burgers,1,189.0
+1400,7,Crispy Chicken Burger,Burgers,1,219.0
+1400,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1400,19,Mango Shake,Cold drinks,1,129.0
+1401,3,Veggie Pizza,Pizza,1,249.0
+1402,9,Creamy Pasta,Pasta & Mains,2,209.0
+1403,7,Crispy Chicken Burger,Burgers,1,219.0
+1403,14,Masala Chai,Hot drinks,1,59.0
+1403,18,Cold Coffee,Cold drinks,1,139.0
+1403,19,Mango Shake,Cold drinks,1,129.0
+1404,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1404,14,Masala Chai,Hot drinks,1,59.0
+1404,15,Hot Chocolate,Hot drinks,1,149.0
+1404,16,Filter Coffee,Hot drinks,1,79.0
+1404,19,Mango Shake,Cold drinks,2,129.0
+1405,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1405,9,Creamy Pasta,Pasta & Mains,1,209.0
+1405,17,Iced Lemon Tea,Cold drinks,1,99.0
+1406,2,Pepperoni Supreme,Pizza,1,289.0
+1406,8,Paneer Burger,Burgers,1,199.0
+1407,5,Classic Burger,Burgers,1,189.0
+1407,23,Gulab Jamun,Dessert,1,89.0
+1408,1,Classic Margherita,Pizza,1,229.0
+1408,9,Creamy Pasta,Pasta & Mains,1,209.0
+1408,16,Filter Coffee,Hot drinks,1,79.0
+1408,22,Cheesecake Slice,Dessert,1,169.0
+1409,16,Filter Coffee,Hot drinks,1,79.0
+1410,5,Classic Burger,Burgers,1,189.0
+1410,7,Crispy Chicken Burger,Burgers,1,219.0
+1410,17,Iced Lemon Tea,Cold drinks,1,99.0
+1411,14,Masala Chai,Hot drinks,1,59.0
+1411,15,Hot Chocolate,Hot drinks,1,149.0
+1412,5,Classic Burger,Burgers,2,189.0
+1412,23,Gulab Jamun,Dessert,1,89.0
+1413,6,Cheese Burger,Burgers,1,209.0
+1413,21,Chocolate Brownie,Dessert,1,129.0
+1414,2,Pepperoni Supreme,Pizza,1,289.0
+1414,14,Masala Chai,Hot drinks,1,59.0
+1415,7,Crispy Chicken Burger,Burgers,2,219.0
+1415,9,Creamy Pasta,Pasta & Mains,1,209.0
+1415,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1416,2,Pepperoni Supreme,Pizza,1,289.0
+1416,5,Classic Burger,Burgers,1,189.0
+1416,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1416,13,Cappuccino,Hot drinks,1,129.0
+1417,9,Creamy Pasta,Pasta & Mains,1,209.0
+1417,13,Cappuccino,Hot drinks,1,129.0
+1417,16,Filter Coffee,Hot drinks,1,79.0
+1417,24,Vanilla Sundae,Dessert,1,119.0
+1418,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1418,7,Crispy Chicken Burger,Burgers,1,219.0
+1418,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1419,2,Pepperoni Supreme,Pizza,1,289.0
+1419,7,Crispy Chicken Burger,Burgers,1,219.0
+1419,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1419,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1419,13,Cappuccino,Hot drinks,1,129.0
+1419,14,Masala Chai,Hot drinks,1,59.0
+1419,19,Mango Shake,Cold drinks,1,129.0
+1420,1,Classic Margherita,Pizza,1,229.0
+1420,2,Pepperoni Supreme,Pizza,1,289.0
+1420,6,Cheese Burger,Burgers,1,209.0
+1420,13,Cappuccino,Hot drinks,1,129.0
+1420,14,Masala Chai,Hot drinks,1,59.0
+1420,21,Chocolate Brownie,Dessert,1,129.0
+1421,1,Classic Margherita,Pizza,1,229.0
+1421,2,Pepperoni Supreme,Pizza,2,289.0
+1421,5,Classic Burger,Burgers,1,189.0
+1421,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1421,16,Filter Coffee,Hot drinks,1,79.0
+1422,9,Creamy Pasta,Pasta & Mains,1,209.0
+1423,2,Pepperoni Supreme,Pizza,1,289.0
+1423,5,Classic Burger,Burgers,1,189.0
+1424,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1424,13,Cappuccino,Hot drinks,1,129.0
+1424,14,Masala Chai,Hot drinks,1,59.0
+1424,16,Filter Coffee,Hot drinks,1,79.0
+1424,23,Gulab Jamun,Dessert,1,89.0
+1425,1,Classic Margherita,Pizza,1,229.0
+1425,5,Classic Burger,Burgers,3,189.0
+1425,6,Cheese Burger,Burgers,1,209.0
+1425,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1426,1,Classic Margherita,Pizza,1,229.0
+1426,3,Veggie Pizza,Pizza,1,249.0
+1426,7,Crispy Chicken Burger,Burgers,1,219.0
+1427,9,Creamy Pasta,Pasta & Mains,2,209.0
+1427,23,Gulab Jamun,Dessert,1,89.0
+1428,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1428,15,Hot Chocolate,Hot drinks,1,149.0
+1429,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1429,14,Masala Chai,Hot drinks,1,59.0
+1430,2,Pepperoni Supreme,Pizza,1,289.0
+1431,9,Creamy Pasta,Pasta & Mains,1,209.0
+1431,13,Cappuccino,Hot drinks,1,129.0
+1431,18,Cold Coffee,Cold drinks,1,139.0
+1432,3,Veggie Pizza,Pizza,1,249.0
+1432,5,Classic Burger,Burgers,1,189.0
+1433,13,Cappuccino,Hot drinks,1,129.0
+1433,19,Mango Shake,Cold drinks,1,129.0
+1433,24,Vanilla Sundae,Dessert,1,119.0
+1434,1,Classic Margherita,Pizza,1,229.0
+1435,1,Classic Margherita,Pizza,1,229.0
+1435,8,Paneer Burger,Burgers,1,199.0
+1435,9,Creamy Pasta,Pasta & Mains,1,209.0
+1436,8,Paneer Burger,Burgers,1,199.0
+1436,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1436,23,Gulab Jamun,Dessert,1,89.0
+1437,7,Crispy Chicken Burger,Burgers,1,219.0
+1437,20,Fresh Lime Soda,Cold drinks,1,69.0
+1438,5,Classic Burger,Burgers,1,189.0
+1438,23,Gulab Jamun,Dessert,1,89.0
+1439,2,Pepperoni Supreme,Pizza,1,289.0
+1439,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1439,15,Hot Chocolate,Hot drinks,1,149.0
+1440,1,Classic Margherita,Pizza,1,229.0
+1440,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1440,24,Vanilla Sundae,Dessert,1,119.0
+1441,5,Classic Burger,Burgers,1,189.0
+1441,16,Filter Coffee,Hot drinks,1,79.0
+1441,19,Mango Shake,Cold drinks,1,129.0
+1442,9,Creamy Pasta,Pasta & Mains,1,209.0
+1443,5,Classic Burger,Burgers,1,189.0
+1443,9,Creamy Pasta,Pasta & Mains,1,209.0
+1443,16,Filter Coffee,Hot drinks,1,79.0
+1444,1,Classic Margherita,Pizza,1,229.0
+1444,5,Classic Burger,Burgers,1,189.0
+1444,8,Paneer Burger,Burgers,1,199.0
+1444,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1444,17,Iced Lemon Tea,Cold drinks,1,99.0
+1444,19,Mango Shake,Cold drinks,1,129.0
+1445,20,Fresh Lime Soda,Cold drinks,1,69.0
+1446,3,Veggie Pizza,Pizza,1,249.0
+1446,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1446,5,Classic Burger,Burgers,1,189.0
+1446,19,Mango Shake,Cold drinks,1,129.0
+1446,21,Chocolate Brownie,Dessert,1,129.0
+1446,23,Gulab Jamun,Dessert,1,89.0
+1447,1,Classic Margherita,Pizza,1,229.0
+1448,2,Pepperoni Supreme,Pizza,1,289.0
+1448,3,Veggie Pizza,Pizza,2,249.0
+1448,16,Filter Coffee,Hot drinks,1,79.0
+1449,23,Gulab Jamun,Dessert,1,89.0
+1450,9,Creamy Pasta,Pasta & Mains,1,209.0
+1450,22,Cheesecake Slice,Dessert,1,169.0
+1450,23,Gulab Jamun,Dessert,1,89.0
+1451,7,Crispy Chicken Burger,Burgers,1,219.0
+1451,24,Vanilla Sundae,Dessert,1,119.0
+1452,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1452,9,Creamy Pasta,Pasta & Mains,1,209.0
+1452,19,Mango Shake,Cold drinks,1,129.0
+1453,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1453,5,Classic Burger,Burgers,1,189.0
+1453,6,Cheese Burger,Burgers,1,209.0
+1453,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1453,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1453,13,Cappuccino,Hot drinks,1,129.0
+1453,16,Filter Coffee,Hot drinks,1,79.0
+1454,7,Crispy Chicken Burger,Burgers,1,219.0
+1454,18,Cold Coffee,Cold drinks,1,139.0
+1454,21,Chocolate Brownie,Dessert,1,129.0
+1455,7,Crispy Chicken Burger,Burgers,1,219.0
+1455,13,Cappuccino,Hot drinks,1,129.0
+1455,24,Vanilla Sundae,Dessert,1,119.0
+1456,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1456,7,Crispy Chicken Burger,Burgers,1,219.0
+1456,8,Paneer Burger,Burgers,1,199.0
+1456,16,Filter Coffee,Hot drinks,1,79.0
+1456,23,Gulab Jamun,Dessert,1,89.0
+1457,1,Classic Margherita,Pizza,1,229.0
+1457,3,Veggie Pizza,Pizza,1,249.0
+1457,8,Paneer Burger,Burgers,1,199.0
+1457,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1457,22,Cheesecake Slice,Dessert,1,169.0
+1457,24,Vanilla Sundae,Dessert,1,119.0
+1458,7,Crispy Chicken Burger,Burgers,1,219.0
+1458,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1458,13,Cappuccino,Hot drinks,1,129.0
+1458,24,Vanilla Sundae,Dessert,1,119.0
+1459,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1459,23,Gulab Jamun,Dessert,1,89.0
+1460,2,Pepperoni Supreme,Pizza,1,289.0
+1460,14,Masala Chai,Hot drinks,1,59.0
+1461,5,Classic Burger,Burgers,1,189.0
+1461,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1462,14,Masala Chai,Hot drinks,1,59.0
+1462,17,Iced Lemon Tea,Cold drinks,1,99.0
+1463,16,Filter Coffee,Hot drinks,1,79.0
+1464,6,Cheese Burger,Burgers,1,209.0
+1464,14,Masala Chai,Hot drinks,1,59.0
+1465,5,Classic Burger,Burgers,1,189.0
+1465,7,Crispy Chicken Burger,Burgers,1,219.0
+1465,23,Gulab Jamun,Dessert,1,89.0
+1466,9,Creamy Pasta,Pasta & Mains,1,209.0
+1466,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1466,13,Cappuccino,Hot drinks,1,129.0
+1466,14,Masala Chai,Hot drinks,1,59.0
+1466,21,Chocolate Brownie,Dessert,1,129.0
+1466,22,Cheesecake Slice,Dessert,1,169.0
+1466,23,Gulab Jamun,Dessert,1,89.0
+1467,1,Classic Margherita,Pizza,1,229.0
+1467,2,Pepperoni Supreme,Pizza,1,289.0
+1467,5,Classic Burger,Burgers,1,189.0
+1467,19,Mango Shake,Cold drinks,1,129.0
+1467,23,Gulab Jamun,Dessert,1,89.0
+1468,20,Fresh Lime Soda,Cold drinks,1,69.0
+1469,13,Cappuccino,Hot drinks,1,129.0
+1469,14,Masala Chai,Hot drinks,1,59.0
+1469,19,Mango Shake,Cold drinks,1,129.0
+1470,3,Veggie Pizza,Pizza,1,249.0
+1471,7,Crispy Chicken Burger,Burgers,2,219.0
+1471,23,Gulab Jamun,Dessert,1,89.0
+1472,9,Creamy Pasta,Pasta & Mains,1,209.0
+1472,17,Iced Lemon Tea,Cold drinks,1,99.0
+1472,23,Gulab Jamun,Dessert,1,89.0
+1473,1,Classic Margherita,Pizza,1,229.0
+1473,9,Creamy Pasta,Pasta & Mains,1,209.0
+1473,24,Vanilla Sundae,Dessert,1,119.0
+1474,2,Pepperoni Supreme,Pizza,1,289.0
+1474,18,Cold Coffee,Cold drinks,1,139.0
+1474,23,Gulab Jamun,Dessert,1,89.0
+1475,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1476,6,Cheese Burger,Burgers,1,209.0
+1476,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1476,17,Iced Lemon Tea,Cold drinks,1,99.0
+1476,19,Mango Shake,Cold drinks,1,129.0
+1476,20,Fresh Lime Soda,Cold drinks,2,69.0
+1476,22,Cheesecake Slice,Dessert,2,169.0
+1477,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1477,13,Cappuccino,Hot drinks,1,129.0
+1477,17,Iced Lemon Tea,Cold drinks,1,99.0
+1477,18,Cold Coffee,Cold drinks,1,139.0
+1478,5,Classic Burger,Burgers,1,189.0
+1478,7,Crispy Chicken Burger,Burgers,1,219.0
+1478,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1478,19,Mango Shake,Cold drinks,1,129.0
+1479,7,Crispy Chicken Burger,Burgers,1,219.0
+1479,8,Paneer Burger,Burgers,1,199.0
+1479,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1479,13,Cappuccino,Hot drinks,1,129.0
+1479,15,Hot Chocolate,Hot drinks,1,149.0
+1479,16,Filter Coffee,Hot drinks,1,79.0
+1479,19,Mango Shake,Cold drinks,1,129.0
+1480,5,Classic Burger,Burgers,1,189.0
+1480,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1480,22,Cheesecake Slice,Dessert,1,169.0
+1480,23,Gulab Jamun,Dessert,1,89.0
+1481,15,Hot Chocolate,Hot drinks,1,149.0
+1481,17,Iced Lemon Tea,Cold drinks,1,99.0
+1482,3,Veggie Pizza,Pizza,1,249.0
+1482,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1483,1,Classic Margherita,Pizza,1,229.0
+1483,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1483,19,Mango Shake,Cold drinks,1,129.0
+1483,24,Vanilla Sundae,Dessert,1,119.0
+1484,3,Veggie Pizza,Pizza,1,249.0
+1484,19,Mango Shake,Cold drinks,1,129.0
+1485,3,Veggie Pizza,Pizza,2,249.0
+1485,7,Crispy Chicken Burger,Burgers,1,219.0
+1485,14,Masala Chai,Hot drinks,1,59.0
+1485,15,Hot Chocolate,Hot drinks,1,149.0
+1485,22,Cheesecake Slice,Dessert,1,169.0
+1485,24,Vanilla Sundae,Dessert,1,119.0
+1486,5,Classic Burger,Burgers,1,189.0
+1486,7,Crispy Chicken Burger,Burgers,1,219.0
+1486,13,Cappuccino,Hot drinks,1,129.0
+1486,20,Fresh Lime Soda,Cold drinks,1,69.0
+1487,9,Creamy Pasta,Pasta & Mains,1,209.0
+1487,15,Hot Chocolate,Hot drinks,1,149.0
+1487,16,Filter Coffee,Hot drinks,1,79.0
+1487,21,Chocolate Brownie,Dessert,1,129.0
+1488,2,Pepperoni Supreme,Pizza,1,289.0
+1488,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1488,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1488,15,Hot Chocolate,Hot drinks,1,149.0
+1489,6,Cheese Burger,Burgers,1,209.0
+1489,7,Crispy Chicken Burger,Burgers,1,219.0
+1489,14,Masala Chai,Hot drinks,1,59.0
+1489,19,Mango Shake,Cold drinks,1,129.0
+1490,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1490,13,Cappuccino,Hot drinks,1,129.0
+1490,20,Fresh Lime Soda,Cold drinks,1,69.0
+1491,3,Veggie Pizza,Pizza,1,249.0
+1491,16,Filter Coffee,Hot drinks,1,79.0
+1491,24,Vanilla Sundae,Dessert,1,119.0
+1492,3,Veggie Pizza,Pizza,1,249.0
+1493,18,Cold Coffee,Cold drinks,1,139.0
+1493,22,Cheesecake Slice,Dessert,1,169.0
+1494,23,Gulab Jamun,Dessert,1,89.0
+1494,24,Vanilla Sundae,Dessert,2,119.0
+1495,1,Classic Margherita,Pizza,1,229.0
+1495,3,Veggie Pizza,Pizza,1,249.0
+1495,22,Cheesecake Slice,Dessert,1,169.0
+1495,23,Gulab Jamun,Dessert,1,89.0
+1495,24,Vanilla Sundae,Dessert,1,119.0
+1496,7,Crispy Chicken Burger,Burgers,1,219.0
+1496,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1496,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1496,13,Cappuccino,Hot drinks,1,129.0
+1496,21,Chocolate Brownie,Dessert,1,129.0
+1497,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1497,9,Creamy Pasta,Pasta & Mains,1,209.0
+1498,1,Classic Margherita,Pizza,1,229.0
+1498,5,Classic Burger,Burgers,1,189.0
+1498,19,Mango Shake,Cold drinks,1,129.0
+1499,2,Pepperoni Supreme,Pizza,2,289.0
+1499,19,Mango Shake,Cold drinks,1,129.0
+1500,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1501,24,Vanilla Sundae,Dessert,2,119.0
+1502,3,Veggie Pizza,Pizza,1,249.0
+1502,22,Cheesecake Slice,Dessert,1,169.0
+1503,3,Veggie Pizza,Pizza,1,249.0
+1503,7,Crispy Chicken Burger,Burgers,1,219.0
+1503,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1504,5,Classic Burger,Burgers,1,189.0
+1504,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1505,17,Iced Lemon Tea,Cold drinks,1,99.0
+1505,19,Mango Shake,Cold drinks,1,129.0
+1505,23,Gulab Jamun,Dessert,1,89.0
+1506,16,Filter Coffee,Hot drinks,1,79.0
+1506,23,Gulab Jamun,Dessert,1,89.0
+1507,9,Creamy Pasta,Pasta & Mains,1,209.0
+1507,10,Arrabbiata Pasta,Pasta & Mains,3,199.0
+1508,5,Classic Burger,Burgers,1,189.0
+1508,16,Filter Coffee,Hot drinks,1,79.0
+1508,17,Iced Lemon Tea,Cold drinks,2,99.0
+1509,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1509,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1510,1,Classic Margherita,Pizza,1,229.0
+1510,18,Cold Coffee,Cold drinks,1,139.0
+1510,21,Chocolate Brownie,Dessert,1,129.0
+1511,3,Veggie Pizza,Pizza,1,249.0
+1511,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1511,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1512,13,Cappuccino,Hot drinks,1,129.0
+1512,16,Filter Coffee,Hot drinks,1,79.0
+1512,21,Chocolate Brownie,Dessert,1,129.0
+1513,3,Veggie Pizza,Pizza,1,249.0
+1513,15,Hot Chocolate,Hot drinks,1,149.0
+1513,23,Gulab Jamun,Dessert,1,89.0
+1514,1,Classic Margherita,Pizza,2,229.0
+1514,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1514,19,Mango Shake,Cold drinks,1,129.0
+1515,2,Pepperoni Supreme,Pizza,1,289.0
+1515,9,Creamy Pasta,Pasta & Mains,1,209.0
+1515,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1515,13,Cappuccino,Hot drinks,1,129.0
+1515,21,Chocolate Brownie,Dessert,1,129.0
+1516,19,Mango Shake,Cold drinks,2,129.0
+1517,8,Paneer Burger,Burgers,1,199.0
+1517,16,Filter Coffee,Hot drinks,1,79.0
+1517,17,Iced Lemon Tea,Cold drinks,1,99.0
+1517,21,Chocolate Brownie,Dessert,1,129.0
+1518,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1518,16,Filter Coffee,Hot drinks,1,79.0
+1519,6,Cheese Burger,Burgers,1,209.0
+1519,9,Creamy Pasta,Pasta & Mains,1,209.0
+1519,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1519,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1519,18,Cold Coffee,Cold drinks,1,139.0
+1519,24,Vanilla Sundae,Dessert,1,119.0
+1520,7,Crispy Chicken Burger,Burgers,1,219.0
+1520,15,Hot Chocolate,Hot drinks,1,149.0
+1520,17,Iced Lemon Tea,Cold drinks,1,99.0
+1520,24,Vanilla Sundae,Dessert,1,119.0
+1521,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1521,23,Gulab Jamun,Dessert,1,89.0
+1522,2,Pepperoni Supreme,Pizza,1,289.0
+1522,16,Filter Coffee,Hot drinks,1,79.0
+1522,22,Cheesecake Slice,Dessert,1,169.0
+1523,5,Classic Burger,Burgers,1,189.0
+1523,16,Filter Coffee,Hot drinks,1,79.0
+1523,18,Cold Coffee,Cold drinks,1,139.0
+1523,22,Cheesecake Slice,Dessert,1,169.0
+1524,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1524,13,Cappuccino,Hot drinks,1,129.0
+1524,18,Cold Coffee,Cold drinks,1,139.0
+1524,19,Mango Shake,Cold drinks,2,129.0
+1525,1,Classic Margherita,Pizza,1,229.0
+1525,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1525,18,Cold Coffee,Cold drinks,1,139.0
+1525,23,Gulab Jamun,Dessert,1,89.0
+1526,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1527,3,Veggie Pizza,Pizza,1,249.0
+1527,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1527,23,Gulab Jamun,Dessert,1,89.0
+1528,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1528,5,Classic Burger,Burgers,1,189.0
+1528,7,Crispy Chicken Burger,Burgers,2,219.0
+1528,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1528,16,Filter Coffee,Hot drinks,2,79.0
+1528,19,Mango Shake,Cold drinks,2,129.0
+1529,7,Crispy Chicken Burger,Burgers,1,219.0
+1530,13,Cappuccino,Hot drinks,1,129.0
+1531,17,Iced Lemon Tea,Cold drinks,1,99.0
+1531,22,Cheesecake Slice,Dessert,1,169.0
+1532,16,Filter Coffee,Hot drinks,1,79.0
+1532,21,Chocolate Brownie,Dessert,1,129.0
+1533,8,Paneer Burger,Burgers,1,199.0
+1533,13,Cappuccino,Hot drinks,1,129.0
+1534,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1534,5,Classic Burger,Burgers,1,189.0
+1534,19,Mango Shake,Cold drinks,1,129.0
+1535,1,Classic Margherita,Pizza,1,229.0
+1535,2,Pepperoni Supreme,Pizza,2,289.0
+1535,5,Classic Burger,Burgers,1,189.0
+1535,7,Crispy Chicken Burger,Burgers,1,219.0
+1535,8,Paneer Burger,Burgers,1,199.0
+1535,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1535,24,Vanilla Sundae,Dessert,1,119.0
+1536,6,Cheese Burger,Burgers,1,209.0
+1536,18,Cold Coffee,Cold drinks,1,139.0
+1536,23,Gulab Jamun,Dessert,2,89.0
+1537,2,Pepperoni Supreme,Pizza,1,289.0
+1537,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1537,21,Chocolate Brownie,Dessert,1,129.0
+1538,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1538,23,Gulab Jamun,Dessert,1,89.0
+1539,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1540,18,Cold Coffee,Cold drinks,1,139.0
+1541,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1541,16,Filter Coffee,Hot drinks,1,79.0
+1542,3,Veggie Pizza,Pizza,1,249.0
+1542,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1542,7,Crispy Chicken Burger,Burgers,1,219.0
+1543,3,Veggie Pizza,Pizza,1,249.0
+1543,6,Cheese Burger,Burgers,1,209.0
+1543,7,Crispy Chicken Burger,Burgers,1,219.0
+1543,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1543,21,Chocolate Brownie,Dessert,1,129.0
+1543,24,Vanilla Sundae,Dessert,1,119.0
+1544,2,Pepperoni Supreme,Pizza,1,289.0
+1544,16,Filter Coffee,Hot drinks,2,79.0
+1545,1,Classic Margherita,Pizza,1,229.0
+1545,20,Fresh Lime Soda,Cold drinks,1,69.0
+1546,9,Creamy Pasta,Pasta & Mains,1,209.0
+1546,12,Butter Chicken Bowl,Pasta & Mains,2,279.0
+1546,16,Filter Coffee,Hot drinks,2,79.0
+1546,24,Vanilla Sundae,Dessert,1,119.0
+1547,17,Iced Lemon Tea,Cold drinks,1,99.0
+1547,19,Mango Shake,Cold drinks,1,129.0
+1548,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1548,23,Gulab Jamun,Dessert,1,89.0
+1549,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1549,13,Cappuccino,Hot drinks,1,129.0
+1549,22,Cheesecake Slice,Dessert,1,169.0
+1550,3,Veggie Pizza,Pizza,1,249.0
+1550,6,Cheese Burger,Burgers,1,209.0
+1550,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1550,14,Masala Chai,Hot drinks,1,59.0
+1550,24,Vanilla Sundae,Dessert,1,119.0
+1551,14,Masala Chai,Hot drinks,2,59.0
+1552,1,Classic Margherita,Pizza,1,229.0
+1552,9,Creamy Pasta,Pasta & Mains,1,209.0
+1552,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1553,1,Classic Margherita,Pizza,1,229.0
+1553,3,Veggie Pizza,Pizza,1,249.0
+1553,24,Vanilla Sundae,Dessert,1,119.0
+1554,14,Masala Chai,Hot drinks,1,59.0
+1555,2,Pepperoni Supreme,Pizza,1,289.0
+1555,19,Mango Shake,Cold drinks,1,129.0
+1555,22,Cheesecake Slice,Dessert,1,169.0
+1556,9,Creamy Pasta,Pasta & Mains,1,209.0
+1556,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1556,20,Fresh Lime Soda,Cold drinks,1,69.0
+1557,17,Iced Lemon Tea,Cold drinks,1,99.0
+1558,8,Paneer Burger,Burgers,1,199.0
+1558,9,Creamy Pasta,Pasta & Mains,1,209.0
+1558,13,Cappuccino,Hot drinks,1,129.0
+1558,17,Iced Lemon Tea,Cold drinks,1,99.0
+1558,21,Chocolate Brownie,Dessert,1,129.0
+1559,9,Creamy Pasta,Pasta & Mains,1,209.0
+1559,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1559,19,Mango Shake,Cold drinks,1,129.0
+1559,22,Cheesecake Slice,Dessert,1,169.0
+1560,15,Hot Chocolate,Hot drinks,1,149.0
+1561,2,Pepperoni Supreme,Pizza,1,289.0
+1561,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1561,9,Creamy Pasta,Pasta & Mains,1,209.0
+1561,24,Vanilla Sundae,Dessert,1,119.0
+1562,5,Classic Burger,Burgers,1,189.0
+1562,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1563,3,Veggie Pizza,Pizza,1,249.0
+1563,5,Classic Burger,Burgers,2,189.0
+1563,8,Paneer Burger,Burgers,1,199.0
+1564,13,Cappuccino,Hot drinks,1,129.0
+1565,2,Pepperoni Supreme,Pizza,1,289.0
+1565,9,Creamy Pasta,Pasta & Mains,1,209.0
+1565,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1565,15,Hot Chocolate,Hot drinks,1,149.0
+1565,19,Mango Shake,Cold drinks,1,129.0
+1565,23,Gulab Jamun,Dessert,1,89.0
+1565,24,Vanilla Sundae,Dessert,1,119.0
+1566,1,Classic Margherita,Pizza,1,229.0
+1566,9,Creamy Pasta,Pasta & Mains,1,209.0
+1566,14,Masala Chai,Hot drinks,1,59.0
+1566,23,Gulab Jamun,Dessert,1,89.0
+1567,9,Creamy Pasta,Pasta & Mains,1,209.0
+1567,18,Cold Coffee,Cold drinks,1,139.0
+1567,24,Vanilla Sundae,Dessert,1,119.0
+1568,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1568,8,Paneer Burger,Burgers,1,199.0
+1568,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1569,15,Hot Chocolate,Hot drinks,1,149.0
+1569,16,Filter Coffee,Hot drinks,2,79.0
+1570,9,Creamy Pasta,Pasta & Mains,1,209.0
+1570,17,Iced Lemon Tea,Cold drinks,2,99.0
+1570,19,Mango Shake,Cold drinks,1,129.0
+1571,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1572,2,Pepperoni Supreme,Pizza,1,289.0
+1572,13,Cappuccino,Hot drinks,1,129.0
+1573,1,Classic Margherita,Pizza,1,229.0
+1573,13,Cappuccino,Hot drinks,1,129.0
+1573,20,Fresh Lime Soda,Cold drinks,1,69.0
+1574,14,Masala Chai,Hot drinks,2,59.0
+1575,21,Chocolate Brownie,Dessert,1,129.0
+1576,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1577,1,Classic Margherita,Pizza,2,229.0
+1577,6,Cheese Burger,Burgers,1,209.0
+1577,9,Creamy Pasta,Pasta & Mains,1,209.0
+1577,13,Cappuccino,Hot drinks,1,129.0
+1577,17,Iced Lemon Tea,Cold drinks,1,99.0
+1577,24,Vanilla Sundae,Dessert,1,119.0
+1578,5,Classic Burger,Burgers,1,189.0
+1578,6,Cheese Burger,Burgers,1,209.0
+1579,2,Pepperoni Supreme,Pizza,1,289.0
+1579,5,Classic Burger,Burgers,1,189.0
+1580,3,Veggie Pizza,Pizza,1,249.0
+1580,9,Creamy Pasta,Pasta & Mains,1,209.0
+1580,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1581,9,Creamy Pasta,Pasta & Mains,1,209.0
+1581,19,Mango Shake,Cold drinks,1,129.0
+1582,6,Cheese Burger,Burgers,1,209.0
+1582,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1582,19,Mango Shake,Cold drinks,1,129.0
+1583,7,Crispy Chicken Burger,Burgers,1,219.0
+1583,18,Cold Coffee,Cold drinks,1,139.0
+1584,6,Cheese Burger,Burgers,1,209.0
+1584,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1585,13,Cappuccino,Hot drinks,1,129.0
+1585,15,Hot Chocolate,Hot drinks,1,149.0
+1586,9,Creamy Pasta,Pasta & Mains,1,209.0
+1586,16,Filter Coffee,Hot drinks,1,79.0
+1587,3,Veggie Pizza,Pizza,1,249.0
+1587,7,Crispy Chicken Burger,Burgers,2,219.0
+1587,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1587,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1587,16,Filter Coffee,Hot drinks,1,79.0
+1587,21,Chocolate Brownie,Dessert,1,129.0
+1588,8,Paneer Burger,Burgers,1,199.0
+1588,17,Iced Lemon Tea,Cold drinks,1,99.0
+1588,21,Chocolate Brownie,Dessert,1,129.0
+1589,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1590,1,Classic Margherita,Pizza,1,229.0
+1590,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1590,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1590,13,Cappuccino,Hot drinks,1,129.0
+1590,17,Iced Lemon Tea,Cold drinks,1,99.0
+1591,2,Pepperoni Supreme,Pizza,1,289.0
+1591,6,Cheese Burger,Burgers,1,209.0
+1591,8,Paneer Burger,Burgers,1,199.0
+1591,9,Creamy Pasta,Pasta & Mains,1,209.0
+1592,3,Veggie Pizza,Pizza,1,249.0
+1592,9,Creamy Pasta,Pasta & Mains,1,209.0
+1592,16,Filter Coffee,Hot drinks,2,79.0
+1592,22,Cheesecake Slice,Dessert,1,169.0
+1593,14,Masala Chai,Hot drinks,1,59.0
+1593,16,Filter Coffee,Hot drinks,1,79.0
+1593,19,Mango Shake,Cold drinks,1,129.0
+1593,20,Fresh Lime Soda,Cold drinks,1,69.0
+1594,1,Classic Margherita,Pizza,1,229.0
+1594,3,Veggie Pizza,Pizza,1,249.0
+1594,8,Paneer Burger,Burgers,1,199.0
+1594,16,Filter Coffee,Hot drinks,1,79.0
+1595,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1595,14,Masala Chai,Hot drinks,1,59.0
+1595,21,Chocolate Brownie,Dessert,1,129.0
+1596,14,Masala Chai,Hot drinks,1,59.0
+1596,19,Mango Shake,Cold drinks,1,129.0
+1597,2,Pepperoni Supreme,Pizza,1,289.0
+1597,17,Iced Lemon Tea,Cold drinks,1,99.0
+1597,22,Cheesecake Slice,Dessert,1,169.0
+1598,1,Classic Margherita,Pizza,1,229.0
+1598,6,Cheese Burger,Burgers,1,209.0
+1598,9,Creamy Pasta,Pasta & Mains,1,209.0
+1598,17,Iced Lemon Tea,Cold drinks,1,99.0
+1598,18,Cold Coffee,Cold drinks,1,139.0
+1599,3,Veggie Pizza,Pizza,1,249.0
+1599,5,Classic Burger,Burgers,1,189.0
+1599,7,Crispy Chicken Burger,Burgers,1,219.0
+1599,9,Creamy Pasta,Pasta & Mains,1,209.0
+1599,13,Cappuccino,Hot drinks,1,129.0
+1599,19,Mango Shake,Cold drinks,1,129.0
+1599,20,Fresh Lime Soda,Cold drinks,1,69.0
+1600,2,Pepperoni Supreme,Pizza,1,289.0
+1600,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1600,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1601,1,Classic Margherita,Pizza,1,229.0
+1601,2,Pepperoni Supreme,Pizza,1,289.0
+1601,8,Paneer Burger,Burgers,1,199.0
+1601,9,Creamy Pasta,Pasta & Mains,1,209.0
+1601,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1601,24,Vanilla Sundae,Dessert,1,119.0
+1602,9,Creamy Pasta,Pasta & Mains,1,209.0
+1602,15,Hot Chocolate,Hot drinks,1,149.0
+1602,16,Filter Coffee,Hot drinks,1,79.0
+1602,23,Gulab Jamun,Dessert,1,89.0
+1603,8,Paneer Burger,Burgers,2,199.0
+1603,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1604,9,Creamy Pasta,Pasta & Mains,1,209.0
+1604,17,Iced Lemon Tea,Cold drinks,1,99.0
+1605,2,Pepperoni Supreme,Pizza,1,289.0
+1605,5,Classic Burger,Burgers,2,189.0
+1606,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1607,3,Veggie Pizza,Pizza,1,249.0
+1608,17,Iced Lemon Tea,Cold drinks,1,99.0
+1609,8,Paneer Burger,Burgers,1,199.0
+1609,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1610,2,Pepperoni Supreme,Pizza,1,289.0
+1610,5,Classic Burger,Burgers,1,189.0
+1610,14,Masala Chai,Hot drinks,1,59.0
+1610,16,Filter Coffee,Hot drinks,1,79.0
+1610,21,Chocolate Brownie,Dessert,1,129.0
+1610,22,Cheesecake Slice,Dessert,1,169.0
+1611,14,Masala Chai,Hot drinks,1,59.0
+1611,23,Gulab Jamun,Dessert,1,89.0
+1612,5,Classic Burger,Burgers,1,189.0
+1613,9,Creamy Pasta,Pasta & Mains,1,209.0
+1613,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1614,17,Iced Lemon Tea,Cold drinks,1,99.0
+1614,19,Mango Shake,Cold drinks,1,129.0
+1615,5,Classic Burger,Burgers,1,189.0
+1615,8,Paneer Burger,Burgers,1,199.0
+1615,19,Mango Shake,Cold drinks,1,129.0
+1616,7,Crispy Chicken Burger,Burgers,2,219.0
+1616,13,Cappuccino,Hot drinks,1,129.0
+1616,19,Mango Shake,Cold drinks,2,129.0
+1616,23,Gulab Jamun,Dessert,1,89.0
+1617,1,Classic Margherita,Pizza,1,229.0
+1617,5,Classic Burger,Burgers,1,189.0
+1617,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1617,17,Iced Lemon Tea,Cold drinks,1,99.0
+1618,2,Pepperoni Supreme,Pizza,1,289.0
+1618,16,Filter Coffee,Hot drinks,1,79.0
+1618,17,Iced Lemon Tea,Cold drinks,1,99.0
+1619,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1619,5,Classic Burger,Burgers,1,189.0
+1620,8,Paneer Burger,Burgers,1,199.0
+1620,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1620,20,Fresh Lime Soda,Cold drinks,1,69.0
+1620,24,Vanilla Sundae,Dessert,1,119.0
+1621,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1622,7,Crispy Chicken Burger,Burgers,2,219.0
+1622,8,Paneer Burger,Burgers,1,199.0
+1622,22,Cheesecake Slice,Dessert,1,169.0
+1622,23,Gulab Jamun,Dessert,2,89.0
+1623,1,Classic Margherita,Pizza,1,229.0
+1623,2,Pepperoni Supreme,Pizza,1,289.0
+1623,9,Creamy Pasta,Pasta & Mains,1,209.0
+1624,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1624,9,Creamy Pasta,Pasta & Mains,1,209.0
+1624,13,Cappuccino,Hot drinks,1,129.0
+1624,14,Masala Chai,Hot drinks,1,59.0
+1624,19,Mango Shake,Cold drinks,1,129.0
+1624,24,Vanilla Sundae,Dessert,1,119.0
+1625,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1625,13,Cappuccino,Hot drinks,1,129.0
+1625,14,Masala Chai,Hot drinks,1,59.0
+1625,24,Vanilla Sundae,Dessert,2,119.0
+1626,16,Filter Coffee,Hot drinks,1,79.0
+1627,18,Cold Coffee,Cold drinks,1,139.0
+1628,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1628,21,Chocolate Brownie,Dessert,1,129.0
+1629,1,Classic Margherita,Pizza,1,229.0
+1629,9,Creamy Pasta,Pasta & Mains,1,209.0
+1629,23,Gulab Jamun,Dessert,1,89.0
+1630,5,Classic Burger,Burgers,1,189.0
+1630,20,Fresh Lime Soda,Cold drinks,1,69.0
+1631,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1631,9,Creamy Pasta,Pasta & Mains,1,209.0
+1631,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1631,15,Hot Chocolate,Hot drinks,1,149.0
+1631,19,Mango Shake,Cold drinks,1,129.0
+1631,23,Gulab Jamun,Dessert,1,89.0
+1631,24,Vanilla Sundae,Dessert,1,119.0
+1632,1,Classic Margherita,Pizza,1,229.0
+1632,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1632,16,Filter Coffee,Hot drinks,1,79.0
+1632,21,Chocolate Brownie,Dessert,2,129.0
+1632,24,Vanilla Sundae,Dessert,2,119.0
+1633,13,Cappuccino,Hot drinks,1,129.0
+1634,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1634,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1634,15,Hot Chocolate,Hot drinks,1,149.0
+1635,2,Pepperoni Supreme,Pizza,1,289.0
+1635,13,Cappuccino,Hot drinks,1,129.0
+1635,21,Chocolate Brownie,Dessert,1,129.0
+1636,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1636,14,Masala Chai,Hot drinks,1,59.0
+1637,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1637,20,Fresh Lime Soda,Cold drinks,1,69.0
+1637,23,Gulab Jamun,Dessert,1,89.0
+1638,21,Chocolate Brownie,Dessert,1,129.0
+1638,23,Gulab Jamun,Dessert,1,89.0
+1639,1,Classic Margherita,Pizza,1,229.0
+1639,7,Crispy Chicken Burger,Burgers,1,219.0
+1639,9,Creamy Pasta,Pasta & Mains,1,209.0
+1639,15,Hot Chocolate,Hot drinks,1,149.0
+1639,17,Iced Lemon Tea,Cold drinks,1,99.0
+1639,24,Vanilla Sundae,Dessert,1,119.0
+1640,7,Crispy Chicken Burger,Burgers,1,219.0
+1640,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1640,16,Filter Coffee,Hot drinks,1,79.0
+1640,19,Mango Shake,Cold drinks,1,129.0
+1641,6,Cheese Burger,Burgers,1,209.0
+1641,17,Iced Lemon Tea,Cold drinks,1,99.0
+1641,22,Cheesecake Slice,Dessert,1,169.0
+1642,8,Paneer Burger,Burgers,1,199.0
+1642,23,Gulab Jamun,Dessert,1,89.0
+1643,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1643,13,Cappuccino,Hot drinks,1,129.0
+1643,15,Hot Chocolate,Hot drinks,1,149.0
+1643,24,Vanilla Sundae,Dessert,1,119.0
+1644,2,Pepperoni Supreme,Pizza,1,289.0
+1644,6,Cheese Burger,Burgers,1,209.0
+1644,8,Paneer Burger,Burgers,1,199.0
+1644,14,Masala Chai,Hot drinks,1,59.0
+1644,16,Filter Coffee,Hot drinks,1,79.0
+1644,17,Iced Lemon Tea,Cold drinks,1,99.0
+1644,18,Cold Coffee,Cold drinks,1,139.0
+1645,5,Classic Burger,Burgers,1,189.0
+1645,7,Crispy Chicken Burger,Burgers,1,219.0
+1645,16,Filter Coffee,Hot drinks,1,79.0
+1646,1,Classic Margherita,Pizza,1,229.0
+1646,14,Masala Chai,Hot drinks,1,59.0
+1646,18,Cold Coffee,Cold drinks,1,139.0
+1647,1,Classic Margherita,Pizza,1,229.0
+1648,7,Crispy Chicken Burger,Burgers,1,219.0
+1648,24,Vanilla Sundae,Dessert,1,119.0
+1649,3,Veggie Pizza,Pizza,1,249.0
+1649,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1649,9,Creamy Pasta,Pasta & Mains,1,209.0
+1649,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1649,15,Hot Chocolate,Hot drinks,1,149.0
+1649,23,Gulab Jamun,Dessert,1,89.0
+1650,5,Classic Burger,Burgers,1,189.0
+1651,23,Gulab Jamun,Dessert,1,89.0
+1652,5,Classic Burger,Burgers,2,189.0
+1652,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1652,21,Chocolate Brownie,Dessert,1,129.0
+1653,5,Classic Burger,Burgers,1,189.0
+1653,6,Cheese Burger,Burgers,1,209.0
+1654,2,Pepperoni Supreme,Pizza,1,289.0
+1654,7,Crispy Chicken Burger,Burgers,1,219.0
+1654,14,Masala Chai,Hot drinks,1,59.0
+1654,15,Hot Chocolate,Hot drinks,1,149.0
+1654,22,Cheesecake Slice,Dessert,1,169.0
+1654,23,Gulab Jamun,Dessert,1,89.0
+1655,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1655,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1655,17,Iced Lemon Tea,Cold drinks,1,99.0
+1655,19,Mango Shake,Cold drinks,1,129.0
+1656,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1656,6,Cheese Burger,Burgers,1,209.0
+1656,8,Paneer Burger,Burgers,1,199.0
+1656,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1656,13,Cappuccino,Hot drinks,1,129.0
+1656,24,Vanilla Sundae,Dessert,1,119.0
+1657,9,Creamy Pasta,Pasta & Mains,1,209.0
+1657,16,Filter Coffee,Hot drinks,1,79.0
+1657,17,Iced Lemon Tea,Cold drinks,1,99.0
+1658,6,Cheese Burger,Burgers,1,209.0
+1658,9,Creamy Pasta,Pasta & Mains,1,209.0
+1658,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1658,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1659,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1660,13,Cappuccino,Hot drinks,1,129.0
+1660,17,Iced Lemon Tea,Cold drinks,1,99.0
+1660,24,Vanilla Sundae,Dessert,1,119.0
+1661,13,Cappuccino,Hot drinks,1,129.0
+1662,3,Veggie Pizza,Pizza,1,249.0
+1662,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1662,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1663,1,Classic Margherita,Pizza,1,229.0
+1663,2,Pepperoni Supreme,Pizza,1,289.0
+1663,5,Classic Burger,Burgers,1,189.0
+1663,6,Cheese Burger,Burgers,1,209.0
+1663,13,Cappuccino,Hot drinks,1,129.0
+1663,14,Masala Chai,Hot drinks,1,59.0
+1663,24,Vanilla Sundae,Dessert,2,119.0
+1664,2,Pepperoni Supreme,Pizza,1,289.0
+1664,24,Vanilla Sundae,Dessert,1,119.0
+1665,1,Classic Margherita,Pizza,1,229.0
+1665,6,Cheese Burger,Burgers,1,209.0
+1665,16,Filter Coffee,Hot drinks,1,79.0
+1666,8,Paneer Burger,Burgers,1,199.0
+1666,9,Creamy Pasta,Pasta & Mains,2,209.0
+1666,13,Cappuccino,Hot drinks,1,129.0
+1666,17,Iced Lemon Tea,Cold drinks,2,99.0
+1667,15,Hot Chocolate,Hot drinks,1,149.0
+1668,6,Cheese Burger,Burgers,1,209.0
+1668,7,Crispy Chicken Burger,Burgers,2,219.0
+1668,8,Paneer Burger,Burgers,1,199.0
+1669,14,Masala Chai,Hot drinks,1,59.0
+1669,22,Cheesecake Slice,Dessert,1,169.0
+1669,24,Vanilla Sundae,Dessert,1,119.0
+1670,16,Filter Coffee,Hot drinks,2,79.0
+1670,24,Vanilla Sundae,Dessert,1,119.0
+1671,6,Cheese Burger,Burgers,1,209.0
+1671,9,Creamy Pasta,Pasta & Mains,1,209.0
+1671,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1671,13,Cappuccino,Hot drinks,2,129.0
+1671,18,Cold Coffee,Cold drinks,1,139.0
+1672,3,Veggie Pizza,Pizza,1,249.0
+1672,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1672,23,Gulab Jamun,Dessert,2,89.0
+1673,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1673,24,Vanilla Sundae,Dessert,2,119.0
+1674,19,Mango Shake,Cold drinks,1,129.0
+1675,5,Classic Burger,Burgers,1,189.0
+1675,6,Cheese Burger,Burgers,1,209.0
+1676,2,Pepperoni Supreme,Pizza,1,289.0
+1676,9,Creamy Pasta,Pasta & Mains,1,209.0
+1676,24,Vanilla Sundae,Dessert,1,119.0
+1677,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1677,17,Iced Lemon Tea,Cold drinks,1,99.0
+1678,9,Creamy Pasta,Pasta & Mains,1,209.0
+1679,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1679,7,Crispy Chicken Burger,Burgers,1,219.0
+1679,9,Creamy Pasta,Pasta & Mains,1,209.0
+1679,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1679,17,Iced Lemon Tea,Cold drinks,1,99.0
+1679,24,Vanilla Sundae,Dessert,1,119.0
+1680,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1680,6,Cheese Burger,Burgers,1,209.0
+1680,8,Paneer Burger,Burgers,1,199.0
+1680,9,Creamy Pasta,Pasta & Mains,1,209.0
+1680,23,Gulab Jamun,Dessert,1,89.0
+1681,5,Classic Burger,Burgers,1,189.0
+1681,9,Creamy Pasta,Pasta & Mains,1,209.0
+1681,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1681,16,Filter Coffee,Hot drinks,1,79.0
+1682,5,Classic Burger,Burgers,1,189.0
+1683,5,Classic Burger,Burgers,1,189.0
+1683,16,Filter Coffee,Hot drinks,1,79.0
+1683,22,Cheesecake Slice,Dessert,1,169.0
+1683,23,Gulab Jamun,Dessert,1,89.0
+1684,3,Veggie Pizza,Pizza,1,249.0
+1684,16,Filter Coffee,Hot drinks,1,79.0
+1684,20,Fresh Lime Soda,Cold drinks,1,69.0
+1685,1,Classic Margherita,Pizza,1,229.0
+1685,2,Pepperoni Supreme,Pizza,1,289.0
+1685,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1685,14,Masala Chai,Hot drinks,1,59.0
+1685,23,Gulab Jamun,Dessert,1,89.0
+1686,3,Veggie Pizza,Pizza,1,249.0
+1686,5,Classic Burger,Burgers,1,189.0
+1686,9,Creamy Pasta,Pasta & Mains,1,209.0
+1686,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1686,13,Cappuccino,Hot drinks,1,129.0
+1686,23,Gulab Jamun,Dessert,1,89.0
+1686,24,Vanilla Sundae,Dessert,1,119.0
+1687,17,Iced Lemon Tea,Cold drinks,1,99.0
+1687,21,Chocolate Brownie,Dessert,1,129.0
+1688,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1688,13,Cappuccino,Hot drinks,1,129.0
+1689,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1689,18,Cold Coffee,Cold drinks,1,139.0
+1689,19,Mango Shake,Cold drinks,1,129.0
+1689,24,Vanilla Sundae,Dessert,1,119.0
+1690,16,Filter Coffee,Hot drinks,1,79.0
+1691,8,Paneer Burger,Burgers,1,199.0
+1692,6,Cheese Burger,Burgers,1,209.0
+1692,24,Vanilla Sundae,Dessert,1,119.0
+1693,19,Mango Shake,Cold drinks,1,129.0
+1693,23,Gulab Jamun,Dessert,1,89.0
+1694,2,Pepperoni Supreme,Pizza,1,289.0
+1694,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1694,5,Classic Burger,Burgers,1,189.0
+1694,24,Vanilla Sundae,Dessert,1,119.0
+1695,15,Hot Chocolate,Hot drinks,1,149.0
+1695,21,Chocolate Brownie,Dessert,1,129.0
+1696,1,Classic Margherita,Pizza,1,229.0
+1696,6,Cheese Burger,Burgers,1,209.0
+1696,7,Crispy Chicken Burger,Burgers,1,219.0
+1697,2,Pepperoni Supreme,Pizza,1,289.0
+1697,17,Iced Lemon Tea,Cold drinks,1,99.0
+1697,19,Mango Shake,Cold drinks,2,129.0
+1697,21,Chocolate Brownie,Dessert,1,129.0
+1697,23,Gulab Jamun,Dessert,1,89.0
+1698,1,Classic Margherita,Pizza,2,229.0
+1698,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1698,14,Masala Chai,Hot drinks,1,59.0
+1698,16,Filter Coffee,Hot drinks,1,79.0
+1698,19,Mango Shake,Cold drinks,1,129.0
+1699,9,Creamy Pasta,Pasta & Mains,1,209.0
+1700,1,Classic Margherita,Pizza,1,229.0
+1700,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1700,7,Crispy Chicken Burger,Burgers,1,219.0
+1700,15,Hot Chocolate,Hot drinks,1,149.0
+1700,16,Filter Coffee,Hot drinks,1,79.0
+1700,18,Cold Coffee,Cold drinks,1,139.0
+1700,20,Fresh Lime Soda,Cold drinks,1,69.0
+1700,21,Chocolate Brownie,Dessert,1,129.0
+1701,1,Classic Margherita,Pizza,1,229.0
+1701,5,Classic Burger,Burgers,1,189.0
+1701,6,Cheese Burger,Burgers,1,209.0
+1702,14,Masala Chai,Hot drinks,1,59.0
+1702,15,Hot Chocolate,Hot drinks,1,149.0
+1702,19,Mango Shake,Cold drinks,1,129.0
+1703,6,Cheese Burger,Burgers,2,209.0
+1703,9,Creamy Pasta,Pasta & Mains,1,209.0
+1703,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1703,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1703,22,Cheesecake Slice,Dessert,1,169.0
+1703,23,Gulab Jamun,Dessert,1,89.0
+1704,1,Classic Margherita,Pizza,1,229.0
+1704,6,Cheese Burger,Burgers,1,209.0
+1705,2,Pepperoni Supreme,Pizza,1,289.0
+1705,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1705,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1705,15,Hot Chocolate,Hot drinks,1,149.0
+1706,7,Crispy Chicken Burger,Burgers,1,219.0
+1707,2,Pepperoni Supreme,Pizza,1,289.0
+1707,15,Hot Chocolate,Hot drinks,1,149.0
+1707,17,Iced Lemon Tea,Cold drinks,1,99.0
+1708,2,Pepperoni Supreme,Pizza,1,289.0
+1708,8,Paneer Burger,Burgers,1,199.0
+1708,16,Filter Coffee,Hot drinks,1,79.0
+1709,3,Veggie Pizza,Pizza,1,249.0
+1709,15,Hot Chocolate,Hot drinks,1,149.0
+1710,8,Paneer Burger,Burgers,2,199.0
+1710,9,Creamy Pasta,Pasta & Mains,1,209.0
+1711,3,Veggie Pizza,Pizza,1,249.0
+1711,5,Classic Burger,Burgers,1,189.0
+1711,8,Paneer Burger,Burgers,1,199.0
+1712,2,Pepperoni Supreme,Pizza,1,289.0
+1713,3,Veggie Pizza,Pizza,1,249.0
+1713,5,Classic Burger,Burgers,1,189.0
+1714,6,Cheese Burger,Burgers,1,209.0
+1714,22,Cheesecake Slice,Dessert,1,169.0
+1715,1,Classic Margherita,Pizza,2,229.0
+1715,19,Mango Shake,Cold drinks,1,129.0
+1716,8,Paneer Burger,Burgers,1,199.0
+1716,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1716,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1717,1,Classic Margherita,Pizza,2,229.0
+1717,2,Pepperoni Supreme,Pizza,1,289.0
+1717,5,Classic Burger,Burgers,1,189.0
+1718,3,Veggie Pizza,Pizza,1,249.0
+1718,9,Creamy Pasta,Pasta & Mains,1,209.0
+1719,8,Paneer Burger,Burgers,1,199.0
+1719,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1719,19,Mango Shake,Cold drinks,1,129.0
+1720,13,Cappuccino,Hot drinks,1,129.0
+1720,17,Iced Lemon Tea,Cold drinks,1,99.0
+1721,3,Veggie Pizza,Pizza,1,249.0
+1721,5,Classic Burger,Burgers,1,189.0
+1721,14,Masala Chai,Hot drinks,1,59.0
+1722,3,Veggie Pizza,Pizza,1,249.0
+1722,24,Vanilla Sundae,Dessert,1,119.0
+1723,6,Cheese Burger,Burgers,1,209.0
+1724,8,Paneer Burger,Burgers,1,199.0
+1724,20,Fresh Lime Soda,Cold drinks,1,69.0
+1725,14,Masala Chai,Hot drinks,1,59.0
+1726,1,Classic Margherita,Pizza,1,229.0
+1726,19,Mango Shake,Cold drinks,1,129.0
+1727,8,Paneer Burger,Burgers,1,199.0
+1727,22,Cheesecake Slice,Dessert,1,169.0
+1728,17,Iced Lemon Tea,Cold drinks,1,99.0
+1728,22,Cheesecake Slice,Dessert,1,169.0
+1729,2,Pepperoni Supreme,Pizza,1,289.0
+1729,5,Classic Burger,Burgers,1,189.0
+1729,15,Hot Chocolate,Hot drinks,1,149.0
+1729,17,Iced Lemon Tea,Cold drinks,1,99.0
+1730,24,Vanilla Sundae,Dessert,1,119.0
+1731,2,Pepperoni Supreme,Pizza,1,289.0
+1731,5,Classic Burger,Burgers,2,189.0
+1731,6,Cheese Burger,Burgers,1,209.0
+1731,9,Creamy Pasta,Pasta & Mains,1,209.0
+1731,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1731,14,Masala Chai,Hot drinks,1,59.0
+1731,22,Cheesecake Slice,Dessert,1,169.0
+1732,5,Classic Burger,Burgers,1,189.0
+1732,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1732,16,Filter Coffee,Hot drinks,1,79.0
+1733,1,Classic Margherita,Pizza,1,229.0
+1733,16,Filter Coffee,Hot drinks,1,79.0
+1733,18,Cold Coffee,Cold drinks,1,139.0
+1733,19,Mango Shake,Cold drinks,1,129.0
+1734,6,Cheese Burger,Burgers,1,209.0
+1734,8,Paneer Burger,Burgers,1,199.0
+1734,9,Creamy Pasta,Pasta & Mains,1,209.0
+1734,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1734,19,Mango Shake,Cold drinks,1,129.0
+1734,23,Gulab Jamun,Dessert,1,89.0
+1735,18,Cold Coffee,Cold drinks,1,139.0
+1735,22,Cheesecake Slice,Dessert,1,169.0
+1736,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1736,7,Crispy Chicken Burger,Burgers,1,219.0
+1736,8,Paneer Burger,Burgers,1,199.0
+1736,9,Creamy Pasta,Pasta & Mains,1,209.0
+1736,14,Masala Chai,Hot drinks,1,59.0
+1736,19,Mango Shake,Cold drinks,1,129.0
+1736,24,Vanilla Sundae,Dessert,1,119.0
+1737,2,Pepperoni Supreme,Pizza,1,289.0
+1738,1,Classic Margherita,Pizza,1,229.0
+1738,6,Cheese Burger,Burgers,1,209.0
+1738,9,Creamy Pasta,Pasta & Mains,2,209.0
+1738,14,Masala Chai,Hot drinks,1,59.0
+1738,15,Hot Chocolate,Hot drinks,1,149.0
+1738,16,Filter Coffee,Hot drinks,1,79.0
+1739,7,Crispy Chicken Burger,Burgers,1,219.0
+1740,14,Masala Chai,Hot drinks,1,59.0
+1740,20,Fresh Lime Soda,Cold drinks,1,69.0
+1741,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1741,9,Creamy Pasta,Pasta & Mains,1,209.0
+1742,1,Classic Margherita,Pizza,2,229.0
+1742,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1743,7,Crispy Chicken Burger,Burgers,1,219.0
+1743,9,Creamy Pasta,Pasta & Mains,1,209.0
+1743,15,Hot Chocolate,Hot drinks,1,149.0
+1743,21,Chocolate Brownie,Dessert,1,129.0
+1743,24,Vanilla Sundae,Dessert,1,119.0
+1744,19,Mango Shake,Cold drinks,1,129.0
+1744,20,Fresh Lime Soda,Cold drinks,1,69.0
+1745,2,Pepperoni Supreme,Pizza,1,289.0
+1745,9,Creamy Pasta,Pasta & Mains,1,209.0
+1745,13,Cappuccino,Hot drinks,1,129.0
+1746,2,Pepperoni Supreme,Pizza,1,289.0
+1746,13,Cappuccino,Hot drinks,1,129.0
+1746,15,Hot Chocolate,Hot drinks,1,149.0
+1746,19,Mango Shake,Cold drinks,1,129.0
+1746,21,Chocolate Brownie,Dessert,1,129.0
+1746,23,Gulab Jamun,Dessert,2,89.0
+1746,24,Vanilla Sundae,Dessert,1,119.0
+1747,8,Paneer Burger,Burgers,1,199.0
+1747,14,Masala Chai,Hot drinks,1,59.0
+1747,16,Filter Coffee,Hot drinks,1,79.0
+1748,8,Paneer Burger,Burgers,1,199.0
+1748,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1749,3,Veggie Pizza,Pizza,1,249.0
+1749,5,Classic Burger,Burgers,1,189.0
+1749,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1749,13,Cappuccino,Hot drinks,1,129.0
+1749,16,Filter Coffee,Hot drinks,1,79.0
+1750,5,Classic Burger,Burgers,1,189.0
+1750,9,Creamy Pasta,Pasta & Mains,1,209.0
+1750,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1750,17,Iced Lemon Tea,Cold drinks,1,99.0
+1750,19,Mango Shake,Cold drinks,1,129.0
+1750,24,Vanilla Sundae,Dessert,1,119.0
+1751,14,Masala Chai,Hot drinks,1,59.0
+1751,24,Vanilla Sundae,Dessert,1,119.0
+1752,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1752,14,Masala Chai,Hot drinks,1,59.0
+1752,17,Iced Lemon Tea,Cold drinks,1,99.0
+1753,2,Pepperoni Supreme,Pizza,1,289.0
+1753,6,Cheese Burger,Burgers,1,209.0
+1753,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1753,16,Filter Coffee,Hot drinks,1,79.0
+1753,17,Iced Lemon Tea,Cold drinks,1,99.0
+1754,3,Veggie Pizza,Pizza,1,249.0
+1754,6,Cheese Burger,Burgers,1,209.0
+1754,8,Paneer Burger,Burgers,1,199.0
+1754,9,Creamy Pasta,Pasta & Mains,1,209.0
+1755,1,Classic Margherita,Pizza,1,229.0
+1755,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1755,5,Classic Burger,Burgers,1,189.0
+1755,16,Filter Coffee,Hot drinks,1,79.0
+1756,18,Cold Coffee,Cold drinks,1,139.0
+1756,24,Vanilla Sundae,Dessert,1,119.0
+1757,6,Cheese Burger,Burgers,1,209.0
+1757,7,Crispy Chicken Burger,Burgers,1,219.0
+1757,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1757,13,Cappuccino,Hot drinks,1,129.0
+1758,9,Creamy Pasta,Pasta & Mains,1,209.0
+1758,23,Gulab Jamun,Dessert,1,89.0
+1759,8,Paneer Burger,Burgers,1,199.0
+1760,9,Creamy Pasta,Pasta & Mains,2,209.0
+1760,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1760,14,Masala Chai,Hot drinks,1,59.0
+1761,13,Cappuccino,Hot drinks,1,129.0
+1762,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1763,2,Pepperoni Supreme,Pizza,1,289.0
+1763,14,Masala Chai,Hot drinks,2,59.0
+1764,5,Classic Burger,Burgers,1,189.0
+1765,2,Pepperoni Supreme,Pizza,1,289.0
+1765,3,Veggie Pizza,Pizza,1,249.0
+1765,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1765,9,Creamy Pasta,Pasta & Mains,1,209.0
+1765,23,Gulab Jamun,Dessert,1,89.0
+1766,8,Paneer Burger,Burgers,1,199.0
+1766,15,Hot Chocolate,Hot drinks,1,149.0
+1766,23,Gulab Jamun,Dessert,1,89.0
+1767,7,Crispy Chicken Burger,Burgers,1,219.0
+1767,18,Cold Coffee,Cold drinks,1,139.0
+1768,14,Masala Chai,Hot drinks,1,59.0
+1769,1,Classic Margherita,Pizza,1,229.0
+1769,2,Pepperoni Supreme,Pizza,1,289.0
+1770,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1770,19,Mango Shake,Cold drinks,1,129.0
+1771,6,Cheese Burger,Burgers,1,209.0
+1771,16,Filter Coffee,Hot drinks,1,79.0
+1771,19,Mango Shake,Cold drinks,1,129.0
+1771,20,Fresh Lime Soda,Cold drinks,1,69.0
+1772,5,Classic Burger,Burgers,1,189.0
+1772,8,Paneer Burger,Burgers,1,199.0
+1772,24,Vanilla Sundae,Dessert,1,119.0
+1773,1,Classic Margherita,Pizza,1,229.0
+1773,6,Cheese Burger,Burgers,1,209.0
+1773,14,Masala Chai,Hot drinks,1,59.0
+1773,20,Fresh Lime Soda,Cold drinks,1,69.0
+1774,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1774,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1774,16,Filter Coffee,Hot drinks,1,79.0
+1775,9,Creamy Pasta,Pasta & Mains,1,209.0
+1776,1,Classic Margherita,Pizza,1,229.0
+1776,2,Pepperoni Supreme,Pizza,1,289.0
+1776,5,Classic Burger,Burgers,1,189.0
+1776,13,Cappuccino,Hot drinks,1,129.0
+1777,5,Classic Burger,Burgers,1,189.0
+1778,13,Cappuccino,Hot drinks,1,129.0
+1779,6,Cheese Burger,Burgers,1,209.0
+1779,8,Paneer Burger,Burgers,1,199.0
+1780,24,Vanilla Sundae,Dessert,1,119.0
+1781,3,Veggie Pizza,Pizza,1,249.0
+1781,5,Classic Burger,Burgers,1,189.0
+1781,16,Filter Coffee,Hot drinks,1,79.0
+1782,24,Vanilla Sundae,Dessert,1,119.0
+1783,22,Cheesecake Slice,Dessert,1,169.0
+1783,23,Gulab Jamun,Dessert,1,89.0
+1784,16,Filter Coffee,Hot drinks,1,79.0
+1785,6,Cheese Burger,Burgers,1,209.0
+1785,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1785,14,Masala Chai,Hot drinks,1,59.0
+1785,19,Mango Shake,Cold drinks,1,129.0
+1786,1,Classic Margherita,Pizza,1,229.0
+1786,2,Pepperoni Supreme,Pizza,2,289.0
+1786,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1786,13,Cappuccino,Hot drinks,1,129.0
+1787,2,Pepperoni Supreme,Pizza,1,289.0
+1787,17,Iced Lemon Tea,Cold drinks,1,99.0
+1787,24,Vanilla Sundae,Dessert,2,119.0
+1788,3,Veggie Pizza,Pizza,1,249.0
+1788,23,Gulab Jamun,Dessert,1,89.0
+1789,16,Filter Coffee,Hot drinks,1,79.0
+1790,3,Veggie Pizza,Pizza,1,249.0
+1790,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1790,15,Hot Chocolate,Hot drinks,2,149.0
+1790,17,Iced Lemon Tea,Cold drinks,1,99.0
+1791,8,Paneer Burger,Burgers,1,199.0
+1791,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1791,19,Mango Shake,Cold drinks,1,129.0
+1791,22,Cheesecake Slice,Dessert,1,169.0
+1792,5,Classic Burger,Burgers,1,189.0
+1792,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1792,13,Cappuccino,Hot drinks,1,129.0
+1792,17,Iced Lemon Tea,Cold drinks,1,99.0
+1793,1,Classic Margherita,Pizza,1,229.0
+1793,2,Pepperoni Supreme,Pizza,2,289.0
+1793,6,Cheese Burger,Burgers,1,209.0
+1793,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1793,15,Hot Chocolate,Hot drinks,1,149.0
+1794,5,Classic Burger,Burgers,1,189.0
+1795,1,Classic Margherita,Pizza,1,229.0
+1795,13,Cappuccino,Hot drinks,1,129.0
+1795,19,Mango Shake,Cold drinks,1,129.0
+1796,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1797,2,Pepperoni Supreme,Pizza,1,289.0
+1797,7,Crispy Chicken Burger,Burgers,1,219.0
+1797,9,Creamy Pasta,Pasta & Mains,1,209.0
+1797,18,Cold Coffee,Cold drinks,2,139.0
+1797,21,Chocolate Brownie,Dessert,1,129.0
+1798,3,Veggie Pizza,Pizza,1,249.0
+1798,14,Masala Chai,Hot drinks,1,59.0
+1799,1,Classic Margherita,Pizza,1,229.0
+1799,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1800,9,Creamy Pasta,Pasta & Mains,1,209.0
+1800,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1800,13,Cappuccino,Hot drinks,1,129.0
+1801,3,Veggie Pizza,Pizza,1,249.0
+1801,7,Crispy Chicken Burger,Burgers,1,219.0
+1802,1,Classic Margherita,Pizza,1,229.0
+1802,7,Crispy Chicken Burger,Burgers,1,219.0
+1802,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1803,5,Classic Burger,Burgers,1,189.0
+1803,7,Crispy Chicken Burger,Burgers,1,219.0
+1803,9,Creamy Pasta,Pasta & Mains,1,209.0
+1803,24,Vanilla Sundae,Dessert,1,119.0
+1804,19,Mango Shake,Cold drinks,1,129.0
+1805,1,Classic Margherita,Pizza,1,229.0
+1805,8,Paneer Burger,Burgers,1,199.0
+1806,2,Pepperoni Supreme,Pizza,1,289.0
+1806,6,Cheese Burger,Burgers,1,209.0
+1806,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1806,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1806,15,Hot Chocolate,Hot drinks,1,149.0
+1806,16,Filter Coffee,Hot drinks,1,79.0
+1807,16,Filter Coffee,Hot drinks,1,79.0
+1807,20,Fresh Lime Soda,Cold drinks,1,69.0
+1808,1,Classic Margherita,Pizza,1,229.0
+1808,3,Veggie Pizza,Pizza,1,249.0
+1808,6,Cheese Burger,Burgers,1,209.0
+1809,5,Classic Burger,Burgers,1,189.0
+1809,16,Filter Coffee,Hot drinks,1,79.0
+1809,17,Iced Lemon Tea,Cold drinks,1,99.0
+1809,22,Cheesecake Slice,Dessert,1,169.0
+1810,1,Classic Margherita,Pizza,1,229.0
+1811,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1811,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1811,23,Gulab Jamun,Dessert,1,89.0
+1812,5,Classic Burger,Burgers,2,189.0
+1812,14,Masala Chai,Hot drinks,1,59.0
+1812,15,Hot Chocolate,Hot drinks,1,149.0
+1812,24,Vanilla Sundae,Dessert,1,119.0
+1813,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1814,2,Pepperoni Supreme,Pizza,1,289.0
+1814,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1815,20,Fresh Lime Soda,Cold drinks,1,69.0
+1816,1,Classic Margherita,Pizza,1,229.0
+1816,5,Classic Burger,Burgers,1,189.0
+1816,18,Cold Coffee,Cold drinks,1,139.0
+1816,19,Mango Shake,Cold drinks,1,129.0
+1816,22,Cheesecake Slice,Dessert,1,169.0
+1817,16,Filter Coffee,Hot drinks,1,79.0
+1818,8,Paneer Burger,Burgers,1,199.0
+1818,13,Cappuccino,Hot drinks,1,129.0
+1818,19,Mango Shake,Cold drinks,1,129.0
+1819,3,Veggie Pizza,Pizza,1,249.0
+1819,5,Classic Burger,Burgers,1,189.0
+1819,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1819,23,Gulab Jamun,Dessert,1,89.0
+1820,5,Classic Burger,Burgers,1,189.0
+1820,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1820,16,Filter Coffee,Hot drinks,1,79.0
+1820,22,Cheesecake Slice,Dessert,1,169.0
+1821,1,Classic Margherita,Pizza,1,229.0
+1821,6,Cheese Burger,Burgers,1,209.0
+1821,7,Crispy Chicken Burger,Burgers,1,219.0
+1821,20,Fresh Lime Soda,Cold drinks,1,69.0
+1822,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1822,8,Paneer Burger,Burgers,1,199.0
+1822,11,Veg Fried Rice,Pasta & Mains,3,169.0
+1823,3,Veggie Pizza,Pizza,3,249.0
+1823,15,Hot Chocolate,Hot drinks,1,149.0
+1823,17,Iced Lemon Tea,Cold drinks,1,99.0
+1823,21,Chocolate Brownie,Dessert,1,129.0
+1824,8,Paneer Burger,Burgers,1,199.0
+1825,9,Creamy Pasta,Pasta & Mains,1,209.0
+1825,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1825,17,Iced Lemon Tea,Cold drinks,1,99.0
+1826,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1827,3,Veggie Pizza,Pizza,1,249.0
+1827,5,Classic Burger,Burgers,1,189.0
+1827,7,Crispy Chicken Burger,Burgers,1,219.0
+1827,8,Paneer Burger,Burgers,1,199.0
+1827,23,Gulab Jamun,Dessert,1,89.0
+1827,24,Vanilla Sundae,Dessert,1,119.0
+1828,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1828,14,Masala Chai,Hot drinks,1,59.0
+1829,1,Classic Margherita,Pizza,2,229.0
+1829,16,Filter Coffee,Hot drinks,2,79.0
+1829,24,Vanilla Sundae,Dessert,1,119.0
+1830,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1830,19,Mango Shake,Cold drinks,1,129.0
+1831,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1831,8,Paneer Burger,Burgers,1,199.0
+1831,18,Cold Coffee,Cold drinks,1,139.0
+1831,19,Mango Shake,Cold drinks,1,129.0
+1832,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1832,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1832,16,Filter Coffee,Hot drinks,2,79.0
+1832,19,Mango Shake,Cold drinks,1,129.0
+1832,20,Fresh Lime Soda,Cold drinks,1,69.0
+1833,15,Hot Chocolate,Hot drinks,1,149.0
+1833,19,Mango Shake,Cold drinks,2,129.0
+1833,23,Gulab Jamun,Dessert,1,89.0
+1834,1,Classic Margherita,Pizza,1,229.0
+1834,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1834,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1834,13,Cappuccino,Hot drinks,1,129.0
+1834,23,Gulab Jamun,Dessert,1,89.0
+1835,3,Veggie Pizza,Pizza,1,249.0
+1835,9,Creamy Pasta,Pasta & Mains,1,209.0
+1835,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1835,22,Cheesecake Slice,Dessert,1,169.0
+1836,8,Paneer Burger,Burgers,1,199.0
+1836,20,Fresh Lime Soda,Cold drinks,1,69.0
+1837,8,Paneer Burger,Burgers,4,199.0
+1837,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1837,19,Mango Shake,Cold drinks,1,129.0
+1838,20,Fresh Lime Soda,Cold drinks,1,69.0
+1838,23,Gulab Jamun,Dessert,1,89.0
+1839,17,Iced Lemon Tea,Cold drinks,1,99.0
+1840,6,Cheese Burger,Burgers,1,209.0
+1840,8,Paneer Burger,Burgers,1,199.0
+1840,13,Cappuccino,Hot drinks,1,129.0
+1841,14,Masala Chai,Hot drinks,1,59.0
+1841,16,Filter Coffee,Hot drinks,1,79.0
+1841,19,Mango Shake,Cold drinks,1,129.0
+1842,5,Classic Burger,Burgers,1,189.0
+1842,6,Cheese Burger,Burgers,1,209.0
+1843,1,Classic Margherita,Pizza,1,229.0
+1844,17,Iced Lemon Tea,Cold drinks,1,99.0
+1845,1,Classic Margherita,Pizza,1,229.0
+1845,6,Cheese Burger,Burgers,1,209.0
+1845,7,Crispy Chicken Burger,Burgers,1,219.0
+1845,8,Paneer Burger,Burgers,1,199.0
+1845,9,Creamy Pasta,Pasta & Mains,2,209.0
+1846,5,Classic Burger,Burgers,1,189.0
+1846,7,Crispy Chicken Burger,Burgers,1,219.0
+1846,19,Mango Shake,Cold drinks,1,129.0
+1847,2,Pepperoni Supreme,Pizza,1,289.0
+1847,16,Filter Coffee,Hot drinks,1,79.0
+1847,24,Vanilla Sundae,Dessert,1,119.0
+1848,3,Veggie Pizza,Pizza,1,249.0
+1848,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1849,13,Cappuccino,Hot drinks,1,129.0
+1849,24,Vanilla Sundae,Dessert,1,119.0
+1850,3,Veggie Pizza,Pizza,1,249.0
+1850,16,Filter Coffee,Hot drinks,1,79.0
+1851,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1851,24,Vanilla Sundae,Dessert,1,119.0
+1852,5,Classic Burger,Burgers,1,189.0
+1853,1,Classic Margherita,Pizza,1,229.0
+1853,7,Crispy Chicken Burger,Burgers,1,219.0
+1853,9,Creamy Pasta,Pasta & Mains,1,209.0
+1853,17,Iced Lemon Tea,Cold drinks,1,99.0
+1853,19,Mango Shake,Cold drinks,1,129.0
+1853,21,Chocolate Brownie,Dessert,1,129.0
+1853,23,Gulab Jamun,Dessert,1,89.0
+1853,24,Vanilla Sundae,Dessert,2,119.0
+1854,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1854,16,Filter Coffee,Hot drinks,2,79.0
+1855,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1855,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1855,24,Vanilla Sundae,Dessert,1,119.0
+1856,1,Classic Margherita,Pizza,1,229.0
+1856,14,Masala Chai,Hot drinks,1,59.0
+1856,16,Filter Coffee,Hot drinks,1,79.0
+1856,20,Fresh Lime Soda,Cold drinks,1,69.0
+1857,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1857,13,Cappuccino,Hot drinks,1,129.0
+1857,15,Hot Chocolate,Hot drinks,1,149.0
+1858,5,Classic Burger,Burgers,1,189.0
+1859,3,Veggie Pizza,Pizza,1,249.0
+1859,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1860,3,Veggie Pizza,Pizza,1,249.0
+1860,19,Mango Shake,Cold drinks,1,129.0
+1861,7,Crispy Chicken Burger,Burgers,1,219.0
+1861,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1861,23,Gulab Jamun,Dessert,2,89.0
+1862,5,Classic Burger,Burgers,1,189.0
+1862,9,Creamy Pasta,Pasta & Mains,1,209.0
+1862,19,Mango Shake,Cold drinks,2,129.0
+1862,23,Gulab Jamun,Dessert,1,89.0
+1863,9,Creamy Pasta,Pasta & Mains,1,209.0
+1863,22,Cheesecake Slice,Dessert,1,169.0
+1864,2,Pepperoni Supreme,Pizza,1,289.0
+1864,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1865,6,Cheese Burger,Burgers,1,209.0
+1865,15,Hot Chocolate,Hot drinks,1,149.0
+1866,23,Gulab Jamun,Dessert,1,89.0
+1867,1,Classic Margherita,Pizza,1,229.0
+1867,2,Pepperoni Supreme,Pizza,1,289.0
+1867,13,Cappuccino,Hot drinks,1,129.0
+1867,18,Cold Coffee,Cold drinks,1,139.0
+1867,19,Mango Shake,Cold drinks,1,129.0
+1868,1,Classic Margherita,Pizza,1,229.0
+1868,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1868,18,Cold Coffee,Cold drinks,1,139.0
+1868,23,Gulab Jamun,Dessert,1,89.0
+1868,24,Vanilla Sundae,Dessert,1,119.0
+1869,8,Paneer Burger,Burgers,1,199.0
+1869,17,Iced Lemon Tea,Cold drinks,1,99.0
+1870,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1871,5,Classic Burger,Burgers,1,189.0
+1871,23,Gulab Jamun,Dessert,2,89.0
+1872,5,Classic Burger,Burgers,1,189.0
+1872,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1872,19,Mango Shake,Cold drinks,1,129.0
+1873,9,Creamy Pasta,Pasta & Mains,1,209.0
+1873,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1874,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1874,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1874,14,Masala Chai,Hot drinks,1,59.0
+1874,16,Filter Coffee,Hot drinks,1,79.0
+1874,24,Vanilla Sundae,Dessert,1,119.0
+1875,17,Iced Lemon Tea,Cold drinks,1,99.0
+1875,18,Cold Coffee,Cold drinks,1,139.0
+1875,22,Cheesecake Slice,Dessert,1,169.0
+1875,23,Gulab Jamun,Dessert,1,89.0
+1876,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1876,9,Creamy Pasta,Pasta & Mains,1,209.0
+1876,13,Cappuccino,Hot drinks,1,129.0
+1877,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1878,15,Hot Chocolate,Hot drinks,2,149.0
+1879,15,Hot Chocolate,Hot drinks,1,149.0
+1879,24,Vanilla Sundae,Dessert,1,119.0
+1880,7,Crispy Chicken Burger,Burgers,1,219.0
+1880,8,Paneer Burger,Burgers,1,199.0
+1880,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1880,16,Filter Coffee,Hot drinks,1,79.0
+1880,18,Cold Coffee,Cold drinks,1,139.0
+1881,5,Classic Burger,Burgers,1,189.0
+1881,7,Crispy Chicken Burger,Burgers,1,219.0
+1881,18,Cold Coffee,Cold drinks,1,139.0
+1881,19,Mango Shake,Cold drinks,1,129.0
+1882,16,Filter Coffee,Hot drinks,1,79.0
+1883,2,Pepperoni Supreme,Pizza,1,289.0
+1883,5,Classic Burger,Burgers,1,189.0
+1884,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1884,16,Filter Coffee,Hot drinks,1,79.0
+1885,5,Classic Burger,Burgers,1,189.0
+1885,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1885,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1886,5,Classic Burger,Burgers,1,189.0
+1886,24,Vanilla Sundae,Dessert,2,119.0
+1887,6,Cheese Burger,Burgers,1,209.0
+1887,9,Creamy Pasta,Pasta & Mains,2,209.0
+1887,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1888,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1888,21,Chocolate Brownie,Dessert,1,129.0
+1889,5,Classic Burger,Burgers,1,189.0
+1889,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1889,21,Chocolate Brownie,Dessert,1,129.0
+1889,23,Gulab Jamun,Dessert,2,89.0
+1890,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1890,8,Paneer Burger,Burgers,1,199.0
+1890,13,Cappuccino,Hot drinks,1,129.0
+1890,22,Cheesecake Slice,Dessert,1,169.0
+1891,1,Classic Margherita,Pizza,1,229.0
+1891,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1891,17,Iced Lemon Tea,Cold drinks,1,99.0
+1891,22,Cheesecake Slice,Dessert,1,169.0
+1892,7,Crispy Chicken Burger,Burgers,1,219.0
+1892,22,Cheesecake Slice,Dessert,1,169.0
+1892,23,Gulab Jamun,Dessert,1,89.0
+1893,6,Cheese Burger,Burgers,1,209.0
+1893,7,Crispy Chicken Burger,Burgers,1,219.0
+1894,3,Veggie Pizza,Pizza,1,249.0
+1894,5,Classic Burger,Burgers,1,189.0
+1894,7,Crispy Chicken Burger,Burgers,1,219.0
+1894,9,Creamy Pasta,Pasta & Mains,1,209.0
+1894,24,Vanilla Sundae,Dessert,1,119.0
+1895,2,Pepperoni Supreme,Pizza,1,289.0
+1895,8,Paneer Burger,Burgers,3,199.0
+1895,16,Filter Coffee,Hot drinks,1,79.0
+1896,2,Pepperoni Supreme,Pizza,1,289.0
+1896,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1896,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1896,14,Masala Chai,Hot drinks,1,59.0
+1896,19,Mango Shake,Cold drinks,1,129.0
+1897,7,Crispy Chicken Burger,Burgers,1,219.0
+1897,9,Creamy Pasta,Pasta & Mains,1,209.0
+1897,19,Mango Shake,Cold drinks,1,129.0
+1898,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1898,6,Cheese Burger,Burgers,1,209.0
+1898,20,Fresh Lime Soda,Cold drinks,1,69.0
+1899,22,Cheesecake Slice,Dessert,1,169.0
+1900,6,Cheese Burger,Burgers,1,209.0
+1901,2,Pepperoni Supreme,Pizza,1,289.0
+1901,6,Cheese Burger,Burgers,1,209.0
+1901,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1902,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1902,24,Vanilla Sundae,Dessert,1,119.0
+1903,5,Classic Burger,Burgers,1,189.0
+1903,7,Crispy Chicken Burger,Burgers,1,219.0
+1903,13,Cappuccino,Hot drinks,1,129.0
+1904,3,Veggie Pizza,Pizza,1,249.0
+1904,19,Mango Shake,Cold drinks,1,129.0
+1905,24,Vanilla Sundae,Dessert,2,119.0
+1906,13,Cappuccino,Hot drinks,1,129.0
+1907,3,Veggie Pizza,Pizza,1,249.0
+1907,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1908,5,Classic Burger,Burgers,1,189.0
+1908,8,Paneer Burger,Burgers,1,199.0
+1908,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1908,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1908,13,Cappuccino,Hot drinks,1,129.0
+1909,5,Classic Burger,Burgers,1,189.0
+1909,8,Paneer Burger,Burgers,1,199.0
+1909,13,Cappuccino,Hot drinks,2,129.0
+1909,17,Iced Lemon Tea,Cold drinks,1,99.0
+1909,19,Mango Shake,Cold drinks,1,129.0
+1909,20,Fresh Lime Soda,Cold drinks,1,69.0
+1909,21,Chocolate Brownie,Dessert,1,129.0
+1910,8,Paneer Burger,Burgers,1,199.0
+1910,13,Cappuccino,Hot drinks,1,129.0
+1910,16,Filter Coffee,Hot drinks,1,79.0
+1910,22,Cheesecake Slice,Dessert,2,169.0
+1911,23,Gulab Jamun,Dessert,1,89.0
+1912,6,Cheese Burger,Burgers,1,209.0
+1912,12,Butter Chicken Bowl,Pasta & Mains,2,279.0
+1912,22,Cheesecake Slice,Dessert,1,169.0
+1912,23,Gulab Jamun,Dessert,1,89.0
+1912,24,Vanilla Sundae,Dessert,1,119.0
+1913,6,Cheese Burger,Burgers,1,209.0
+1913,9,Creamy Pasta,Pasta & Mains,1,209.0
+1913,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1913,22,Cheesecake Slice,Dessert,1,169.0
+1914,5,Classic Burger,Burgers,1,189.0
+1914,6,Cheese Burger,Burgers,1,209.0
+1914,7,Crispy Chicken Burger,Burgers,1,219.0
+1914,8,Paneer Burger,Burgers,1,199.0
+1914,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1914,13,Cappuccino,Hot drinks,1,129.0
+1915,2,Pepperoni Supreme,Pizza,1,289.0
+1915,5,Classic Burger,Burgers,1,189.0
+1915,6,Cheese Burger,Burgers,1,209.0
+1915,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1915,16,Filter Coffee,Hot drinks,2,79.0
+1915,18,Cold Coffee,Cold drinks,1,139.0
+1916,16,Filter Coffee,Hot drinks,1,79.0
+1917,2,Pepperoni Supreme,Pizza,1,289.0
+1917,14,Masala Chai,Hot drinks,1,59.0
+1917,16,Filter Coffee,Hot drinks,1,79.0
+1917,22,Cheesecake Slice,Dessert,1,169.0
+1918,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1919,13,Cappuccino,Hot drinks,1,129.0
+1919,16,Filter Coffee,Hot drinks,1,79.0
+1920,7,Crispy Chicken Burger,Burgers,1,219.0
+1921,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1921,16,Filter Coffee,Hot drinks,1,79.0
+1922,1,Classic Margherita,Pizza,1,229.0
+1922,5,Classic Burger,Burgers,1,189.0
+1922,23,Gulab Jamun,Dessert,1,89.0
+1923,17,Iced Lemon Tea,Cold drinks,1,99.0
+1923,22,Cheesecake Slice,Dessert,1,169.0
+1924,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1924,16,Filter Coffee,Hot drinks,1,79.0
+1925,5,Classic Burger,Burgers,1,189.0
+1925,8,Paneer Burger,Burgers,1,199.0
+1925,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1926,3,Veggie Pizza,Pizza,2,249.0
+1926,16,Filter Coffee,Hot drinks,1,79.0
+1926,17,Iced Lemon Tea,Cold drinks,1,99.0
+1927,2,Pepperoni Supreme,Pizza,2,289.0
+1927,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1928,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1929,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1929,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1929,14,Masala Chai,Hot drinks,1,59.0
+1929,17,Iced Lemon Tea,Cold drinks,1,99.0
+1929,18,Cold Coffee,Cold drinks,2,139.0
+1929,19,Mango Shake,Cold drinks,1,129.0
+1929,20,Fresh Lime Soda,Cold drinks,1,69.0
+1930,5,Classic Burger,Burgers,1,189.0
+1930,6,Cheese Burger,Burgers,1,209.0
+1930,19,Mango Shake,Cold drinks,1,129.0
+1931,2,Pepperoni Supreme,Pizza,1,289.0
+1931,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1932,2,Pepperoni Supreme,Pizza,1,289.0
+1932,3,Veggie Pizza,Pizza,1,249.0
+1932,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1932,7,Crispy Chicken Burger,Burgers,1,219.0
+1932,8,Paneer Burger,Burgers,1,199.0
+1932,9,Creamy Pasta,Pasta & Mains,1,209.0
+1933,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1933,9,Creamy Pasta,Pasta & Mains,1,209.0
+1933,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1933,13,Cappuccino,Hot drinks,1,129.0
+1934,19,Mango Shake,Cold drinks,1,129.0
+1934,21,Chocolate Brownie,Dessert,1,129.0
+1935,3,Veggie Pizza,Pizza,1,249.0
+1935,5,Classic Burger,Burgers,2,189.0
+1935,8,Paneer Burger,Burgers,1,199.0
+1936,5,Classic Burger,Burgers,2,189.0
+1936,8,Paneer Burger,Burgers,1,199.0
+1936,14,Masala Chai,Hot drinks,1,59.0
+1937,1,Classic Margherita,Pizza,1,229.0
+1937,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1938,7,Crispy Chicken Burger,Burgers,1,219.0
+1938,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1938,22,Cheesecake Slice,Dessert,1,169.0
+1939,2,Pepperoni Supreme,Pizza,2,289.0
+1939,24,Vanilla Sundae,Dessert,1,119.0
+1940,4,Spicy Buffalo Blaze,Pizza,2,299.0
+1940,6,Cheese Burger,Burgers,1,209.0
+1940,16,Filter Coffee,Hot drinks,1,79.0
+1941,19,Mango Shake,Cold drinks,1,129.0
+1941,24,Vanilla Sundae,Dessert,1,119.0
+1942,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1943,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1943,20,Fresh Lime Soda,Cold drinks,1,69.0
+1944,2,Pepperoni Supreme,Pizza,1,289.0
+1944,3,Veggie Pizza,Pizza,1,249.0
+1944,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1944,22,Cheesecake Slice,Dessert,1,169.0
+1945,1,Classic Margherita,Pizza,1,229.0
+1945,2,Pepperoni Supreme,Pizza,1,289.0
+1945,7,Crispy Chicken Burger,Burgers,3,219.0
+1945,8,Paneer Burger,Burgers,1,199.0
+1946,1,Classic Margherita,Pizza,1,229.0
+1946,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1946,23,Gulab Jamun,Dessert,1,89.0
+1947,8,Paneer Burger,Burgers,1,199.0
+1947,9,Creamy Pasta,Pasta & Mains,1,209.0
+1948,14,Masala Chai,Hot drinks,1,59.0
+1949,17,Iced Lemon Tea,Cold drinks,1,99.0
+1950,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1951,7,Crispy Chicken Burger,Burgers,1,219.0
+1951,24,Vanilla Sundae,Dessert,1,119.0
+1952,2,Pepperoni Supreme,Pizza,1,289.0
+1952,22,Cheesecake Slice,Dessert,1,169.0
+1953,2,Pepperoni Supreme,Pizza,1,289.0
+1953,17,Iced Lemon Tea,Cold drinks,1,99.0
+1954,8,Paneer Burger,Burgers,1,199.0
+1954,9,Creamy Pasta,Pasta & Mains,1,209.0
+1954,14,Masala Chai,Hot drinks,1,59.0
+1954,16,Filter Coffee,Hot drinks,1,79.0
+1955,5,Classic Burger,Burgers,1,189.0
+1955,13,Cappuccino,Hot drinks,1,129.0
+1955,14,Masala Chai,Hot drinks,1,59.0
+1955,17,Iced Lemon Tea,Cold drinks,1,99.0
+1955,21,Chocolate Brownie,Dessert,1,129.0
+1955,24,Vanilla Sundae,Dessert,1,119.0
+1956,8,Paneer Burger,Burgers,1,199.0
+1957,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1957,19,Mango Shake,Cold drinks,1,129.0
+1958,6,Cheese Burger,Burgers,1,209.0
+1958,16,Filter Coffee,Hot drinks,1,79.0
+1958,23,Gulab Jamun,Dessert,1,89.0
+1959,3,Veggie Pizza,Pizza,1,249.0
+1959,5,Classic Burger,Burgers,1,189.0
+1960,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1960,8,Paneer Burger,Burgers,1,199.0
+1961,5,Classic Burger,Burgers,1,189.0
+1961,7,Crispy Chicken Burger,Burgers,1,219.0
+1961,24,Vanilla Sundae,Dessert,1,119.0
+1962,17,Iced Lemon Tea,Cold drinks,2,99.0
+1962,23,Gulab Jamun,Dessert,1,89.0
+1962,24,Vanilla Sundae,Dessert,1,119.0
+1963,5,Classic Burger,Burgers,1,189.0
+1963,8,Paneer Burger,Burgers,1,199.0
+1963,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1963,13,Cappuccino,Hot drinks,2,129.0
+1963,14,Masala Chai,Hot drinks,1,59.0
+1964,22,Cheesecake Slice,Dessert,1,169.0
+1965,9,Creamy Pasta,Pasta & Mains,2,209.0
+1965,11,Veg Fried Rice,Pasta & Mains,2,169.0
+1966,5,Classic Burger,Burgers,1,189.0
+1966,18,Cold Coffee,Cold drinks,1,139.0
+1967,9,Creamy Pasta,Pasta & Mains,1,209.0
+1968,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1968,14,Masala Chai,Hot drinks,1,59.0
+1968,15,Hot Chocolate,Hot drinks,1,149.0
+1969,24,Vanilla Sundae,Dessert,1,119.0
+1970,5,Classic Burger,Burgers,1,189.0
+1970,9,Creamy Pasta,Pasta & Mains,1,209.0
+1970,22,Cheesecake Slice,Dessert,1,169.0
+1970,24,Vanilla Sundae,Dessert,1,119.0
+1971,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1972,3,Veggie Pizza,Pizza,1,249.0
+1972,14,Masala Chai,Hot drinks,1,59.0
+1972,22,Cheesecake Slice,Dessert,1,169.0
+1973,2,Pepperoni Supreme,Pizza,1,289.0
+1973,23,Gulab Jamun,Dessert,1,89.0
+1974,5,Classic Burger,Burgers,1,189.0
+1974,15,Hot Chocolate,Hot drinks,1,149.0
+1975,1,Classic Margherita,Pizza,1,229.0
+1975,15,Hot Chocolate,Hot drinks,1,149.0
+1975,16,Filter Coffee,Hot drinks,1,79.0
+1976,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1976,16,Filter Coffee,Hot drinks,1,79.0
+1976,17,Iced Lemon Tea,Cold drinks,1,99.0
+1977,14,Masala Chai,Hot drinks,1,59.0
+1977,16,Filter Coffee,Hot drinks,2,79.0
+1978,6,Cheese Burger,Burgers,1,209.0
+1978,15,Hot Chocolate,Hot drinks,1,149.0
+1978,17,Iced Lemon Tea,Cold drinks,1,99.0
+1979,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1980,7,Crispy Chicken Burger,Burgers,1,219.0
+1980,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1980,22,Cheesecake Slice,Dessert,1,169.0
+1981,11,Veg Fried Rice,Pasta & Mains,1,169.0
+1982,5,Classic Burger,Burgers,1,189.0
+1982,6,Cheese Burger,Burgers,1,209.0
+1982,8,Paneer Burger,Burgers,1,199.0
+1983,14,Masala Chai,Hot drinks,1,59.0
+1983,16,Filter Coffee,Hot drinks,1,79.0
+1984,8,Paneer Burger,Burgers,1,199.0
+1984,9,Creamy Pasta,Pasta & Mains,1,209.0
+1984,24,Vanilla Sundae,Dessert,1,119.0
+1985,1,Classic Margherita,Pizza,1,229.0
+1985,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1985,6,Cheese Burger,Burgers,1,209.0
+1985,8,Paneer Burger,Burgers,1,199.0
+1985,9,Creamy Pasta,Pasta & Mains,1,209.0
+1986,14,Masala Chai,Hot drinks,1,59.0
+1986,23,Gulab Jamun,Dessert,1,89.0
+1987,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1987,24,Vanilla Sundae,Dessert,1,119.0
+1988,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1988,14,Masala Chai,Hot drinks,1,59.0
+1988,15,Hot Chocolate,Hot drinks,1,149.0
+1988,19,Mango Shake,Cold drinks,1,129.0
+1988,21,Chocolate Brownie,Dessert,1,129.0
+1988,22,Cheesecake Slice,Dessert,1,169.0
+1989,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1989,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+1989,14,Masala Chai,Hot drinks,1,59.0
+1990,3,Veggie Pizza,Pizza,1,249.0
+1990,19,Mango Shake,Cold drinks,1,129.0
+1991,7,Crispy Chicken Burger,Burgers,1,219.0
+1992,6,Cheese Burger,Burgers,1,209.0
+1992,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1992,22,Cheesecake Slice,Dessert,1,169.0
+1993,6,Cheese Burger,Burgers,1,209.0
+1993,22,Cheesecake Slice,Dessert,1,169.0
+1993,23,Gulab Jamun,Dessert,1,89.0
+1994,2,Pepperoni Supreme,Pizza,1,289.0
+1994,8,Paneer Burger,Burgers,1,199.0
+1995,24,Vanilla Sundae,Dessert,1,119.0
+1996,14,Masala Chai,Hot drinks,1,59.0
+1996,15,Hot Chocolate,Hot drinks,1,149.0
+1996,23,Gulab Jamun,Dessert,1,89.0
+1997,2,Pepperoni Supreme,Pizza,1,289.0
+1997,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+1997,13,Cappuccino,Hot drinks,1,129.0
+1997,17,Iced Lemon Tea,Cold drinks,1,99.0
+1997,19,Mango Shake,Cold drinks,1,129.0
+1998,2,Pepperoni Supreme,Pizza,1,289.0
+1998,4,Spicy Buffalo Blaze,Pizza,1,299.0
+1999,16,Filter Coffee,Hot drinks,1,79.0
+1999,17,Iced Lemon Tea,Cold drinks,1,99.0
+1999,19,Mango Shake,Cold drinks,1,129.0
+2000,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2001,8,Paneer Burger,Burgers,1,199.0
+2001,16,Filter Coffee,Hot drinks,1,79.0
+2001,22,Cheesecake Slice,Dessert,1,169.0
+2002,6,Cheese Burger,Burgers,1,209.0
+2002,7,Crispy Chicken Burger,Burgers,1,219.0
+2003,10,Arrabbiata Pasta,Pasta & Mains,2,199.0
+2004,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2004,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2004,17,Iced Lemon Tea,Cold drinks,1,99.0
+2005,2,Pepperoni Supreme,Pizza,1,289.0
+2005,7,Crispy Chicken Burger,Burgers,1,219.0
+2005,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2005,16,Filter Coffee,Hot drinks,1,79.0
+2005,20,Fresh Lime Soda,Cold drinks,1,69.0
+2005,22,Cheesecake Slice,Dessert,1,169.0
+2006,9,Creamy Pasta,Pasta & Mains,1,209.0
+2006,15,Hot Chocolate,Hot drinks,1,149.0
+2006,19,Mango Shake,Cold drinks,1,129.0
+2007,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2007,16,Filter Coffee,Hot drinks,1,79.0
+2007,20,Fresh Lime Soda,Cold drinks,1,69.0
+2007,23,Gulab Jamun,Dessert,1,89.0
+2008,2,Pepperoni Supreme,Pizza,2,289.0
+2008,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2008,17,Iced Lemon Tea,Cold drinks,1,99.0
+2009,8,Paneer Burger,Burgers,1,199.0
+2009,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2009,22,Cheesecake Slice,Dessert,1,169.0
+2010,1,Classic Margherita,Pizza,1,229.0
+2010,5,Classic Burger,Burgers,1,189.0
+2011,6,Cheese Burger,Burgers,1,209.0
+2011,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2011,18,Cold Coffee,Cold drinks,1,139.0
+2012,8,Paneer Burger,Burgers,2,199.0
+2013,16,Filter Coffee,Hot drinks,1,79.0
+2013,24,Vanilla Sundae,Dessert,1,119.0
+2014,5,Classic Burger,Burgers,1,189.0
+2014,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2014,23,Gulab Jamun,Dessert,1,89.0
+2015,5,Classic Burger,Burgers,1,189.0
+2015,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2016,1,Classic Margherita,Pizza,1,229.0
+2016,18,Cold Coffee,Cold drinks,1,139.0
+2017,3,Veggie Pizza,Pizza,1,249.0
+2017,5,Classic Burger,Burgers,1,189.0
+2017,17,Iced Lemon Tea,Cold drinks,1,99.0
+2018,1,Classic Margherita,Pizza,1,229.0
+2018,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2018,15,Hot Chocolate,Hot drinks,1,149.0
+2018,16,Filter Coffee,Hot drinks,1,79.0
+2018,23,Gulab Jamun,Dessert,1,89.0
+2018,24,Vanilla Sundae,Dessert,1,119.0
+2019,5,Classic Burger,Burgers,1,189.0
+2019,14,Masala Chai,Hot drinks,1,59.0
+2019,15,Hot Chocolate,Hot drinks,1,149.0
+2019,19,Mango Shake,Cold drinks,1,129.0
+2019,24,Vanilla Sundae,Dessert,1,119.0
+2020,8,Paneer Burger,Burgers,1,199.0
+2020,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2020,15,Hot Chocolate,Hot drinks,1,149.0
+2020,23,Gulab Jamun,Dessert,1,89.0
+2021,3,Veggie Pizza,Pizza,1,249.0
+2021,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2021,5,Classic Burger,Burgers,1,189.0
+2021,9,Creamy Pasta,Pasta & Mains,2,209.0
+2021,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2021,14,Masala Chai,Hot drinks,1,59.0
+2022,3,Veggie Pizza,Pizza,1,249.0
+2022,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2022,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2022,14,Masala Chai,Hot drinks,1,59.0
+2022,19,Mango Shake,Cold drinks,1,129.0
+2022,22,Cheesecake Slice,Dessert,1,169.0
+2022,23,Gulab Jamun,Dessert,1,89.0
+2023,6,Cheese Burger,Burgers,1,209.0
+2023,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2023,23,Gulab Jamun,Dessert,1,89.0
+2024,6,Cheese Burger,Burgers,1,209.0
+2024,13,Cappuccino,Hot drinks,1,129.0
+2024,23,Gulab Jamun,Dessert,1,89.0
+2025,9,Creamy Pasta,Pasta & Mains,1,209.0
+2025,18,Cold Coffee,Cold drinks,1,139.0
+2026,15,Hot Chocolate,Hot drinks,1,149.0
+2026,16,Filter Coffee,Hot drinks,1,79.0
+2026,19,Mango Shake,Cold drinks,1,129.0
+2027,16,Filter Coffee,Hot drinks,1,79.0
+2027,19,Mango Shake,Cold drinks,1,129.0
+2028,7,Crispy Chicken Burger,Burgers,2,219.0
+2029,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2030,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2030,21,Chocolate Brownie,Dessert,1,129.0
+2031,7,Crispy Chicken Burger,Burgers,1,219.0
+2032,2,Pepperoni Supreme,Pizza,1,289.0
+2032,3,Veggie Pizza,Pizza,1,249.0
+2032,8,Paneer Burger,Burgers,1,199.0
+2032,19,Mango Shake,Cold drinks,1,129.0
+2032,21,Chocolate Brownie,Dessert,1,129.0
+2033,13,Cappuccino,Hot drinks,1,129.0
+2033,15,Hot Chocolate,Hot drinks,1,149.0
+2033,16,Filter Coffee,Hot drinks,1,79.0
+2034,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2034,22,Cheesecake Slice,Dessert,1,169.0
+2035,2,Pepperoni Supreme,Pizza,1,289.0
+2036,1,Classic Margherita,Pizza,1,229.0
+2037,3,Veggie Pizza,Pizza,1,249.0
+2037,5,Classic Burger,Burgers,1,189.0
+2038,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2038,15,Hot Chocolate,Hot drinks,1,149.0
+2039,13,Cappuccino,Hot drinks,1,129.0
+2039,22,Cheesecake Slice,Dessert,1,169.0
+2040,2,Pepperoni Supreme,Pizza,1,289.0
+2040,5,Classic Burger,Burgers,1,189.0
+2041,2,Pepperoni Supreme,Pizza,1,289.0
+2041,7,Crispy Chicken Burger,Burgers,1,219.0
+2042,8,Paneer Burger,Burgers,1,199.0
+2042,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2042,24,Vanilla Sundae,Dessert,1,119.0
+2043,7,Crispy Chicken Burger,Burgers,1,219.0
+2044,9,Creamy Pasta,Pasta & Mains,1,209.0
+2044,15,Hot Chocolate,Hot drinks,2,149.0
+2044,19,Mango Shake,Cold drinks,1,129.0
+2044,22,Cheesecake Slice,Dessert,1,169.0
+2045,5,Classic Burger,Burgers,1,189.0
+2046,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2046,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2046,13,Cappuccino,Hot drinks,1,129.0
+2046,19,Mango Shake,Cold drinks,1,129.0
+2047,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2048,1,Classic Margherita,Pizza,1,229.0
+2048,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2048,19,Mango Shake,Cold drinks,1,129.0
+2049,5,Classic Burger,Burgers,1,189.0
+2049,8,Paneer Burger,Burgers,1,199.0
+2050,5,Classic Burger,Burgers,1,189.0
+2050,24,Vanilla Sundae,Dessert,2,119.0
+2051,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2051,23,Gulab Jamun,Dessert,1,89.0
+2052,8,Paneer Burger,Burgers,1,199.0
+2053,7,Crispy Chicken Burger,Burgers,1,219.0
+2053,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2053,13,Cappuccino,Hot drinks,1,129.0
+2053,19,Mango Shake,Cold drinks,1,129.0
+2053,23,Gulab Jamun,Dessert,1,89.0
+2054,16,Filter Coffee,Hot drinks,1,79.0
+2055,15,Hot Chocolate,Hot drinks,1,149.0
+2056,3,Veggie Pizza,Pizza,1,249.0
+2056,24,Vanilla Sundae,Dessert,1,119.0
+2057,19,Mango Shake,Cold drinks,1,129.0
+2057,24,Vanilla Sundae,Dessert,1,119.0
+2058,2,Pepperoni Supreme,Pizza,1,289.0
+2058,21,Chocolate Brownie,Dessert,1,129.0
+2059,6,Cheese Burger,Burgers,1,209.0
+2059,7,Crispy Chicken Burger,Burgers,1,219.0
+2060,3,Veggie Pizza,Pizza,2,249.0
+2060,8,Paneer Burger,Burgers,1,199.0
+2061,1,Classic Margherita,Pizza,1,229.0
+2061,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2061,19,Mango Shake,Cold drinks,1,129.0
+2062,1,Classic Margherita,Pizza,1,229.0
+2062,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2062,7,Crispy Chicken Burger,Burgers,1,219.0
+2062,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2062,15,Hot Chocolate,Hot drinks,1,149.0
+2062,19,Mango Shake,Cold drinks,1,129.0
+2063,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2064,1,Classic Margherita,Pizza,1,229.0
+2064,5,Classic Burger,Burgers,1,189.0
+2064,7,Crispy Chicken Burger,Burgers,1,219.0
+2064,9,Creamy Pasta,Pasta & Mains,1,209.0
+2064,24,Vanilla Sundae,Dessert,1,119.0
+2065,4,Spicy Buffalo Blaze,Pizza,2,299.0
+2065,18,Cold Coffee,Cold drinks,1,139.0
+2066,5,Classic Burger,Burgers,2,189.0
+2066,9,Creamy Pasta,Pasta & Mains,1,209.0
+2066,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2066,13,Cappuccino,Hot drinks,1,129.0
+2066,23,Gulab Jamun,Dessert,1,89.0
+2066,24,Vanilla Sundae,Dessert,1,119.0
+2067,1,Classic Margherita,Pizza,1,229.0
+2067,2,Pepperoni Supreme,Pizza,1,289.0
+2067,14,Masala Chai,Hot drinks,1,59.0
+2068,7,Crispy Chicken Burger,Burgers,1,219.0
+2068,16,Filter Coffee,Hot drinks,1,79.0
+2069,3,Veggie Pizza,Pizza,1,249.0
+2069,5,Classic Burger,Burgers,1,189.0
+2069,8,Paneer Burger,Burgers,1,199.0
+2069,15,Hot Chocolate,Hot drinks,1,149.0
+2070,3,Veggie Pizza,Pizza,1,249.0
+2070,7,Crispy Chicken Burger,Burgers,2,219.0
+2070,14,Masala Chai,Hot drinks,2,59.0
+2070,17,Iced Lemon Tea,Cold drinks,1,99.0
+2070,20,Fresh Lime Soda,Cold drinks,1,69.0
+2071,8,Paneer Burger,Burgers,1,199.0
+2071,16,Filter Coffee,Hot drinks,1,79.0
+2072,7,Crispy Chicken Burger,Burgers,1,219.0
+2072,21,Chocolate Brownie,Dessert,1,129.0
+2073,2,Pepperoni Supreme,Pizza,2,289.0
+2073,14,Masala Chai,Hot drinks,1,59.0
+2073,15,Hot Chocolate,Hot drinks,1,149.0
+2074,8,Paneer Burger,Burgers,1,199.0
+2074,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2074,16,Filter Coffee,Hot drinks,1,79.0
+2075,9,Creamy Pasta,Pasta & Mains,1,209.0
+2075,21,Chocolate Brownie,Dessert,1,129.0
+2076,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2076,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2076,13,Cappuccino,Hot drinks,1,129.0
+2076,14,Masala Chai,Hot drinks,1,59.0
+2076,17,Iced Lemon Tea,Cold drinks,1,99.0
+2076,19,Mango Shake,Cold drinks,2,129.0
+2077,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2077,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2078,5,Classic Burger,Burgers,1,189.0
+2078,9,Creamy Pasta,Pasta & Mains,1,209.0
+2078,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2078,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2078,19,Mango Shake,Cold drinks,1,129.0
+2079,10,Arrabbiata Pasta,Pasta & Mains,2,199.0
+2079,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2079,13,Cappuccino,Hot drinks,2,129.0
+2080,9,Creamy Pasta,Pasta & Mains,1,209.0
+2081,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2082,2,Pepperoni Supreme,Pizza,1,289.0
+2083,14,Masala Chai,Hot drinks,2,59.0
+2084,9,Creamy Pasta,Pasta & Mains,1,209.0
+2084,13,Cappuccino,Hot drinks,2,129.0
+2085,2,Pepperoni Supreme,Pizza,1,289.0
+2085,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2085,13,Cappuccino,Hot drinks,1,129.0
+2085,14,Masala Chai,Hot drinks,1,59.0
+2085,16,Filter Coffee,Hot drinks,1,79.0
+2086,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2086,14,Masala Chai,Hot drinks,1,59.0
+2086,17,Iced Lemon Tea,Cold drinks,1,99.0
+2087,2,Pepperoni Supreme,Pizza,1,289.0
+2087,5,Classic Burger,Burgers,1,189.0
+2087,9,Creamy Pasta,Pasta & Mains,1,209.0
+2087,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2087,19,Mango Shake,Cold drinks,1,129.0
+2088,2,Pepperoni Supreme,Pizza,2,289.0
+2089,5,Classic Burger,Burgers,1,189.0
+2089,14,Masala Chai,Hot drinks,1,59.0
+2089,23,Gulab Jamun,Dessert,2,89.0
+2090,1,Classic Margherita,Pizza,1,229.0
+2090,5,Classic Burger,Burgers,1,189.0
+2090,7,Crispy Chicken Burger,Burgers,1,219.0
+2090,16,Filter Coffee,Hot drinks,1,79.0
+2090,20,Fresh Lime Soda,Cold drinks,1,69.0
+2091,17,Iced Lemon Tea,Cold drinks,1,99.0
+2092,1,Classic Margherita,Pizza,2,229.0
+2092,5,Classic Burger,Burgers,1,189.0
+2093,21,Chocolate Brownie,Dessert,1,129.0
+2094,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2094,5,Classic Burger,Burgers,1,189.0
+2094,7,Crispy Chicken Burger,Burgers,1,219.0
+2094,14,Masala Chai,Hot drinks,1,59.0
+2094,23,Gulab Jamun,Dessert,1,89.0
+2095,1,Classic Margherita,Pizza,2,229.0
+2095,9,Creamy Pasta,Pasta & Mains,1,209.0
+2095,20,Fresh Lime Soda,Cold drinks,1,69.0
+2095,21,Chocolate Brownie,Dessert,1,129.0
+2096,8,Paneer Burger,Burgers,1,199.0
+2096,9,Creamy Pasta,Pasta & Mains,1,209.0
+2096,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2097,15,Hot Chocolate,Hot drinks,1,149.0
+2098,13,Cappuccino,Hot drinks,1,129.0
+2098,15,Hot Chocolate,Hot drinks,1,149.0
+2098,16,Filter Coffee,Hot drinks,1,79.0
+2098,18,Cold Coffee,Cold drinks,1,139.0
+2099,7,Crispy Chicken Burger,Burgers,1,219.0
+2099,23,Gulab Jamun,Dessert,1,89.0
+2100,16,Filter Coffee,Hot drinks,1,79.0
+2101,5,Classic Burger,Burgers,1,189.0
+2101,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2102,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2102,24,Vanilla Sundae,Dessert,1,119.0
+2103,5,Classic Burger,Burgers,1,189.0
+2103,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2103,13,Cappuccino,Hot drinks,1,129.0
+2103,15,Hot Chocolate,Hot drinks,1,149.0
+2103,19,Mango Shake,Cold drinks,1,129.0
+2103,23,Gulab Jamun,Dessert,1,89.0
+2103,24,Vanilla Sundae,Dessert,2,119.0
+2104,5,Classic Burger,Burgers,1,189.0
+2104,14,Masala Chai,Hot drinks,1,59.0
+2105,1,Classic Margherita,Pizza,1,229.0
+2105,7,Crispy Chicken Burger,Burgers,1,219.0
+2105,8,Paneer Burger,Burgers,2,199.0
+2105,18,Cold Coffee,Cold drinks,1,139.0
+2106,2,Pepperoni Supreme,Pizza,1,289.0
+2106,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2107,1,Classic Margherita,Pizza,1,229.0
+2107,2,Pepperoni Supreme,Pizza,1,289.0
+2107,3,Veggie Pizza,Pizza,2,249.0
+2108,17,Iced Lemon Tea,Cold drinks,2,99.0
+2109,7,Crispy Chicken Burger,Burgers,1,219.0
+2109,9,Creamy Pasta,Pasta & Mains,1,209.0
+2109,24,Vanilla Sundae,Dessert,1,119.0
+2110,18,Cold Coffee,Cold drinks,1,139.0
+2110,19,Mango Shake,Cold drinks,1,129.0
+2111,6,Cheese Burger,Burgers,1,209.0
+2112,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2112,9,Creamy Pasta,Pasta & Mains,1,209.0
+2113,3,Veggie Pizza,Pizza,1,249.0
+2113,5,Classic Burger,Burgers,1,189.0
+2113,6,Cheese Burger,Burgers,1,209.0
+2113,19,Mango Shake,Cold drinks,1,129.0
+2114,5,Classic Burger,Burgers,1,189.0
+2114,8,Paneer Burger,Burgers,1,199.0
+2114,11,Veg Fried Rice,Pasta & Mains,2,169.0
+2114,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2114,24,Vanilla Sundae,Dessert,2,119.0
+2115,19,Mango Shake,Cold drinks,1,129.0
+2116,9,Creamy Pasta,Pasta & Mains,1,209.0
+2116,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2116,15,Hot Chocolate,Hot drinks,1,149.0
+2117,2,Pepperoni Supreme,Pizza,1,289.0
+2117,7,Crispy Chicken Burger,Burgers,1,219.0
+2117,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2117,13,Cappuccino,Hot drinks,1,129.0
+2118,2,Pepperoni Supreme,Pizza,1,289.0
+2118,3,Veggie Pizza,Pizza,1,249.0
+2118,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2119,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2119,9,Creamy Pasta,Pasta & Mains,1,209.0
+2119,22,Cheesecake Slice,Dessert,1,169.0
+2120,2,Pepperoni Supreme,Pizza,1,289.0
+2120,6,Cheese Burger,Burgers,1,209.0
+2120,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2121,7,Crispy Chicken Burger,Burgers,1,219.0
+2121,9,Creamy Pasta,Pasta & Mains,2,209.0
+2121,19,Mango Shake,Cold drinks,1,129.0
+2121,20,Fresh Lime Soda,Cold drinks,1,69.0
+2122,13,Cappuccino,Hot drinks,1,129.0
+2123,19,Mango Shake,Cold drinks,1,129.0
+2124,3,Veggie Pizza,Pizza,1,249.0
+2124,23,Gulab Jamun,Dessert,1,89.0
+2125,1,Classic Margherita,Pizza,1,229.0
+2126,2,Pepperoni Supreme,Pizza,1,289.0
+2126,8,Paneer Burger,Burgers,1,199.0
+2126,16,Filter Coffee,Hot drinks,1,79.0
+2126,24,Vanilla Sundae,Dessert,1,119.0
+2127,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2127,15,Hot Chocolate,Hot drinks,1,149.0
+2127,16,Filter Coffee,Hot drinks,1,79.0
+2128,8,Paneer Burger,Burgers,2,199.0
+2128,14,Masala Chai,Hot drinks,1,59.0
+2128,20,Fresh Lime Soda,Cold drinks,1,69.0
+2129,9,Creamy Pasta,Pasta & Mains,1,209.0
+2129,24,Vanilla Sundae,Dessert,1,119.0
+2130,1,Classic Margherita,Pizza,1,229.0
+2130,13,Cappuccino,Hot drinks,1,129.0
+2130,14,Masala Chai,Hot drinks,1,59.0
+2130,17,Iced Lemon Tea,Cold drinks,1,99.0
+2131,3,Veggie Pizza,Pizza,1,249.0
+2131,5,Classic Burger,Burgers,1,189.0
+2131,18,Cold Coffee,Cold drinks,1,139.0
+2131,23,Gulab Jamun,Dessert,1,89.0
+2132,3,Veggie Pizza,Pizza,1,249.0
+2132,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2132,14,Masala Chai,Hot drinks,1,59.0
+2132,19,Mango Shake,Cold drinks,2,129.0
+2133,14,Masala Chai,Hot drinks,1,59.0
+2134,14,Masala Chai,Hot drinks,1,59.0
+2135,1,Classic Margherita,Pizza,1,229.0
+2135,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2135,5,Classic Burger,Burgers,1,189.0
+2135,17,Iced Lemon Tea,Cold drinks,1,99.0
+2136,5,Classic Burger,Burgers,2,189.0
+2136,8,Paneer Burger,Burgers,1,199.0
+2137,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2137,5,Classic Burger,Burgers,1,189.0
+2137,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2137,14,Masala Chai,Hot drinks,1,59.0
+2137,23,Gulab Jamun,Dessert,1,89.0
+2138,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2139,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2140,13,Cappuccino,Hot drinks,2,129.0
+2140,14,Masala Chai,Hot drinks,2,59.0
+2140,17,Iced Lemon Tea,Cold drinks,1,99.0
+2140,22,Cheesecake Slice,Dessert,1,169.0
+2141,5,Classic Burger,Burgers,1,189.0
+2141,7,Crispy Chicken Burger,Burgers,1,219.0
+2141,10,Arrabbiata Pasta,Pasta & Mains,2,199.0
+2141,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2141,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2142,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2142,14,Masala Chai,Hot drinks,1,59.0
+2143,1,Classic Margherita,Pizza,1,229.0
+2143,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2143,6,Cheese Burger,Burgers,1,209.0
+2143,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2143,13,Cappuccino,Hot drinks,1,129.0
+2143,14,Masala Chai,Hot drinks,1,59.0
+2143,16,Filter Coffee,Hot drinks,1,79.0
+2143,21,Chocolate Brownie,Dessert,1,129.0
+2144,3,Veggie Pizza,Pizza,1,249.0
+2144,8,Paneer Burger,Burgers,1,199.0
+2144,13,Cappuccino,Hot drinks,1,129.0
+2144,19,Mango Shake,Cold drinks,1,129.0
+2145,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2145,24,Vanilla Sundae,Dessert,1,119.0
+2146,2,Pepperoni Supreme,Pizza,1,289.0
+2146,21,Chocolate Brownie,Dessert,1,129.0
+2147,17,Iced Lemon Tea,Cold drinks,1,99.0
+2147,19,Mango Shake,Cold drinks,1,129.0
+2148,18,Cold Coffee,Cold drinks,1,139.0
+2149,5,Classic Burger,Burgers,1,189.0
+2149,8,Paneer Burger,Burgers,1,199.0
+2149,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2149,13,Cappuccino,Hot drinks,1,129.0
+2149,23,Gulab Jamun,Dessert,1,89.0
+2150,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2150,9,Creamy Pasta,Pasta & Mains,1,209.0
+2150,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2150,23,Gulab Jamun,Dessert,2,89.0
+2151,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2151,13,Cappuccino,Hot drinks,1,129.0
+2151,23,Gulab Jamun,Dessert,1,89.0
+2151,24,Vanilla Sundae,Dessert,1,119.0
+2152,8,Paneer Burger,Burgers,1,199.0
+2152,13,Cappuccino,Hot drinks,1,129.0
+2152,16,Filter Coffee,Hot drinks,1,79.0
+2153,3,Veggie Pizza,Pizza,1,249.0
+2153,22,Cheesecake Slice,Dessert,1,169.0
+2154,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2154,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2155,13,Cappuccino,Hot drinks,1,129.0
+2156,2,Pepperoni Supreme,Pizza,1,289.0
+2156,5,Classic Burger,Burgers,1,189.0
+2156,8,Paneer Burger,Burgers,1,199.0
+2156,16,Filter Coffee,Hot drinks,1,79.0
+2156,19,Mango Shake,Cold drinks,1,129.0
+2157,21,Chocolate Brownie,Dessert,1,129.0
+2157,24,Vanilla Sundae,Dessert,1,119.0
+2158,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2158,21,Chocolate Brownie,Dessert,1,129.0
+2158,22,Cheesecake Slice,Dessert,1,169.0
+2159,5,Classic Burger,Burgers,1,189.0
+2159,20,Fresh Lime Soda,Cold drinks,1,69.0
+2160,2,Pepperoni Supreme,Pizza,1,289.0
+2160,5,Classic Burger,Burgers,1,189.0
+2160,9,Creamy Pasta,Pasta & Mains,1,209.0
+2160,21,Chocolate Brownie,Dessert,1,129.0
+2160,24,Vanilla Sundae,Dessert,2,119.0
+2161,1,Classic Margherita,Pizza,1,229.0
+2161,6,Cheese Burger,Burgers,1,209.0
+2161,13,Cappuccino,Hot drinks,1,129.0
+2161,16,Filter Coffee,Hot drinks,1,79.0
+2161,17,Iced Lemon Tea,Cold drinks,1,99.0
+2162,19,Mango Shake,Cold drinks,2,129.0
+2162,24,Vanilla Sundae,Dessert,1,119.0
+2163,9,Creamy Pasta,Pasta & Mains,1,209.0
+2163,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2163,13,Cappuccino,Hot drinks,1,129.0
+2163,17,Iced Lemon Tea,Cold drinks,2,99.0
+2164,13,Cappuccino,Hot drinks,1,129.0
+2164,17,Iced Lemon Tea,Cold drinks,1,99.0
+2164,20,Fresh Lime Soda,Cold drinks,2,69.0
+2164,22,Cheesecake Slice,Dessert,1,169.0
+2165,2,Pepperoni Supreme,Pizza,1,289.0
+2165,9,Creamy Pasta,Pasta & Mains,1,209.0
+2166,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2166,14,Masala Chai,Hot drinks,1,59.0
+2166,15,Hot Chocolate,Hot drinks,1,149.0
+2166,18,Cold Coffee,Cold drinks,1,139.0
+2166,24,Vanilla Sundae,Dessert,1,119.0
+2167,3,Veggie Pizza,Pizza,1,249.0
+2167,8,Paneer Burger,Burgers,1,199.0
+2167,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2167,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2167,13,Cappuccino,Hot drinks,1,129.0
+2168,15,Hot Chocolate,Hot drinks,1,149.0
+2169,8,Paneer Burger,Burgers,1,199.0
+2169,19,Mango Shake,Cold drinks,1,129.0
+2169,22,Cheesecake Slice,Dessert,1,169.0
+2169,24,Vanilla Sundae,Dessert,1,119.0
+2170,1,Classic Margherita,Pizza,1,229.0
+2170,7,Crispy Chicken Burger,Burgers,1,219.0
+2170,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2170,16,Filter Coffee,Hot drinks,1,79.0
+2171,7,Crispy Chicken Burger,Burgers,1,219.0
+2171,22,Cheesecake Slice,Dessert,1,169.0
+2172,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2172,19,Mango Shake,Cold drinks,1,129.0
+2173,2,Pepperoni Supreme,Pizza,1,289.0
+2173,7,Crispy Chicken Burger,Burgers,1,219.0
+2173,9,Creamy Pasta,Pasta & Mains,1,209.0
+2173,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2173,19,Mango Shake,Cold drinks,1,129.0
+2173,23,Gulab Jamun,Dessert,1,89.0
+2174,3,Veggie Pizza,Pizza,1,249.0
+2174,9,Creamy Pasta,Pasta & Mains,1,209.0
+2174,13,Cappuccino,Hot drinks,1,129.0
+2174,16,Filter Coffee,Hot drinks,1,79.0
+2175,6,Cheese Burger,Burgers,1,209.0
+2175,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2176,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2176,8,Paneer Burger,Burgers,1,199.0
+2176,23,Gulab Jamun,Dessert,1,89.0
+2177,19,Mango Shake,Cold drinks,1,129.0
+2177,23,Gulab Jamun,Dessert,1,89.0
+2178,22,Cheesecake Slice,Dessert,1,169.0
+2179,8,Paneer Burger,Burgers,1,199.0
+2179,22,Cheesecake Slice,Dessert,1,169.0
+2180,1,Classic Margherita,Pizza,1,229.0
+2180,24,Vanilla Sundae,Dessert,1,119.0
+2181,5,Classic Burger,Burgers,1,189.0
+2181,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2181,23,Gulab Jamun,Dessert,1,89.0
+2182,9,Creamy Pasta,Pasta & Mains,1,209.0
+2182,13,Cappuccino,Hot drinks,1,129.0
+2183,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2183,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2184,14,Masala Chai,Hot drinks,1,59.0
+2184,21,Chocolate Brownie,Dessert,2,129.0
+2185,5,Classic Burger,Burgers,1,189.0
+2185,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2185,15,Hot Chocolate,Hot drinks,1,149.0
+2186,8,Paneer Burger,Burgers,1,199.0
+2187,2,Pepperoni Supreme,Pizza,1,289.0
+2187,9,Creamy Pasta,Pasta & Mains,1,209.0
+2188,7,Crispy Chicken Burger,Burgers,1,219.0
+2188,24,Vanilla Sundae,Dessert,1,119.0
+2189,14,Masala Chai,Hot drinks,1,59.0
+2190,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2190,15,Hot Chocolate,Hot drinks,1,149.0
+2191,3,Veggie Pizza,Pizza,1,249.0
+2192,1,Classic Margherita,Pizza,1,229.0
+2192,22,Cheesecake Slice,Dessert,1,169.0
+2192,24,Vanilla Sundae,Dessert,1,119.0
+2193,4,Spicy Buffalo Blaze,Pizza,2,299.0
+2193,6,Cheese Burger,Burgers,1,209.0
+2193,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2193,13,Cappuccino,Hot drinks,1,129.0
+2193,19,Mango Shake,Cold drinks,1,129.0
+2193,22,Cheesecake Slice,Dessert,1,169.0
+2193,24,Vanilla Sundae,Dessert,1,119.0
+2194,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2194,7,Crispy Chicken Burger,Burgers,1,219.0
+2194,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2194,14,Masala Chai,Hot drinks,1,59.0
+2195,2,Pepperoni Supreme,Pizza,1,289.0
+2195,8,Paneer Burger,Burgers,1,199.0
+2195,9,Creamy Pasta,Pasta & Mains,1,209.0
+2195,16,Filter Coffee,Hot drinks,1,79.0
+2196,3,Veggie Pizza,Pizza,1,249.0
+2196,7,Crispy Chicken Burger,Burgers,1,219.0
+2197,1,Classic Margherita,Pizza,1,229.0
+2197,2,Pepperoni Supreme,Pizza,2,289.0
+2197,19,Mango Shake,Cold drinks,1,129.0
+2198,9,Creamy Pasta,Pasta & Mains,1,209.0
+2199,16,Filter Coffee,Hot drinks,1,79.0
+2200,3,Veggie Pizza,Pizza,1,249.0
+2200,5,Classic Burger,Burgers,1,189.0
+2200,15,Hot Chocolate,Hot drinks,1,149.0
+2200,17,Iced Lemon Tea,Cold drinks,1,99.0
+2201,2,Pepperoni Supreme,Pizza,1,289.0
+2201,23,Gulab Jamun,Dessert,1,89.0
+2202,14,Masala Chai,Hot drinks,1,59.0
+2202,16,Filter Coffee,Hot drinks,2,79.0
+2203,1,Classic Margherita,Pizza,2,229.0
+2203,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2204,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2204,7,Crispy Chicken Burger,Burgers,1,219.0
+2204,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2204,16,Filter Coffee,Hot drinks,1,79.0
+2204,22,Cheesecake Slice,Dessert,1,169.0
+2205,6,Cheese Burger,Burgers,1,209.0
+2206,2,Pepperoni Supreme,Pizza,1,289.0
+2206,14,Masala Chai,Hot drinks,1,59.0
+2206,16,Filter Coffee,Hot drinks,1,79.0
+2206,19,Mango Shake,Cold drinks,1,129.0
+2207,2,Pepperoni Supreme,Pizza,1,289.0
+2207,14,Masala Chai,Hot drinks,1,59.0
+2208,19,Mango Shake,Cold drinks,1,129.0
+2208,24,Vanilla Sundae,Dessert,2,119.0
+2209,1,Classic Margherita,Pizza,1,229.0
+2209,2,Pepperoni Supreme,Pizza,1,289.0
+2210,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2210,21,Chocolate Brownie,Dessert,1,129.0
+2211,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2211,7,Crispy Chicken Burger,Burgers,1,219.0
+2212,2,Pepperoni Supreme,Pizza,1,289.0
+2212,3,Veggie Pizza,Pizza,1,249.0
+2212,7,Crispy Chicken Burger,Burgers,1,219.0
+2213,23,Gulab Jamun,Dessert,1,89.0
+2214,17,Iced Lemon Tea,Cold drinks,1,99.0
+2214,18,Cold Coffee,Cold drinks,1,139.0
+2214,22,Cheesecake Slice,Dessert,1,169.0
+2215,1,Classic Margherita,Pizza,1,229.0
+2216,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2216,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2216,14,Masala Chai,Hot drinks,1,59.0
+2216,18,Cold Coffee,Cold drinks,1,139.0
+2216,24,Vanilla Sundae,Dessert,2,119.0
+2217,15,Hot Chocolate,Hot drinks,1,149.0
+2217,17,Iced Lemon Tea,Cold drinks,1,99.0
+2218,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2218,7,Crispy Chicken Burger,Burgers,1,219.0
+2218,23,Gulab Jamun,Dessert,1,89.0
+2219,3,Veggie Pizza,Pizza,1,249.0
+2220,1,Classic Margherita,Pizza,1,229.0
+2220,2,Pepperoni Supreme,Pizza,1,289.0
+2220,3,Veggie Pizza,Pizza,1,249.0
+2220,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2220,20,Fresh Lime Soda,Cold drinks,1,69.0
+2221,15,Hot Chocolate,Hot drinks,1,149.0
+2221,22,Cheesecake Slice,Dessert,1,169.0
+2222,2,Pepperoni Supreme,Pizza,1,289.0
+2222,17,Iced Lemon Tea,Cold drinks,1,99.0
+2222,22,Cheesecake Slice,Dessert,1,169.0
+2222,23,Gulab Jamun,Dessert,1,89.0
+2223,1,Classic Margherita,Pizza,1,229.0
+2223,14,Masala Chai,Hot drinks,1,59.0
+2223,15,Hot Chocolate,Hot drinks,1,149.0
+2224,5,Classic Burger,Burgers,1,189.0
+2224,14,Masala Chai,Hot drinks,1,59.0
+2224,23,Gulab Jamun,Dessert,1,89.0
+2225,17,Iced Lemon Tea,Cold drinks,1,99.0
+2226,18,Cold Coffee,Cold drinks,1,139.0
+2227,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2228,5,Classic Burger,Burgers,1,189.0
+2228,7,Crispy Chicken Burger,Burgers,2,219.0
+2228,9,Creamy Pasta,Pasta & Mains,1,209.0
+2228,19,Mango Shake,Cold drinks,1,129.0
+2228,22,Cheesecake Slice,Dessert,1,169.0
+2228,23,Gulab Jamun,Dessert,1,89.0
+2229,7,Crispy Chicken Burger,Burgers,1,219.0
+2229,8,Paneer Burger,Burgers,1,199.0
+2229,17,Iced Lemon Tea,Cold drinks,1,99.0
+2230,13,Cappuccino,Hot drinks,1,129.0
+2230,14,Masala Chai,Hot drinks,1,59.0
+2231,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2231,19,Mango Shake,Cold drinks,1,129.0
+2231,21,Chocolate Brownie,Dessert,1,129.0
+2231,22,Cheesecake Slice,Dessert,1,169.0
+2232,1,Classic Margherita,Pizza,1,229.0
+2232,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2232,13,Cappuccino,Hot drinks,1,129.0
+2232,17,Iced Lemon Tea,Cold drinks,1,99.0
+2233,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2234,3,Veggie Pizza,Pizza,1,249.0
+2234,10,Arrabbiata Pasta,Pasta & Mains,2,199.0
+2234,23,Gulab Jamun,Dessert,1,89.0
+2235,2,Pepperoni Supreme,Pizza,1,289.0
+2236,14,Masala Chai,Hot drinks,1,59.0
+2236,16,Filter Coffee,Hot drinks,1,79.0
+2236,18,Cold Coffee,Cold drinks,1,139.0
+2237,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2237,7,Crispy Chicken Burger,Burgers,1,219.0
+2237,16,Filter Coffee,Hot drinks,1,79.0
+2238,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2238,16,Filter Coffee,Hot drinks,1,79.0
+2238,23,Gulab Jamun,Dessert,1,89.0
+2239,13,Cappuccino,Hot drinks,1,129.0
+2239,16,Filter Coffee,Hot drinks,1,79.0
+2240,2,Pepperoni Supreme,Pizza,1,289.0
+2240,3,Veggie Pizza,Pizza,1,249.0
+2240,22,Cheesecake Slice,Dessert,1,169.0
+2241,3,Veggie Pizza,Pizza,1,249.0
+2241,6,Cheese Burger,Burgers,1,209.0
+2241,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2241,15,Hot Chocolate,Hot drinks,1,149.0
+2242,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2243,5,Classic Burger,Burgers,1,189.0
+2243,7,Crispy Chicken Burger,Burgers,1,219.0
+2243,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2244,5,Classic Burger,Burgers,1,189.0
+2244,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2244,13,Cappuccino,Hot drinks,1,129.0
+2244,15,Hot Chocolate,Hot drinks,1,149.0
+2244,19,Mango Shake,Cold drinks,1,129.0
+2244,23,Gulab Jamun,Dessert,1,89.0
+2245,5,Classic Burger,Burgers,1,189.0
+2245,7,Crispy Chicken Burger,Burgers,1,219.0
+2245,8,Paneer Burger,Burgers,1,199.0
+2245,9,Creamy Pasta,Pasta & Mains,1,209.0
+2245,22,Cheesecake Slice,Dessert,1,169.0
+2246,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2247,17,Iced Lemon Tea,Cold drinks,1,99.0
+2247,23,Gulab Jamun,Dessert,1,89.0
+2248,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2248,5,Classic Burger,Burgers,1,189.0
+2249,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2249,19,Mango Shake,Cold drinks,1,129.0
+2250,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2250,23,Gulab Jamun,Dessert,1,89.0
+2251,16,Filter Coffee,Hot drinks,1,79.0
+2251,20,Fresh Lime Soda,Cold drinks,1,69.0
+2252,1,Classic Margherita,Pizza,1,229.0
+2252,21,Chocolate Brownie,Dessert,1,129.0
+2253,2,Pepperoni Supreme,Pizza,1,289.0
+2253,23,Gulab Jamun,Dessert,1,89.0
+2254,19,Mango Shake,Cold drinks,1,129.0
+2254,20,Fresh Lime Soda,Cold drinks,1,69.0
+2254,22,Cheesecake Slice,Dessert,2,169.0
+2255,19,Mango Shake,Cold drinks,1,129.0
+2255,20,Fresh Lime Soda,Cold drinks,1,69.0
+2256,13,Cappuccino,Hot drinks,1,129.0
+2256,17,Iced Lemon Tea,Cold drinks,1,99.0
+2257,5,Classic Burger,Burgers,1,189.0
+2257,8,Paneer Burger,Burgers,1,199.0
+2257,12,Butter Chicken Bowl,Pasta & Mains,1,279.0
+2257,15,Hot Chocolate,Hot drinks,1,149.0
+2257,19,Mango Shake,Cold drinks,1,129.0
+2258,5,Classic Burger,Burgers,1,189.0
+2259,5,Classic Burger,Burgers,1,189.0
+2259,9,Creamy Pasta,Pasta & Mains,1,209.0
+2259,21,Chocolate Brownie,Dessert,1,129.0
+2259,24,Vanilla Sundae,Dessert,1,119.0
+2260,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2260,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2260,13,Cappuccino,Hot drinks,1,129.0
+2260,19,Mango Shake,Cold drinks,1,129.0
+2261,2,Pepperoni Supreme,Pizza,1,289.0
+2262,3,Veggie Pizza,Pizza,1,249.0
+2262,24,Vanilla Sundae,Dessert,2,119.0
+2263,8,Paneer Burger,Burgers,2,199.0
+2264,16,Filter Coffee,Hot drinks,1,79.0
+2265,5,Classic Burger,Burgers,1,189.0
+2266,5,Classic Burger,Burgers,1,189.0
+2267,3,Veggie Pizza,Pizza,1,249.0
+2267,5,Classic Burger,Burgers,1,189.0
+2267,9,Creamy Pasta,Pasta & Mains,1,209.0
+2267,14,Masala Chai,Hot drinks,1,59.0
+2267,19,Mango Shake,Cold drinks,1,129.0
+2268,7,Crispy Chicken Burger,Burgers,1,219.0
+2268,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2268,11,Veg Fried Rice,Pasta & Mains,1,169.0
+2268,19,Mango Shake,Cold drinks,1,129.0
+2269,15,Hot Chocolate,Hot drinks,1,149.0
+2269,19,Mango Shake,Cold drinks,1,129.0
+2269,22,Cheesecake Slice,Dessert,1,169.0
+2270,2,Pepperoni Supreme,Pizza,1,289.0
+2270,23,Gulab Jamun,Dessert,1,89.0
+2270,24,Vanilla Sundae,Dessert,1,119.0
+2271,6,Cheese Burger,Burgers,1,209.0
+2271,22,Cheesecake Slice,Dessert,1,169.0
+2272,1,Classic Margherita,Pizza,2,229.0
+2272,3,Veggie Pizza,Pizza,2,249.0
+2272,5,Classic Burger,Burgers,1,189.0
+2272,6,Cheese Burger,Burgers,1,209.0
+2272,8,Paneer Burger,Burgers,1,199.0
+2272,9,Creamy Pasta,Pasta & Mains,1,209.0
+2272,18,Cold Coffee,Cold drinks,1,139.0
+2273,19,Mango Shake,Cold drinks,1,129.0
+2274,19,Mango Shake,Cold drinks,1,129.0
+2275,2,Pepperoni Supreme,Pizza,1,289.0
+2275,3,Veggie Pizza,Pizza,1,249.0
+2275,24,Vanilla Sundae,Dessert,1,119.0
+2276,7,Crispy Chicken Burger,Burgers,1,219.0
+2276,9,Creamy Pasta,Pasta & Mains,1,209.0
+2276,14,Masala Chai,Hot drinks,1,59.0
+2276,17,Iced Lemon Tea,Cold drinks,1,99.0
+2276,22,Cheesecake Slice,Dessert,1,169.0
+2277,2,Pepperoni Supreme,Pizza,1,289.0
+2277,23,Gulab Jamun,Dessert,1,89.0
+2278,1,Classic Margherita,Pizza,1,229.0
+2279,24,Vanilla Sundae,Dessert,1,119.0
+2280,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2280,13,Cappuccino,Hot drinks,1,129.0
+2280,17,Iced Lemon Tea,Cold drinks,1,99.0
+2280,23,Gulab Jamun,Dessert,1,89.0
+2281,13,Cappuccino,Hot drinks,1,129.0
+2281,19,Mango Shake,Cold drinks,1,129.0
+2282,1,Classic Margherita,Pizza,1,229.0
+2282,8,Paneer Burger,Burgers,1,199.0
+2282,24,Vanilla Sundae,Dessert,1,119.0
+2283,3,Veggie Pizza,Pizza,1,249.0
+2283,5,Classic Burger,Burgers,1,189.0
+2283,14,Masala Chai,Hot drinks,1,59.0
+2284,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2284,6,Cheese Burger,Burgers,1,209.0
+2284,7,Crispy Chicken Burger,Burgers,1,219.0
+2284,9,Creamy Pasta,Pasta & Mains,1,209.0
+2284,13,Cappuccino,Hot drinks,1,129.0
+2284,16,Filter Coffee,Hot drinks,1,79.0
+2284,23,Gulab Jamun,Dessert,1,89.0
+2285,1,Classic Margherita,Pizza,1,229.0
+2285,8,Paneer Burger,Burgers,1,199.0
+2285,16,Filter Coffee,Hot drinks,1,79.0
+2285,20,Fresh Lime Soda,Cold drinks,1,69.0
+2286,16,Filter Coffee,Hot drinks,1,79.0
+2286,23,Gulab Jamun,Dessert,1,89.0
+2287,8,Paneer Burger,Burgers,1,199.0
+2287,16,Filter Coffee,Hot drinks,1,79.0
+2287,23,Gulab Jamun,Dessert,1,89.0
+2288,3,Veggie Pizza,Pizza,1,249.0
+2288,5,Classic Burger,Burgers,1,189.0
+2288,22,Cheesecake Slice,Dessert,1,169.0
+2289,2,Pepperoni Supreme,Pizza,1,289.0
+2289,19,Mango Shake,Cold drinks,1,129.0
+2289,20,Fresh Lime Soda,Cold drinks,1,69.0
+2290,8,Paneer Burger,Burgers,1,199.0
+2290,12,Butter Chicken Bowl,Pasta & Mains,2,279.0
+2290,19,Mango Shake,Cold drinks,1,129.0
+2291,2,Pepperoni Supreme,Pizza,1,289.0
+2291,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2291,17,Iced Lemon Tea,Cold drinks,1,99.0
+2291,23,Gulab Jamun,Dessert,2,89.0
+2292,5,Classic Burger,Burgers,1,189.0
+2292,10,Arrabbiata Pasta,Pasta & Mains,1,199.0
+2292,24,Vanilla Sundae,Dessert,1,119.0
+2293,4,Spicy Buffalo Blaze,Pizza,1,299.0
+2293,7,Crispy Chicken Burger,Burgers,1,219.0
+2293,9,Creamy Pasta,Pasta & Mains,1,209.0
+2294,3,Veggie Pizza,Pizza,1,249.0
+2294,15,Hot Chocolate,Hot drinks,1,149.0
+2295,23,Gulab Jamun,Dessert,1,89.0
+2296,1,Classic Margherita,Pizza,1,229.0
+2297,1,Classic Margherita,Pizza,1,229.0
+2297,3,Veggie Pizza,Pizza,1,249.0
